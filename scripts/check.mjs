@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import * as cheerio from 'cheerio';
+const root=path.resolve('dist'), errors=[];
+async function walk(dir){const result=[];for(const e of await fs.readdir(dir,{withFileTypes:true})){const f=path.join(dir,e.name);if(e.isDirectory())result.push(...await walk(f));else result.push(f);}return result;}
+const files=await walk(root),available=new Set(files.map(f=>'/'+path.relative(root,f).replaceAll('\\','/')));
+function exists(v){return available.has(v)||available.has(v+'/index.html')||available.has(v+'index.html')||available.has(v+'.html');}
+function verify(value,file){if(!value||/^(data:|mailto:|tel:|https?:|#|\/\/)/i.test(value))return;let u;try{u=new URL(value,'http://local'+file)}catch{errors.push(file+': invalid URL '+value);return}if(!exists(decodeURI(u.pathname)))errors.push(file+': missing '+u.pathname);}
+for(const file of files){const route='/'+path.relative(root,file).replaceAll('\\','/');if(file.endsWith('.html')){const text=await fs.readFile(file,'utf8'),$=cheerio.load(text);if($('base,script[src^="http"],.kh-languages,input[type="file"]').length)errors.push(route+': forbidden dynamic element');$('a[href],link[href],img[src],source[src],script[src]').each((_,e)=>verify($(e).attr('href')||$(e).attr('src'),route));$('[srcset]').each((_,e)=>$(e).attr('srcset').split(',').forEach(v=>verify(v.trim().split(/\s+/)[0],route)));$('style,[style]').each((_,e)=>{const css=$(e).attr('style')||$(e).text();for(const m of css.matchAll(/url\(["']?([^)'"\s]+)["']?\)/g))verify(m[1],route);});$('form').each((_,e)=>{if($(e).attr('action')!=='/tim-kiem.html')errors.push(route+': non-search form');});}else if(file.endsWith('.css')){for(const m of (await fs.readFile(file,'utf8')).matchAll(/url\(["']?([^)'"\s]+)["']?\)/g))verify(m[1],route);}if((await fs.stat(file)).size>25*1024*1024)errors.push(route+': exceeds Pages file limit');}
+const result={files:files.length,htmlPages:files.filter(f=>f.endsWith('.html')).length,errors:[...new Set(errors)]};console.log(JSON.stringify(result,null,2));if(errors.length)process.exitCode=1;

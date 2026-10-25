@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+import * as cheerio from 'cheerio';
+const html = await (await fetch('https://cokhitonghop.vn/')).text();
+await fs.mkdir('.cache', {recursive:true});
+await fs.writeFile('.cache/home.html',html);
+const $=cheerio.load(html);
+console.log('Assets', $('link[href],script[src]').map((_,e)=>$(e).attr('href')||$(e).attr('src')).get());
+console.log('Links', [...new Set($('a[href]').map((_,e)=>$(e).attr('href')).get())]);
+console.log('Forms', $('form').map((_,e)=>$.html(e)).get());
+console.log('Inline scripts', $('script:not([src])').map((_,e)=>$(e).text()).get());

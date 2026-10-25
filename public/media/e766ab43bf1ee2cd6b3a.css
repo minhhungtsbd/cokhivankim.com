@@ -1,0 +1,114 @@
+.container {
+	display: block;
+	margin: 0px auto;
+}
+
+#iview {
+	display: block;
+	min-width: 300px;
+	position: relative;
+	overflow: hidden;
+}
+
+#iview .iviewSlider {
+	display: block;
+	width: 1367px;
+	height: 456px;
+	overflow: hidden;
+	background-size: cover;
+}
+#iview .iviewSlider a{position: absolute; display: block; width: 100%; height: 100%; z-index: 10;}
+
+
+#iview div.iview-directionNav {
+	position: absolute;
+	top: 47%;
+	left: 0px;
+	z-index: 9;
+	width: 100%;
+}
+
+#iview div.iview-directionNav a {
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	background-image: url("/media/d6cfbd0d0fe1b34a2dde.png");
+	text-indent: -9999px;
+	-webkit-transition: left 0.3s ease-in-out;
+	-webkit-transition-property: left,right;
+	-moz-transition: left 0.3s ease-in-out;
+	-moz-transition-property: left,right;
+	-o-transition: left 0.3s ease-in-out;
+	-o-transition-property: left,right;
+	-ms-transition: left 0.3s ease-in-out;
+	-ms-transition-property: left,right;
+	transition: left 0.3s ease-in-out;
+	transition-property: left,right;
+}
+
+#iview div.iview-directionNav a.iview-nextNav {
+	right: 5%;
+	background: url("/media/aa5aa489b383cd5b9426.png")no-repeat;
+}
+
+#iview div.iview-directionNav a.iview-prevNav {
+	left: 5%;
+	background: url("/media/9922b0d9dc1a1e509736.png")no-repeat;
+}
+
+#iview.iview-hover div.iview-directionNav a.iview-nextNav {
+	
+}
+
+#iview.iview-hover div.iview-directionNav a.iview-prevNav {
+	
+}
+
+.iview-caption {
+	background: url("/media/1824bd6405fde8cb0cec.png");
+	color: #FFF;
+	border-radius: 3px;
+	padding: 10px 15px;
+	font-family: Verdana;
+	font-size: 12px;
+	text-shadow: #000 1px 1px 0px;
+}
+
+.iview-caption.caption1 {
+	text-shadow: none;
+}
+
+.iview-caption.caption2 {
+	background: #FFF;
+	color: #000;
+	text-shadow: none;
+}
+
+.iview-caption.caption3 {
+	background: #c4302b;
+	box-shadow: rgba(0, 0, 0, 0.7) 10px 10px 15px 0px;
+	text-shadow: none;
+}
+
+#iview-preloader {
+	border: #666 1px solid;
+	width: 150px
+}
+
+#iview-preloader div {
+	background: #666;
+}
+#iview-timer {
+	border-radius: 10px;
+}
+
+#iview-timer div {
+	border-radius: 10px;
+}
+
+
+@media(max-width: 420px) {
+	#iview div.iview-directionNav a.iview-prevNav, #iview div.iview-directionNav a.iview-nextNav {background-size: 30px;}
+}

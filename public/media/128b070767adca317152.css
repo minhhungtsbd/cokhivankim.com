@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'uvn_mua_thuregular';
+    src: url("/media/d969fb2b74d420fc068f.woff2") format('woff2'),
+         url("/media/8f4c1db290f53b4ae928.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'utm_aptimabold';
+    src: url("/media/408b1c82794a515ca077.woff2") format('woff2'),
+         url("/media/e582f60cee0b34f3d7e2.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansregular';
+    src: url("/media/f760fccdf6df8d95c267.woff2") format('woff2'),
+         url("/media/8f4c8c7cf48c2cdcc13c.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sanslight';
+    src: url("/media/6f95b8e476e724e40e87.woff2") format('woff2'),
+         url("/media/72dd93f2f52b7e707f79.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'open_sansbold';
+    src: url("/media/61109f60cbac94dd8033.woff2") format('woff2'),
+         url("/media/1f30f9b6d1a4243f5742.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: "fontavo";
+    src: url("/media/6db2650bfe13cd77163e.eot");
+    src: url("/media/6db2650bfe13cd77163e.eot") format("embedded-opentype"),
+        url("/media/3c1ca4377b8d8d538658.woff") format("woff"),
+        url("/media/450f46abf39a10c044fd.ttf") format("truetype"),
+        url("/media/fe095c4abfdeed82ab25.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'robotoregular';
+    src: url("/media/ee780c23bcfe804fabf4.eot");
+    src: url("/media/f42a495e8b98b1e89901.eot") format('embedded-opentype'),
+         url("/media/9d3a0288b6f799b234da.woff2") format('woff2'),
+         url("/media/f3b507444748008584c7.woff") format('woff'),
+         url("/media/60ccfd74818c794ea428.ttf") format('truetype'),
+         url("/media/a8b0cafea0a1cdf3f9e5.svg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotocondensed';
+    src: url("/media/920da68d5c5f3d94382d.eot");
+    src: url("/media/aaaa2dfade03df0b166f.eot") format('embedded-opentype'),
+         url("/media/d9c35e447df069851040.woff") format('woff'),
+         url("/media/282d08d08562b5f22cbf.ttf") format('truetype'),
+         url("/media/0c33282af9cfdb2e5281.svg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotobold';
+    src: url("/media/074c1827bf01fac637bc.eot");
+    src: url("/media/9830efd44028916978e8.eot") format('embedded-opentype'),
+         url("/media/6bd383086e8cdc31d689.woff2") format('woff2'),
+         url("/media/250b2f59589a6c7e7c5a.woff") format('woff'),
+         url("/media/d7384c439e52c5c3dd73.ttf") format('truetype'),
+         url("/media/9462129842efd725de37.svg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotolight';
+    src: url("/media/3883a90252b8b1e1a146.eot");
+    src: url("/media/210db09ee68974c5d446.eot") format('embedded-opentype'),
+         url("/media/cff4fe74328342cc44eb.woff2") format('woff2'),
+         url("/media/addd9cfcba2c3883a5f7.woff") format('woff'),
+         url("/media/ec060cc0cd5d3cb3cfdd.ttf") format('truetype'),
+         url("/media/36d5981dfc1904d62349.svg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: "fontavobold";
+	src: url("/media/9a47b083a135a6417338.eot");
+	src: url("/media/9a47b083a135a6417338.eot") format("embedded-opentype"),
+	url("/media/4bdd9883c7af68fb72dc.woff") format("woff"),
+	url("/media/30dd92c5860091374f7b.ttf") format("truetype"),
+	url("/media/2a391b97d18872b2c951.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'roboto_condensedregular';
+    src: url("/media/f34e8e29030cc8204cb9.eot");
+    src: url("/media/6479a08581625ef94c2c.eot") format('embedded-opentype'),
+         url("/media/3e5b866a17e882bb2f37.woff2") format('woff2'),
+         url("/media/5f54562231a2da4d7a35.woff") format('woff'),
+         url("/media/980ecefbb319d3ce6c07.ttf") format('truetype'),
+         url("/media/a8ac43eb50e730436769.svg") format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'uvf_aphrodite_proregular';
+    src: url("/media/fdd86f54a59cdb7adb5c.woff2") format('woff2'),
+         url("/media/15bec05ed87f2c1fd080.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'uvf_mussica_swashregular';
+    src: url("/media/77fa43b830292002258b.woff2") format('woff2'),
+         url("/media/903d76f8c306127e15fa.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'roboto_slabregular';
+    src: url("/media/47d7250ced13c6e2bd05.woff2") format('woff2'),
+         url("/media/5e97432d43b25ab2bb5c.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'roboto_slabbold';
+    src: url("/media/af09e859c9423dfcffc1.woff2") format('woff2'),
+         url("/media/de138bf550cb7c1078e6.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'roboto_condensedbold';
+    src: url("/media/41c6d1d0de484083fb27.woff2") format('woff2'),
+         url("/media/f126c3749e2bba4e937e.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'sfu_futuraregular';
+    src: url("/media/48981e34e52e4de3eef3.woff2") format('woff2'),
+         url("/media/9a12b259286a7f33d302.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'utm_wedding_ktregular';
+    src: url("/media/324b878659ab2fc28fd4.woff2") format('woff2'),
+         url("/media/b76a469c0685dd4f7c4f.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
