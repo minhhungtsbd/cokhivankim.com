@@ -1,0 +1,26 @@
+/* Vạn Kim: navy, warm orange and clean industrial surfaces. */
+body.kh-redesign{--kh-dark:#142b45;--kh-ink:#142b45;--kh-gold:#c65312;--kh-muted:#586779;color:#243247;background:#fff}
+.kh-redesign .kh-header{border-top:3px solid #c65312!important}
+.kh-redesign .kh-navband,.kh-redesign #kh-footer{background:#142b45!important;border-color:#263f5a!important}
+.kh-redesign .kh-navband .kh-navigation>ul>li>a{color:#fff!important}
+.kh-redesign .kh-navband .kh-navigation>ul>li>a.active{color:#ffb17e!important;background:#ffffff0d!important;border-color:#ffffff20!important}
+.kh-redesign .kh-hero{background:linear-gradient(120deg,#f6f8fb,#fff)!important;border-color:#e5eaf0!important}
+.kh-redesign .kh-button,.kh-redesign .static-search button{background:#c65312!important;border-color:#c65312!important;color:#fff!important;border-radius:9px!important;box-shadow:0 5px 15px #142b4510!important}
+.kh-redesign .kh-button:hover,.kh-redesign .static-search button:hover{background:#a9430b!important;transform:translateY(-1px)}
+.kh-redesign .kh-phone strong{color:#142b45!important}
+.kh-redesign .kh-eyebrow{color:#99400e!important}
+.kh-redesign .kh-logo-frame{border-radius:16px!important;overflow:visible!important}
+.kh-redesign .kh-logo-frame img{transform:none!important;object-fit:contain!important}
+.kh-redesign .kh-footer-logo img{transform:none!important;object-fit:contain!important;border-radius:16px!important}
+.kh-redesign #kh-footer .vk-note{background:#203b58;color:#e4eaf1;border-color:#ef8b4a;font-size:12px;margin-bottom:24px}
+.kh-redesign #kh-footer .vk-address{color:#e4eaf1;line-height:1.8}.kh-redesign #kh-footer .vk-map{color:#ffb17e}
+.kh-redesign .kh-brand strong{letter-spacing:.15px!important;font-weight:750!important}
+.kh-redesign .kh-main-photo-wrap,.kh-redesign .kh-proof{border-radius:14px!important;box-shadow:0 10px 30px #142b450d!important}
+.kh-redesign .kh-service-tags a{border-radius:7px!important}
+.vk-intro{max-width:850px;font-size:17px;line-height:1.9}
+.vk-info{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin:32px 0}
+.vk-info article{padding:28px;border:1px solid #e1e7ed;border-radius:14px;background:#f5f7fa}
+.vk-info h2{font-size:22px;font-weight:700;color:#142b45;margin-bottom:16px}
+.vk-info p{overflow-wrap:anywhere}.vk-info a{color:#99400e}.vk-note{padding:16px 20px;background:#fff4ed;border-left:3px solid #c65312;border-radius:6px;line-height:1.7}
+@media(max-width:1023px){.kh-redesign .kh-navband .kh-navigation>ul>li>a{color:#142b45!important}.kh-redesign .kh-navband .kh-navigation>ul>li>a.active{color:#99400e!important;background:#fff4ed!important}}
+@media(max-width:639px){.vk-info{grid-template-columns:1fr}.vk-info article{padding:22px}.kh-redesign .kh-brand strong{font-size:14px!important}.kh-redesign .kh-logo-frame,.kh-redesign .kh-logo-frame img{width:52px!important;height:52px!important}}

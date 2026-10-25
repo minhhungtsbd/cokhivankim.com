@@ -1,5 +1,12 @@
 {
   "url": "https://cokhivankim.com",
   "language": "vi",
+  "contact": {
+    "phone": "0906067338",
+    "phoneDisplay": "0906 067 338",
+    "email": "huuhiepck32@gmail.com",
+    "address": "1127/16E đường Tỉnh lộ 43, khu phố 2, phường Bình Chiểu, TP Thủ Đức, TP.HCM",
+    "maps": "https://www.google.com/maps/search/?api=1&query=1127%2F16E%20Tinh%20lo%2043%20Binh%20Chieu%20Thu%20Duc%20Ho%20Chi%20Minh"
+  },
   "source": "https://cokhitonghop.vn/"
 }

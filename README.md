@@ -1,5 +1,13 @@
 # cokhivankim.com
 
+## Cập nhật thương hiệu Vạn Kim
+
+Bản xuất bản hiện dùng **Cơ Khí Vạn Kim / Hộ Kinh Doanh Vạn Kim**, logo VK dạng SVG và màu navy–cam. Thông tin liên hệ được quản lý trong `site.config.json` → `contact`; chuyển đổi nội dung tại `scripts/brand.mjs`, giao diện tại `public/static/vankim.css`. Dữ liệu nhập ban đầu được giữ trong `content/` làm nguồn; build thay thương hiệu và thông tin trước khi xuất bản. Không nhập lại website nguồn để cập nhật thông tin doanh nghiệp.
+
+MST chưa xác nhận được ẩn. Facebook/TikTok, liên kết hệ thống và chứng nhận của đơn vị cũ được bỏ; PDF hồ sơ cũ không được xuất vào `dist`. Tuyển dụng thông báo tạm ngưng. Ảnh tư liệu cũ vẫn được giữ và có chú thích nguồn; chưa có ảnh riêng Vạn Kim. Giấy đăng ký và các dữ liệu cá nhân trong ảnh không được đưa vào repository.
+
+Build và kiểm tra liên kết đã qua; bộ màu mới chưa được kiểm tra trực quan do công cụ trình duyệt bị tắt ở lần cập nhật này.
+
 Website tĩnh tiếng Việt, tái tạo giao diện và nội dung công khai của https://cokhitonghop.vn/ theo yêu cầu chủ dự án. HTML, CSS, ảnh và font nằm trong repository. Không có WordPress, PHP, SQL, form gửi dữ liệu, tải bản vẽ, đa ngôn ngữ hoặc analytics của trang nguồn.
 
 ## Chạy trên máy
