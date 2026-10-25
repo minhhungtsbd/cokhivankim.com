@@ -22,6 +22,7 @@ const search=[];
 async function write(route,html){let dest=path.join(output,route.endsWith('/')?route+'index.html':!path.extname(route)?route+'/index.html':route);await fs.mkdir(path.dirname(dest),{recursive:true});await fs.writeFile(dest,html);}
 function finalize($,route){
  $('a[href^="Skype:"],a[href^="skype:"]').remove();
+ $('.kh-search input').attr('placeholder','Tìm kiếm…');
  $('html').attr('lang','vi');
  $('link[rel="canonical"]').attr('href',config.url+route);
  $('meta[property="og:url"]').attr('content',config.url+route);
