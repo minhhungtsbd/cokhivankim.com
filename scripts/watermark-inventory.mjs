@@ -118,6 +118,8 @@ const knownReplacements={
  ,'/media/cf8c270a6d665e814cf7.jpg':'/brand-media/wash-machine-1-vankim.png'
  ,'/media/b12efb1d9b30a977d9ab.jpg':'/brand-media/wash-machine-2-vankim.png'
  ,'/media/dd31735320be20f09891.jpg':'/brand-media/wash-machine-3-vankim.png'
+ ,'/media/9cc9e154fe9deab021da.jpg':'/brand-media/wash-machine-4-vankim.png'
+ ,'/media/dd5b485daad49398c4e8.jpg':'/brand-media/wash-machine-5-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
