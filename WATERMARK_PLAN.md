@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 97 ảnh đã có bản thay thế được duyệt.
+- 98 ảnh đã có bản thay thế được duyệt.
 - 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -110,6 +110,7 @@ Cập nhật: 2026-10-26.
 - [x] `/media/70249acd540d50d6dfc6.jpg` → `/brand-media/steel-sheet-floral-machine-vankim.png` — dùng ở 1 trang.
 - [x] `/media/6900240af67277d9e081.jpg` → `/brand-media/hopper-tower-vankim.png` — dùng ở 5 trang.
 - [x] `/media/a7b38f570a8114064666.jpg` → `/brand-media/hopper-enclosure-vankim.png` — dùng ở 1 trang.
+- [x] `/media/6d2e490d34883790db7b.jpg` → `/brand-media/hopper-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1be635151db24eb88c81.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/56c375bb5849e17ea70d.jpg` → `/brand-media/gear-rack-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/65ec900cfdce83d06b51.jpg` → `/brand-media/gear-set-vankim.png` — dùng ở 2 trang.
@@ -647,7 +648,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/367698abbc96ab85f5c4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-3.jpg
   - [x] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
 
-### [ ] Gia công Phễu inox công nghiệp | Giá rẻ chất lượng
+### [x] Gia công Phễu inox công nghiệp | Giá rẻ chất lượng
 
 - Route: `/san-pham/gia-cong-pheu-inox-cong-nghiep-gia-re-chat-luong-484.html`
 - Ảnh cần rà: 5
@@ -655,7 +656,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/6900240af67277d9e081.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep.jpg
   - [x] `/media/a7b38f570a8114064666.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep-3.jpg
-  - [ ] `/media/6d2e490d34883790db7b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep-2.jpg
+  - [x] `/media/6d2e490d34883790db7b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep-2.jpg
 
 ### [ ] Khắc Laser kim loại
 
