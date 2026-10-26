@@ -60,6 +60,8 @@ const imageReplacements={
  ,'/media/7c370fa715d15643ae82.jpg':'/brand-media/laser-steel-plates-vankim.png'
  ,'/media/0873059bdda75a0994d2.jpg':'/brand-media/laser-cut-components-vankim.png'
  ,'/media/b49a8ac61c14cd00816d.jpg':'/brand-media/laser-stacked-components-vankim.png'
+ ,'/media/6e0272bf6e4a45614b95.jpg':'/brand-media/laser-machine-parts-vankim.png'
+ ,'/media/9cb3ea1fd5e4adc1f9ae.jpg':'/brand-media/laser-precision-parts-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
