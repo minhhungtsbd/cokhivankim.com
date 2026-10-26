@@ -15,7 +15,7 @@ Cập nhật: 2026-10-26.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 23 ảnh đã có bản thay thế được duyệt.
-- 15 ảnh đã kiểm tra, không có watermark cũ.
+- 16 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -52,6 +52,7 @@ Cập nhật: 2026-10-26.
 - [—] `/media/8c687bed22d6de65e578.jpg` — Không có watermark cũ.
 - [—] `/media/832056d0c7a2b47fef2f.jpg` — Không có watermark cũ.
 - [—] `/media/01278a42c9f23c6ba34f.jpg` — Không có watermark cũ.
+- [—] `/media/ddab0237bfb0cf2d1d28.jpg` — Không có watermark cũ.
 - [—] `/media/bd011510a3933f2fbdf7.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/ababec62b4add6ad13f3.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/496e91f6eda19b5177ea.jpg` — Logo thương hiệu đối tác, không phải watermark.
@@ -207,11 +208,11 @@ Cập nhật: 2026-10-26.
   - [x] `/media/38b4c8763fb628e03e84.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cat-laser-tphcm.jpg
   - [x] `/media/f88fbb2e9a766116a6cf.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-fiber.jpg
 
-### [ ] Dịch vụ gia công cơ khí
+### [x] Dịch vụ gia công cơ khí
 
 - Route: `/dich-vu/gia-cong-co-khi-164.html`
 - Ảnh cần rà: 3
-  - [ ] `/media/ddab0237bfb0cf2d1d28.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/02425426.jpg
+  - [—] `/media/ddab0237bfb0cf2d1d28.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/02425426.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
 

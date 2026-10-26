@@ -38,6 +38,7 @@ const checkedClean={
  '/media/8c687bed22d6de65e578.jpg':'Không có watermark cũ.',
  '/media/832056d0c7a2b47fef2f.jpg':'Không có watermark cũ.',
  '/media/01278a42c9f23c6ba34f.jpg':'Không có watermark cũ.',
+ '/media/ddab0237bfb0cf2d1d28.jpg':'Không có watermark cũ.',
  '/media/bd011510a3933f2fbdf7.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/ababec62b4add6ad13f3.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/496e91f6eda19b5177ea.jpg':'Logo thương hiệu đối tác, không phải watermark.',
