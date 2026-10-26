@@ -104,6 +104,8 @@ const imageReplacements={
  ,'/media/7dc99e490d5f5452a63d.jpg':'/brand-media/gear-grid-vankim.png'
  ,'/media/838b230d9afcfdba416a.jpg':'/brand-media/laser-engraved-nameplate-vankim.png'
  ,'/media/b92485342fcc4d06b434.jpg':'/brand-media/laser-marked-sample-plates-vankim.png'
+ ,'/media/baadad3a792ece532142.jpg':'/brand-media/wheel-straightener-vankim.png'
+ ,'/media/e1c9e904ca0b7b7b9686.jpg':'/brand-media/wheel-straightener-wrapped-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')

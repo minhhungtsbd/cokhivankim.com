@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 100 ảnh đã có bản thay thế được duyệt.
+- 102 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -119,6 +119,8 @@ Cập nhật: 2026-10-26.
 - [x] `/media/7dc99e490d5f5452a63d.jpg` → `/brand-media/gear-grid-vankim.png` — dùng ở 3 trang.
 - [x] `/media/838b230d9afcfdba416a.jpg` → `/brand-media/laser-engraved-nameplate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/b92485342fcc4d06b434.jpg` → `/brand-media/laser-marked-sample-plates-vankim.png` — dùng ở 1 trang.
+- [x] `/media/baadad3a792ece532142.jpg` → `/brand-media/wheel-straightener-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e1c9e904ca0b7b7b9686.jpg` → `/brand-media/wheel-straightener-wrapped-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -677,14 +679,14 @@ Cập nhật: 2026-10-26.
   - [—] `/media/d970b39bb07654540b1e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-10.jpg
   - [—] `/media/a8f41796ee3392a9f82c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-11.jpg
 
-### [ ] Máy nắn mâm xe
+### [x] Máy nắn mâm xe
 
 - Route: `/san-pham/may-nan-mam-xe-482.html`
 - Ảnh cần rà: 6
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/baadad3a792ece532142.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe.jpg
-  - [ ] `/media/e1c9e904ca0b7b7b9686.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe-1.jpg
+  - [x] `/media/baadad3a792ece532142.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe.jpg
+  - [x] `/media/e1c9e904ca0b7b7b9686.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe-1.jpg
   - [x] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
   - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
 
