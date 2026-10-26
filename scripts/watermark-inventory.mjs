@@ -12,6 +12,10 @@ const knownReplacements={
  '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png',
  '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png'
 };
+const checkedClean={
+ '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
+ '/media/de47eb681fd0b85e2110.jpg':'Không có watermark cũ.'
+};
 
 // Product and workshop uploads are the imported catalogue material where the
 // legacy watermark appears. Shared interface assets (logo, icons, UI art) are
@@ -55,6 +59,7 @@ const lines=[
  `- ${references.size} ảnh nội dung riêng biệt cần rà watermark.`,
  `- ${shared} ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.`,
  `- ${Object.keys(knownReplacements).length} ảnh đã có bản thay thế được duyệt.`,
+ `- ${Object.keys(checkedClean).length} ảnh đã kiểm tra, không có watermark cũ.`,
  '',
  '## Trạng thái ảnh đã duyệt',
  ''
@@ -63,11 +68,13 @@ for(const [original,replacement] of Object.entries(knownReplacements)){
  const affected=references.get(original)||[];
  lines.push(`- [x] \`${original}\` → \`${replacement}\` — dùng ở ${affected.length} trang.`);
 }
+lines.push('', '## Ảnh đã kiểm tra, không cần thay watermark', '');
+for(const [image,note] of Object.entries(checkedClean))lines.push(`- [—] \`${image}\` — ${note}`);
 lines.push('', '## Danh sách bài viết và ảnh cần xử lý', '');
 for(const post of posts.sort((a,b)=>a.route.localeCompare(b.route))){
  lines.push(`### [ ] ${post.title}`, '', `- Route: \`${post.route}\``, `- Ảnh cần rà: ${post.images.length}`);
  for(const image of post.images){
-  const state=knownReplacements[image]?'[x]':'[ ]';
+  const state=knownReplacements[image]?'[x]':checkedClean[image]?'[—]':'[ ]';
   const usedBy=(references.get(image)||[]).length;
   const source=assetSource.get(image)||'không rõ nguồn import';
   lines.push(`  - ${state} \`${image}\` — dùng ở ${usedBy} trang — nguồn: ${source}`);
