@@ -15,7 +15,7 @@ Cập nhật: 2026-10-26.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 7 ảnh đã có bản thay thế được duyệt.
-- 3 ảnh đã kiểm tra, không có watermark cũ.
+- 11 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -32,10 +32,18 @@ Cập nhật: 2026-10-26.
 - [—] `/media/0c3213cbfb8d8b482f80.jpg` — Không có watermark cũ.
 - [—] `/media/de47eb681fd0b85e2110.jpg` — Không có watermark cũ.
 - [—] `/media/54674b74b2fad25f1f53.jpg` — Không có watermark cũ.
+- [—] `/media/bd011510a3933f2fbdf7.png` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/ababec62b4add6ad13f3.png` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/496e91f6eda19b5177ea.jpg` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/a91ce09b6133ba7dbbc7.jpg` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/31c33b3f83f949f57b84.jpg` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/4c3995531441930f0dde.jpg` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/a3b21a5692f1abfe2a6c.png` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/bab7297e1c7ba56282d5.png` — Logo thương hiệu đối tác, không phải watermark.
 
 ## Danh sách bài viết và ảnh cần xử lý
 
-### [ ] Gia Công Kim Loại Tấm & Cơ Khí Chính Xác Theo Yêu Cầu Tại TP.HCM
+### [x] Gia Công Kim Loại Tấm & Cơ Khí Chính Xác Theo Yêu Cầu Tại TP.HCM
 
 - Route: `/`
 - Ảnh cần rà: 13
@@ -44,14 +52,14 @@ Cập nhật: 2026-10-26.
   - [—] `/media/0c3213cbfb8d8b482f80.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-so-sanh.jpg
   - [—] `/media/de47eb681fd0b85e2110.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-ung-dung.jpg
   - [—] `/media/54674b74b2fad25f1f53.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80391050.jpg
-  - [ ] `/media/bd011510a3933f2fbdf7.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/55562960.png
-  - [ ] `/media/ababec62b4add6ad13f3.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/24693012.png
-  - [ ] `/media/496e91f6eda19b5177ea.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/53927317.jpg
-  - [ ] `/media/a91ce09b6133ba7dbbc7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/83861929.jpg
-  - [ ] `/media/31c33b3f83f949f57b84.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/85883815.jpg
-  - [ ] `/media/4c3995531441930f0dde.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/38941613.jpg
-  - [ ] `/media/a3b21a5692f1abfe2a6c.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/91279182.png
-  - [ ] `/media/bab7297e1c7ba56282d5.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/20741491.png
+  - [—] `/media/bd011510a3933f2fbdf7.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/55562960.png
+  - [—] `/media/ababec62b4add6ad13f3.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/24693012.png
+  - [—] `/media/496e91f6eda19b5177ea.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/53927317.jpg
+  - [—] `/media/a91ce09b6133ba7dbbc7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/83861929.jpg
+  - [—] `/media/31c33b3f83f949f57b84.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/85883815.jpg
+  - [—] `/media/4c3995531441930f0dde.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/38941613.jpg
+  - [—] `/media/a3b21a5692f1abfe2a6c.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/91279182.png
+  - [—] `/media/bab7297e1c7ba56282d5.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/20741491.png
 
 ### [ ] Cắt Laser Lim Loại - Sắt - Thép...
 
@@ -78,7 +86,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
   - [ ] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
 
-### [ ] Cam Kết Chất Lượng Gia Công Cơ Khí
+### [x] Cam Kết Chất Lượng Gia Công Cơ Khí
 
 - Route: `/chinh-sach/cam-ket-chat-luong-gia-cong-co-khi-279.html`
 - Ảnh cần rà: 2
@@ -113,14 +121,14 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/3d7cfd23e457aae68ca6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/95342582.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Điều khoản sử dụng Website
+### [x] Điều khoản sử dụng Website
 
 - Route: `/chinh-sach/dieu-khoan-su-dung-website-278.html`
 - Ảnh cần rà: 2
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Năng Lực Sản Xuất Gia Công Cơ Khí
+### [x] Năng Lực Sản Xuất Gia Công Cơ Khí
 
 - Route: `/chinh-sach/nang-luc-san-xuat-gia-cong-co-khi-280.html`
 - Ảnh cần rà: 2
@@ -134,21 +142,21 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/6ad8b1341a3e83f5f0b6.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/67250797.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Cửa Cuốn Nhôm
+### [x] Cửa Cuốn Nhôm
 
 - Route: `/cua-cuon-nhom-114/`
 - Ảnh cần rà: 2
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Chọn đúng công đoạn.  Hoàn thiện đúng nhu cầu.
+### [x] Chọn đúng công đoạn.  Hoàn thiện đúng nhu cầu.
 
 - Route: `/dich-vu`
 - Ảnh cần rà: 2
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Chọn đúng công đoạn.  Hoàn thiện đúng nhu cầu.
+### [x] Chọn đúng công đoạn.  Hoàn thiện đúng nhu cầu.
 
 - Route: `/dich-vu.html`
 - Ảnh cần rà: 2
@@ -237,7 +245,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/92e4bbf15c4d2855f28f.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh.jpg
 
-### [ ] Gia Công Cơ Khí Chính Xác
+### [x] Gia Công Cơ Khí Chính Xác
 
 - Route: `/gia-cong-co-khi-chinh-xac-113/`
 - Ảnh cần rà: 2
@@ -252,14 +260,14 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
 
-### [ ] Một đối tác. Nhiều giải pháp gia công.
+### [x] Một đối tác. Nhiều giải pháp gia công.
 
 - Route: `/gioi-thieu.html`
 - Ảnh cần rà: 2
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Hồ sơ năng lựcCơ khí Khởi Minh.
+### [x] Hồ sơ năng lựcCơ khí Khởi Minh.
 
 - Route: `/ho-so-nang-luc.html`
 - Ảnh cần rà: 1
@@ -289,7 +297,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
   - [ ] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
 
-### [ ] Liên hệ Khởi Minh. Kết nối trực tiếp xưởng.
+### [x] Liên hệ Khởi Minh. Kết nối trực tiếp xưởng.
 
 - Route: `/lien-he.html`
 - Ảnh cần rà: 1
@@ -303,7 +311,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
 
-### [ ] Quạt Hút Thổi Công Nghiệp
+### [x] Quạt Hút Thổi Công Nghiệp
 
 - Route: `/quat-hut-thoi-cong-nghiep-115/`
 - Ảnh cần rà: 2
@@ -2983,7 +2991,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [ ] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Tuyển dụng Khởi Minh. Cùng làm nghề cơ khí.
+### [x] Tuyển dụng Khởi Minh. Cùng làm nghề cơ khí.
 
 - Route: `/tuyen-dung.html`
 - Ảnh cần rà: 2

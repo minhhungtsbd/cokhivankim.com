@@ -17,7 +17,15 @@ const knownReplacements={
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
  '/media/de47eb681fd0b85e2110.jpg':'Không có watermark cũ.',
- '/media/54674b74b2fad25f1f53.jpg':'Không có watermark cũ.'
+ '/media/54674b74b2fad25f1f53.jpg':'Không có watermark cũ.',
+ '/media/bd011510a3933f2fbdf7.png':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/ababec62b4add6ad13f3.png':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/496e91f6eda19b5177ea.jpg':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/a91ce09b6133ba7dbbc7.jpg':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/31c33b3f83f949f57b84.jpg':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/4c3995531441930f0dde.jpg':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/a3b21a5692f1abfe2a6c.png':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.'
 };
 
 // Product and workshop uploads are the imported catalogue material where the
@@ -74,7 +82,8 @@ lines.push('', '## Ảnh đã kiểm tra, không cần thay watermark', '');
 for(const [image,note] of Object.entries(checkedClean))lines.push(`- [—] \`${image}\` — ${note}`);
 lines.push('', '## Danh sách bài viết và ảnh cần xử lý', '');
 for(const post of posts.sort((a,b)=>a.route.localeCompare(b.route))){
- lines.push(`### [ ] ${post.title}`, '', `- Route: \`${post.route}\``, `- Ảnh cần rà: ${post.images.length}`);
+ const complete=post.images.every(image=>knownReplacements[image]||checkedClean[image]);
+ lines.push(`### ${complete?'[x]':'[ ]'} ${post.title}`, '', `- Route: \`${post.route}\``, `- Ảnh cần rà: ${post.images.length}`);
  for(const image of post.images){
   const state=knownReplacements[image]?'[x]':checkedClean[image]?'[—]':'[ ]';
   const usedBy=(references.get(image)||[]).length;
