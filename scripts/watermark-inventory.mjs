@@ -56,6 +56,12 @@ const knownReplacements={
  ,'/media/8414135cf4f93920c224.jpg':'/brand-media/stainless-profiles-vankim.png'
  ,'/media/3c543508894869dfc645.jpg':'/brand-media/inbox-bent-parts-vankim.png'
  ,'/media/b36b3b61614366ea5f26.jpg':'/brand-media/inbox-panels-vankim.png'
+ ,'/media/e24964c3f11bd2033809.jpg':'/brand-media/laser-products-collage-vankim.png'
+ ,'/media/d27e84a8c4ebd4a471a1.jpg':'/brand-media/laser-parts-collage-vankim.png'
+ ,'/media/81f820a748b064242080.jpg':'/brand-media/laser-parts-premium-collage-vankim.png'
+ ,'/media/7c370fa715d15643ae82.jpg':'/brand-media/laser-steel-plates-vankim.png'
+ ,'/media/0873059bdda75a0994d2.jpg':'/brand-media/laser-cut-components-vankim.png'
+ ,'/media/b49a8ac61c14cd00816d.jpg':'/brand-media/laser-stacked-components-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
@@ -98,7 +104,9 @@ const checkedClean={
  '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.'
 };
 const needsSource={
- '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'
+ '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.',
+ '/media/6e0272bf6e4a45614b95.jpg':'Chờ công cụ xử lý ảnh khả dụng trở lại để xoá watermark.',
+ '/media/9cb3ea1fd5e4adc1f9ae.jpg':'Chờ công cụ xử lý ảnh khả dụng trở lại để xoá watermark.'
 };
 
 // Product and workshop uploads are the imported catalogue material where the
