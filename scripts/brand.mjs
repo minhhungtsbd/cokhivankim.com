@@ -23,6 +23,9 @@ const imageReplacements={
  ,'/media/1ef599c9c4fcd126675c.jpg':'/brand-media/bent-metal-sheets-vankim.png'
  ,'/media/bd126ec2f3d9885b112f.jpg':'/brand-media/wire-mesh-roll-vankim.png'
  ,'/media/38b4c8763fb628e03e84.jpg':'/brand-media/laser-cutting-service-vankim.png'
+ ,'/media/eb746fd269ddfb7de7c8.jpg':'/brand-media/laser-product-collage-vankim.png'
+ ,'/media/3e186babe9485eb235e6.jpg':'/brand-media/laser-products-collage-vankim.png'
+ ,'/media/58844b6d30a7add3345e.jpg':'/brand-media/laser-product-arcs-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')

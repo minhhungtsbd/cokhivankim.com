@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 19 ảnh đã có bản thay thế được duyệt.
+- 22 ảnh đã có bản thay thế được duyệt.
 - 15 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -38,6 +38,9 @@ Cập nhật: 2026-10-26.
 - [x] `/media/1ef599c9c4fcd126675c.jpg` → `/brand-media/bent-metal-sheets-vankim.png` — dùng ở 1 trang.
 - [x] `/media/bd126ec2f3d9885b112f.jpg` → `/brand-media/wire-mesh-roll-vankim.png` — dùng ở 1 trang.
 - [x] `/media/38b4c8763fb628e03e84.jpg` → `/brand-media/laser-cutting-service-vankim.png` — dùng ở 4 trang.
+- [x] `/media/eb746fd269ddfb7de7c8.jpg` → `/brand-media/laser-product-collage-vankim.png` — dùng ở 8 trang.
+- [x] `/media/3e186babe9485eb235e6.jpg` → `/brand-media/laser-products-collage-vankim.png` — dùng ở 9 trang.
+- [x] `/media/58844b6d30a7add3345e.jpg` → `/brand-media/laser-product-arcs-vankim.png` — dùng ở 8 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -84,7 +87,7 @@ Cập nhật: 2026-10-26.
   - [—] `/media/a3b21a5692f1abfe2a6c.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/91279182.png
   - [—] `/media/bab7297e1c7ba56282d5.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/20741491.png
 
-### [ ] Cắt Laser Lim Loại - Sắt - Thép...
+### [x] Cắt Laser Lim Loại - Sắt - Thép...
 
 - Route: `/cat-laser-lim-loai-sat-thep-119/`
 - Ảnh cần rà: 10
@@ -94,9 +97,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
 ### [x] Chế Tạo Máy Móc Thiết Bị
@@ -359,9 +362,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
   - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
   - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
@@ -394,16 +397,16 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
 ### [ ] Cắt laser Chi Tiết Máy
 
 - Route: `/san-pham/cat-laser-chi-tiet-may-487.html`
 - Ảnh cần rà: 17
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/e24964c3f11bd2033809.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-kim-loai-bang-may-laser-fiber.jpg
   - [ ] `/media/d27e84a8c4ebd4a471a1.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-laser-fiber-chi-tiet-may.jpg
@@ -418,7 +421,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
 ### [ ] Cắt Laser Hoa Văn Kim Loại
@@ -441,9 +444,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
 ### [ ] Cắt laser kim loại
@@ -462,8 +465,8 @@ Cập nhật: 2026-10-26.
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
 
 ### [ ] Cắt Laser Kim Loại Tấm
 
@@ -482,12 +485,12 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
-### [ ] Cắt Laser Lim Loại - Sắt - Thép...
+### [x] Cắt Laser Lim Loại - Sắt - Thép...
 
 - Route: `/san-pham/cat-laser-lim-loai-sat-thep-119/`
 - Ảnh cần rà: 10
@@ -497,9 +500,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
 ### [ ] Cắt Thép Tấm
@@ -518,9 +521,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
-  - [!] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
-  - [!] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
-  - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
+  - [x] `/media/eb746fd269ddfb7de7c8.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/376609786842/cat-laser-chi-tiet-may.jpg
+  - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
+  - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
 ### [ ] Gia Công Bánh Răng TPHCM
