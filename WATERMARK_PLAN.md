@@ -15,7 +15,7 @@ Cập nhật: 2026-10-26.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 45 ảnh đã có bản thay thế được duyệt.
-- 30 ảnh đã kiểm tra, không có watermark cũ.
+- 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -86,6 +86,8 @@ Cập nhật: 2026-10-26.
 - [—] `/media/de78ce8df424ef96182a.jpg` — Không có watermark cũ.
 - [—] `/media/bfca9a5e4829f84e8a7f.jpg` — Không có watermark cũ.
 - [—] `/media/c55cf8c0201ac8090ac1.jpg` — Không có watermark cũ.
+- [—] `/media/82c794a2570b1bc3ca76.jpg` — Không có watermark cũ; chữ là nội dung khắc thật trên sản phẩm.
+- [—] `/media/a78c8e28a36827176206.jpg` — Không có watermark cũ; chữ là nội dung khắc thật trên sản phẩm.
 - [—] `/media/5f9c68e51fdc7cd15d0a.png` — Không có watermark cũ.
 - [—] `/media/4d8fe8d7fe2875f07f2c.png` — Không có watermark cũ.
 - [—] `/media/9db7e66b151dfda25f3f.png` — Không có watermark cũ.
@@ -348,14 +350,14 @@ Cập nhật: 2026-10-26.
   - [—] `/media/c55cf8c0201ac8090ac1.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-robot.jpg
   - [ ] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
 
-### [ ] Khắc Laser
+### [x] Khắc Laser
 
 - Route: `/khac-laser-121/`
 - Ảnh cần rà: 4
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
-  - [ ] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
+  - [—] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
+  - [—] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
 
 ### [x] Liên hệ Khởi Minh. Kết nối trực tiếp xưởng.
 
@@ -388,8 +390,8 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
   - [ ] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
   - [ ] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
-  - [ ] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
-  - [ ] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
+  - [—] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
+  - [—] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
   - [x] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
   - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
@@ -606,7 +608,7 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/khac-laser-kim-loai-493.html`
 - Ảnh cần rà: 8
-  - [ ] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
+  - [—] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/838b230d9afcfdba416a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-3.jpg
   - [ ] `/media/b92485342fcc4d06b434.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-4.jpg

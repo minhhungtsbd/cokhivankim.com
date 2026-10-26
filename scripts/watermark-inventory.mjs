@@ -72,6 +72,8 @@ const checkedClean={
  '/media/de78ce8df424ef96182a.jpg':'Không có watermark cũ.',
  '/media/bfca9a5e4829f84e8a7f.jpg':'Không có watermark cũ.',
  '/media/c55cf8c0201ac8090ac1.jpg':'Không có watermark cũ.',
+ '/media/82c794a2570b1bc3ca76.jpg':'Không có watermark cũ; chữ là nội dung khắc thật trên sản phẩm.',
+ '/media/a78c8e28a36827176206.jpg':'Không có watermark cũ; chữ là nội dung khắc thật trên sản phẩm.',
  '/media/5f9c68e51fdc7cd15d0a.png':'Không có watermark cũ.',
  '/media/4d8fe8d7fe2875f07f2c.png':'Không có watermark cũ.',
  '/media/9db7e66b151dfda25f3f.png':'Không có watermark cũ.',
