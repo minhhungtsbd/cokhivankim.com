@@ -7,7 +7,11 @@
  menu?.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav?.classList.toggle('kh-open',open);if(!open)closeSubmenus();});
  nav?.querySelectorAll('li').forEach((li,index)=>{
   const sub=li.querySelector(':scope > ul'),a=li.querySelector('a');if(!sub||!a)return;
-  const button=document.createElement('button');button.type='button';button.className='kh-sub-toggle';button.textContent='⌄';button.setAttribute('aria-label',a.textContent.trim());button.setAttribute('aria-expanded','false');sub.id='static-submenu-'+index;button.setAttribute('aria-controls',sub.id);li.classList.add('kh-has-submenu');li.insertBefore(button,sub);
+  const button=document.createElement('button');button.type='button';button.className='kh-sub-toggle';button.innerHTML='<svg aria-hidden="true" viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m4 6 4 4 4-4"/></svg>';button.setAttribute('aria-label','Mở menu '+a.textContent.trim());button.setAttribute('aria-expanded','false');sub.id='static-submenu-'+index;button.setAttribute('aria-controls',sub.id);li.classList.add('kh-has-submenu');li.insertBefore(button,sub);
+  const setOpen=open=>{if(open)closeSubmenus();button.setAttribute('aria-expanded',String(open));li.classList.toggle('kh-sub-open',open);};
+  li.addEventListener('mouseenter',()=>{if(matchMedia('(min-width:1024px) and (hover:hover)').matches)setOpen(true);});
+  li.addEventListener('mouseleave',()=>{if(matchMedia('(min-width:1024px) and (hover:hover)').matches&&!li.contains(document.activeElement))setOpen(false);});
+  li.addEventListener('focusout',e=>{if(!li.contains(e.relatedTarget))setOpen(false);});
   button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')!=='true';closeSubmenus();button.setAttribute('aria-expanded',String(open));li.classList.toggle('kh-sub-open',open);});
  });
  document.addEventListener('click',e=>{if(!e.target.closest('.kh-navrow'))closeMenu();});
