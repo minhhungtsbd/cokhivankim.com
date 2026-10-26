@@ -115,6 +115,7 @@ const imageReplacements={
  ,'/media/dfdaca47412ef41c226c.jpg':'/brand-media/cnc-milled-parts-vankim.png'
  ,'/media/cf8c270a6d665e814cf7.jpg':'/brand-media/wash-machine-1-vankim.png'
  ,'/media/b12efb1d9b30a977d9ab.jpg':'/brand-media/wash-machine-2-vankim.png'
+ ,'/media/dd31735320be20f09891.jpg':'/brand-media/wash-machine-3-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
