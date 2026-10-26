@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 98 ảnh đã có bản thay thế được duyệt.
+- 99 ảnh đã có bản thay thế được duyệt.
 - 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -117,6 +117,7 @@ Cập nhật: 2026-10-26.
 - [x] `/media/24ccdd2007a9d8290e88.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/367698abbc96ab85f5c4.jpg` → `/brand-media/three-gears-vankim.png` — dùng ở 2 trang.
 - [x] `/media/7dc99e490d5f5452a63d.jpg` → `/brand-media/gear-grid-vankim.png` — dùng ở 3 trang.
+- [x] `/media/838b230d9afcfdba416a.jpg` → `/brand-media/laser-engraved-nameplate-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -664,7 +665,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 8
   - [—] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/838b230d9afcfdba416a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-3.jpg
+  - [x] `/media/838b230d9afcfdba416a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-3.jpg
   - [ ] `/media/b92485342fcc4d06b434.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-4.jpg
   - [ ] `/media/e3af61ab44f0b3af0de6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-7.jpg
   - [ ] `/media/8b1a698dc07b89391603.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-9.jpg

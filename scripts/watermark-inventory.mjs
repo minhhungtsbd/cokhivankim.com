@@ -104,6 +104,7 @@ const knownReplacements={
  ,'/media/24ccdd2007a9d8290e88.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/367698abbc96ab85f5c4.jpg':'/brand-media/three-gears-vankim.png'
  ,'/media/7dc99e490d5f5452a63d.jpg':'/brand-media/gear-grid-vankim.png'
+ ,'/media/838b230d9afcfdba416a.jpg':'/brand-media/laser-engraved-nameplate-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
