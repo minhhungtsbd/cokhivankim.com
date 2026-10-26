@@ -118,6 +118,8 @@ const imageReplacements={
  ,'/media/dd31735320be20f09891.jpg':'/brand-media/wash-machine-3-vankim.png'
  ,'/media/9cc9e154fe9deab021da.jpg':'/brand-media/wash-machine-4-vankim.png'
  ,'/media/dd5b485daad49398c4e8.jpg':'/brand-media/wash-machine-5-vankim.png'
+ ,'/media/d4eee5ffd149295b73cc.jpg':'/brand-media/wash-machine-6-vankim.png'
+ ,'/media/3e446d79c92f4d69912b.jpg':'/brand-media/wash-machine-7-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
