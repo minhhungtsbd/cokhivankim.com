@@ -21,11 +21,18 @@ const knownReplacements={
  ,'/media/16e74ea51d6c27014a88.jpg':'/brand-media/machine-washer-vankim.png'
  ,'/media/399cb05ca63ca14a4944.jpg':'/brand-media/machine-washer-wide-vankim.png'
  ,'/media/fa38c829b1107e592a22.jpg':'/brand-media/red-industrial-machine-vankim.png'
+ ,'/media/dbecbd957dee7ddd6522.jpg':'/brand-media/metal-cylinder-vankim.png'
+ ,'/media/1ef599c9c4fcd126675c.jpg':'/brand-media/bent-metal-sheets-vankim.png'
+ ,'/media/bd126ec2f3d9885b112f.jpg':'/brand-media/wire-mesh-roll-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
  '/media/de47eb681fd0b85e2110.jpg':'Không có watermark cũ.',
  '/media/54674b74b2fad25f1f53.jpg':'Không có watermark cũ.',
+ '/media/9ca7097375ac1d5c4f5d.png':'Không có watermark cũ.',
+ '/media/8c687bed22d6de65e578.jpg':'Không có watermark cũ.',
+ '/media/832056d0c7a2b47fef2f.jpg':'Không có watermark cũ.',
+ '/media/01278a42c9f23c6ba34f.jpg':'Không có watermark cũ.',
  '/media/bd011510a3933f2fbdf7.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/ababec62b4add6ad13f3.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/496e91f6eda19b5177ea.jpg':'Logo thương hiệu đối tác, không phải watermark.',

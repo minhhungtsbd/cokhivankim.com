@@ -14,8 +14,8 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 15 ảnh đã có bản thay thế được duyệt.
-- 11 ảnh đã kiểm tra, không có watermark cũ.
+- 18 ảnh đã có bản thay thế được duyệt.
+- 15 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -34,12 +34,19 @@ Cập nhật: 2026-10-26.
 - [x] `/media/16e74ea51d6c27014a88.jpg` → `/brand-media/machine-washer-vankim.png` — dùng ở 3 trang.
 - [x] `/media/399cb05ca63ca14a4944.jpg` → `/brand-media/machine-washer-wide-vankim.png` — dùng ở 4 trang.
 - [x] `/media/fa38c829b1107e592a22.jpg` → `/brand-media/red-industrial-machine-vankim.png` — dùng ở 4 trang.
+- [x] `/media/dbecbd957dee7ddd6522.jpg` → `/brand-media/metal-cylinder-vankim.png` — dùng ở 1 trang.
+- [x] `/media/1ef599c9c4fcd126675c.jpg` → `/brand-media/bent-metal-sheets-vankim.png` — dùng ở 1 trang.
+- [x] `/media/bd126ec2f3d9885b112f.jpg` → `/brand-media/wire-mesh-roll-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
 - [—] `/media/0c3213cbfb8d8b482f80.jpg` — Không có watermark cũ.
 - [—] `/media/de47eb681fd0b85e2110.jpg` — Không có watermark cũ.
 - [—] `/media/54674b74b2fad25f1f53.jpg` — Không có watermark cũ.
+- [—] `/media/9ca7097375ac1d5c4f5d.png` — Không có watermark cũ.
+- [—] `/media/8c687bed22d6de65e578.jpg` — Không có watermark cũ.
+- [—] `/media/832056d0c7a2b47fef2f.jpg` — Không có watermark cũ.
+- [—] `/media/01278a42c9f23c6ba34f.jpg` — Không có watermark cũ.
 - [—] `/media/bd011510a3933f2fbdf7.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/ababec62b4add6ad13f3.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/496e91f6eda19b5177ea.jpg` — Logo thương hiệu đối tác, không phải watermark.
@@ -107,18 +114,18 @@ Cập nhật: 2026-10-26.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Chính Sách Bảo Hành
+### [x] Chính Sách Bảo Hành
 
 - Route: `/chinh-sach/chinh-sach-bao-hanh-57.html`
 - Ảnh cần rà: 2
-  - [ ] `/media/9ca7097375ac1d5c4f5d.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/86883956.png
+  - [—] `/media/9ca7097375ac1d5c4f5d.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/86883956.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Chính Sách Bảo Mật Thông Tin
+### [x] Chính Sách Bảo Mật Thông Tin
 
 - Route: `/chinh-sach/chinh-sach-bao-mat-thong-tin-214.html`
 - Ảnh cần rà: 2
-  - [ ] `/media/8c687bed22d6de65e578.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/56843105.jpg
+  - [—] `/media/8c687bed22d6de65e578.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/56843105.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
 ### [ ] Chính Sách Đổi Trả Hàng Và Hoàn Tiền
@@ -177,16 +184,16 @@ Cập nhật: 2026-10-26.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Cắt bẻ kim loại, sắt, inox tấm
+### [x] Cắt bẻ kim loại, sắt, inox tấm
 
 - Route: `/dich-vu/cat-be-kim-loai-sat-tole-inox-tam-169.html`
 - Ảnh cần rà: 6
-  - [ ] `/media/832056d0c7a2b47fef2f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/37354008.jpg
+  - [—] `/media/832056d0c7a2b47fef2f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/37354008.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
-  - [ ] `/media/dbecbd957dee7ddd6522.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-be-kim-loai.jpg
-  - [ ] `/media/1ef599c9c4fcd126675c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-inox-sat-tole.jpg
-  - [ ] `/media/bd126ec2f3d9885b112f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-inox-tam.jpg
+  - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
+  - [x] `/media/dbecbd957dee7ddd6522.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-be-kim-loai.jpg
+  - [x] `/media/1ef599c9c4fcd126675c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-inox-sat-tole.jpg
+  - [x] `/media/bd126ec2f3d9885b112f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-inox-tam.jpg
 
 ### [ ] Cắt Laser Kim Loại - Sắt - Thép - Inox - Nhôm ....
 
@@ -194,7 +201,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 5
   - [x] `/media/04338b775afd8525979d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/07868811.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
+  - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
   - [ ] `/media/38b4c8763fb628e03e84.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cat-laser-tphcm.jpg
   - [ ] `/media/f88fbb2e9a766116a6cf.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-fiber.jpg
 
@@ -204,7 +211,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 3
   - [ ] `/media/ddab0237bfb0cf2d1d28.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/02425426.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
+  - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
 
 ### [ ] Dịch vụ sửa chữa Rulo - trục cán
 
@@ -212,7 +219,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 7
   - [ ] `/media/d05d410f8967ac182723.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/95825955.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
+  - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
   - [ ] `/media/50ce5b52986c53c7d8a9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-sua-may-can-silicon.jpg
   - [ ] `/media/154355ea77d42dfa475c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon.jpg
   - [ ] `/media/cff2f7defd8593126c93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-re.jpg
@@ -224,7 +231,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 5
   - [ ] `/media/493eb7c59ad995627836.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/90364911.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
+  - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
   - [ ] `/media/6b159e52eaa85e376185.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dichvu2(9).jpg
   - [ ] `/media/0259950403c0bc387a7c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-cham-soc-khach-hang.jpg
 
@@ -234,7 +241,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 10
   - [ ] `/media/a0e2eeaa10e2f1b491b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/16171391.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
+  - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
   - [ ] `/media/51b9786ffb9a295985d7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-1.jpg
   - [ ] `/media/cab2c1ad6fac1c17de2e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-2.jpg
   - [ ] `/media/0372abc368e5f2b57701.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-3.jpg
