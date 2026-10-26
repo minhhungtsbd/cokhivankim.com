@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 35 ảnh đã có bản thay thế được duyệt.
+- 36 ảnh đã có bản thay thế được duyệt.
 - 19 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -54,6 +54,7 @@ Cập nhật: 2026-10-26.
 - [x] `/media/a79c09b1c6a4d7f2684e.jpg` → `/brand-media/screw-conveyor-drawing-vankim.png` — dùng ở 2 trang.
 - [x] `/media/1528945f271fc1f7f906.jpg` → `/brand-media/screw-conveyor-detail-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1843670e515a58969b70.jpg` → `/brand-media/roller-conveyors-vankim.png` — dùng ở 3 trang.
+- [x] `/media/bacf20062a950ac18b8b.jpg` → `/brand-media/mesh-conveyor-vankim.png` — dùng ở 2 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -253,7 +254,7 @@ Cập nhật: 2026-10-26.
   - [—] `/media/6b159e52eaa85e376185.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dichvu2(9).jpg
   - [—] `/media/0259950403c0bc387a7c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-cham-soc-khach-hang.jpg
 
-### [ ] Thiết kế thi công Vít Tải - Băng Tải inox TPHCM
+### [x] Thiết kế thi công Vít Tải - Băng Tải inox TPHCM
 
 - Route: `/dich-vu/thiet-ke-thi-cong-vit-tai-bang-tai-luoi-inox-tphcm-177.html`
 - Ảnh cần rà: 10
@@ -266,7 +267,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/a79c09b1c6a4d7f2684e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-4.jpg
   - [x] `/media/1528945f271fc1f7f906.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-5.jpg
   - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
-  - [ ] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
+  - [x] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
 
 ### [ ] Gia Công Bánh Răng
 
@@ -394,7 +395,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
   - [ ] `/media/9e151baf1992fd681031.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/luoi-bang-tai-inox-dang-tam-phang-1.jpg
-  - [ ] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
+  - [x] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
   - [ ] `/media/2e03db663ccd7dc0382e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/luoi-bang-tai-inox.jpg
 
 ### [ ] Cắt Laser Chấn Gấp Inox
