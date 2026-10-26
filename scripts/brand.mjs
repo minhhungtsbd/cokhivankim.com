@@ -111,6 +111,8 @@ const imageReplacements={
  ,'/media/352d5a3e14525dc25cdd.jpg':'/brand-media/steel-pallet-tarp-vankim.png'
  ,'/media/77d4f1907335b0f842eb.jpg':'/brand-media/steel-pallet-shop-vankim.png'
  ,'/media/823e07024c2d725ff282.jpg':'/brand-media/steel-pallet-frame-vankim.png'
+ ,'/media/05acaebb1ed80157861b.jpg':'/brand-media/cnc-milled-trim-vankim.png'
+ ,'/media/dfdaca47412ef41c226c.jpg':'/brand-media/cnc-milled-parts-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')

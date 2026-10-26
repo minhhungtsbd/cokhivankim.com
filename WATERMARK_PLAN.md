@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 107 ảnh đã có bản thay thế được duyệt.
+- 109 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -126,6 +126,8 @@ Cập nhật: 2026-10-26.
 - [x] `/media/352d5a3e14525dc25cdd.jpg` → `/brand-media/steel-pallet-tarp-vankim.png` — dùng ở 1 trang.
 - [x] `/media/77d4f1907335b0f842eb.jpg` → `/brand-media/steel-pallet-shop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/823e07024c2d725ff282.jpg` → `/brand-media/steel-pallet-frame-vankim.png` — dùng ở 1 trang.
+- [x] `/media/05acaebb1ed80157861b.jpg` → `/brand-media/cnc-milled-trim-vankim.png` — dùng ở 1 trang.
+- [x] `/media/dfdaca47412ef41c226c.jpg` → `/brand-media/cnc-milled-parts-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -727,14 +729,14 @@ Cập nhật: 2026-10-26.
   - [x] `/media/77d4f1907335b0f842eb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-3.jpg
   - [x] `/media/823e07024c2d725ff282.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-4.jpg
 
-### [ ] Sản phẩm phay CNC
+### [x] Sản phẩm phay CNC
 
 - Route: `/san-pham/san-pham-phay-cnc-495.html`
 - Ảnh cần rà: 6
   - [x] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/05acaebb1ed80157861b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc-1.jpg
-  - [ ] `/media/dfdaca47412ef41c226c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc-2.jpg
+  - [x] `/media/05acaebb1ed80157861b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc-1.jpg
+  - [x] `/media/dfdaca47412ef41c226c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc-2.jpg
   - [x] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
   - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
 
