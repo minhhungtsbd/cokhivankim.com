@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 46 ảnh đã có bản thay thế được duyệt.
+- 51 ảnh đã có bản thay thế được duyệt.
 - 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -59,6 +59,11 @@ Cập nhật: 2026-10-26.
 - [x] `/media/7089bc522119e1100672.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 4 trang.
 - [x] `/media/d3ab39997479c6848498.jpg` → `/brand-media/steel-frame-vankim.png` — dùng ở 3 trang.
 - [x] `/media/bffbf2e25cbab6cd29de.jpg` → `/brand-media/industrial-hopper-vankim.png` — dùng ở 3 trang.
+- [x] `/media/6bd7044181296be5a385.jpg` → `/brand-media/milled-metal-part-vankim.png` — dùng ở 3 trang.
+- [x] `/media/8f0a38edd688441d9737.jpg` → `/brand-media/milled-metal-part-vankim.png` — dùng ở 4 trang.
+- [x] `/media/13f80559255f88932bfd.jpg` → `/brand-media/turned-tooling-vankim.png` — dùng ở 3 trang.
+- [x] `/media/bbe296bdcb8b455a96fd.jpg` → `/brand-media/turned-tooling-vankim.png` — dùng ở 4 trang.
+- [x] `/media/ded3086a5d64f869b7b0.jpg` → `/brand-media/mesh-conveyor-wide-vankim.png` — dùng ở 3 trang.
 - [x] `/media/1be635151db24eb88c81.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/56c375bb5849e17ea70d.jpg` → `/brand-media/gear-rack-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/65ec900cfdce83d06b51.jpg` → `/brand-media/gear-set-vankim.png` — dùng ở 2 trang.
@@ -381,16 +386,16 @@ Cập nhật: 2026-10-26.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Sản phẩm cơ khí. Gia công theo bản vẽ.
+### [x] Sản phẩm cơ khí. Gia công theo bản vẽ.
 
 - Route: `/san-pham.html`
 - Ảnh cần rà: 24
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
-  - [ ] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
-  - [ ] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
-  - [ ] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
+  - [x] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
+  - [x] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
+  - [x] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
+  - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
   - [—] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
   - [—] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
@@ -403,7 +408,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/3e186babe9485eb235e6.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/376609786842.jpg
   - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
-  - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
+  - [x] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
   - [x] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
   - [x] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
@@ -414,7 +419,7 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/bang-tai-luoi-inox-485.html`
 - Ảnh cần rà: 6
-  - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
+  - [x] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
   - [ ] `/media/9e151baf1992fd681031.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/luoi-bang-tai-inox-dang-tam-phang-1.jpg
@@ -665,35 +670,35 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/san-pham-phay-cnc-495.html`
 - Ảnh cần rà: 6
-  - [ ] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
+  - [x] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/05acaebb1ed80157861b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc-1.jpg
   - [ ] `/media/dfdaca47412ef41c226c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc-2.jpg
-  - [ ] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
-  - [ ] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
+  - [x] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
+  - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
 
 ### [ ] Sản phẩm tiện CNC
 
 - Route: `/san-pham/san-pham-tien-cnc-494.html`
 - Ảnh cần rà: 7
-  - [ ] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
+  - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/8745794b9d4ca6a20a94.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc(2).jpg
   - [ ] `/media/001ab6eb57b1ae18c50b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-1(1).jpg
   - [ ] `/media/4786400505ff1fedbf73.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-2.jpg
-  - [ ] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
-  - [ ] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
+  - [x] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
+  - [x] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
 
-### [ ] Tiện Phay CNC
+### [x] Tiện Phay CNC
 
 - Route: `/tien-phay-cnc-120/`
 - Ảnh cần rà: 6
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
-  - [ ] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
-  - [ ] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
-  - [ ] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
+  - [x] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
+  - [x] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
+  - [x] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
+  - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
 
 ### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
 
@@ -3068,11 +3073,11 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/6f1636a95e6d0b966dac.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/35058580.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Vít Tải - Băng Tải Inox
+### [x] Vít Tải - Băng Tải Inox
 
 - Route: `/vit-tai-bang-tai-inox-118/`
 - Ảnh cần rà: 3
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
+  - [x] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
 
