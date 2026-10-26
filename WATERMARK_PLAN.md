@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 36 ảnh đã có bản thay thế được duyệt.
+- 38 ảnh đã có bản thay thế được duyệt.
 - 19 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -55,6 +55,8 @@ Cập nhật: 2026-10-26.
 - [x] `/media/1528945f271fc1f7f906.jpg` → `/brand-media/screw-conveyor-detail-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1843670e515a58969b70.jpg` → `/brand-media/roller-conveyors-vankim.png` — dùng ở 3 trang.
 - [x] `/media/bacf20062a950ac18b8b.jpg` → `/brand-media/mesh-conveyor-vankim.png` — dùng ở 2 trang.
+- [x] `/media/a7bce9d62e21d62ac5cf.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 2 trang.
+- [x] `/media/7089bc522119e1100672.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 4 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -269,14 +271,14 @@ Cập nhật: 2026-10-26.
   - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
   - [x] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
 
-### [ ] Gia Công Bánh Răng
+### [x] Gia Công Bánh Răng
 
 - Route: `/gia-cong-banh-rang-112/`
 - Ảnh cần rà: 4
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
-  - [ ] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
+  - [x] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
+  - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
 
 ### [ ] Gia công bánh răng nhựa tại TPHCMbằng công nghệ in 3D.
 
@@ -384,8 +386,8 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
   - [ ] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
-  - [ ] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
-  - [ ] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
+  - [x] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
+  - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
 
 ### [ ] Băng tải lưới inox
 
@@ -544,7 +546,7 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/gia-cong-banh-rang-481.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
+  - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/5f9c68e51fdc7cd15d0a.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang.png
   - [ ] `/media/4d8fe8d7fe2875f07f2c.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-1.png
@@ -560,7 +562,7 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/gia-cong-banh-rang-tphcm-481.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
+  - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/5f9c68e51fdc7cd15d0a.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang.png
   - [ ] `/media/4d8fe8d7fe2875f07f2c.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-1.png

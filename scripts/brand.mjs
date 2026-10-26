@@ -40,6 +40,8 @@ const imageReplacements={
  ,'/media/1528945f271fc1f7f906.jpg':'/brand-media/screw-conveyor-detail-vankim.png'
  ,'/media/1843670e515a58969b70.jpg':'/brand-media/roller-conveyors-vankim.png'
  ,'/media/bacf20062a950ac18b8b.jpg':'/brand-media/mesh-conveyor-vankim.png'
+ ,'/media/a7bce9d62e21d62ac5cf.jpg':'/brand-media/gear-catalogue-vankim.png'
+ ,'/media/7089bc522119e1100672.jpg':'/brand-media/gear-catalogue-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
