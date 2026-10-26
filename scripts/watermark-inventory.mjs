@@ -6,6 +6,8 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/edfcb9597003e3fdd4b7.png':'/static/vankim-logo.svg',
+ '/media/f6b5bf15d8acf9f7a1ba.png':'/static/vankim-logo.svg',
  '/media/9712588fc7222c11ea41.jpg':'/brand-media/sprocket-vankim.png',
  '/media/01173f717f55732537f7.jpg':'/brand-media/laser-star-vankim.png',
  '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
@@ -14,7 +16,8 @@ const knownReplacements={
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
- '/media/de47eb681fd0b85e2110.jpg':'Không có watermark cũ.'
+ '/media/de47eb681fd0b85e2110.jpg':'Không có watermark cũ.',
+ '/media/54674b74b2fad25f1f53.jpg':'Không có watermark cũ.'
 };
 
 // Product and workshop uploads are the imported catalogue material where the
@@ -30,8 +33,7 @@ const posts=[];
 const references=new Map();
 for(const page of manifest.pages){
  const html=await readFile(resolve(root,'content/pages',page.file),'utf8');
- const $=cheerio.load(html);
- const images=[...new Set($('img[src]').map((_,image)=>$(image).attr('src')).get().filter(isPhoto))];
+ const images=[...new Set([...html.matchAll(/\/media\/[a-f0-9]+\.(?:jpg|jpeg|png|webp)/gi)].map(match=>match[0]).filter(isPhoto))];
  if(!images.length)continue;
  posts.push({route:page.route,title:page.title,images});
  for(const image of images){

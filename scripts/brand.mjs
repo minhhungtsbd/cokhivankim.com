@@ -4,6 +4,8 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/edfcb9597003e3fdd4b7.png':'/static/vankim-logo.svg',
+ '/media/f6b5bf15d8acf9f7a1ba.png':'/static/vankim-logo.svg',
  '/media/9712588fc7222c11ea41.jpg':'/brand-media/sprocket-vankim.png',
  '/media/01173f717f55732537f7.jpg':'/brand-media/laser-star-vankim.png',
  '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
@@ -32,7 +34,7 @@ export function applyBrand(html,route,contact){
  $('img, source').each((_,e)=>{
   const element=$(e);
   for(const [original,replacement] of Object.entries(imageReplacements)){
-   if(element.attr('src')===original)element.attr('src',replacement);
+   for(const attribute of ['src','data-src','data-original'])if(element.attr(attribute)===original)element.attr(attribute,replacement);
    if(element.attr('srcset')?.includes(original))element.attr('srcset',element.attr('srcset').replaceAll(original,replacement));
   }
  });
