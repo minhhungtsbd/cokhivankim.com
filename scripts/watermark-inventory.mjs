@@ -29,6 +29,11 @@ const knownReplacements={
  ,'/media/3e186babe9485eb235e6.jpg':'/brand-media/laser-products-collage-vankim.png'
  ,'/media/58844b6d30a7add3345e.jpg':'/brand-media/laser-product-arcs-vankim.png'
  ,'/media/f88fbb2e9a766116a6cf.jpg':'/brand-media/laser-four-panel-vankim.png'
+ ,'/media/d05d410f8967ac182723.jpg':'/brand-media/roller-machine-vankim.png'
+ ,'/media/50ce5b52986c53c7d8a9.jpg':'/brand-media/roller-polished-vankim.png'
+ ,'/media/154355ea77d42dfa475c.jpg':'/brand-media/roller-machine-vankim.png'
+ ,'/media/cff2f7defd8593126c93.jpg':'/brand-media/rulo-orange-endcap-vankim.png'
+ ,'/media/422716d5085affb20693.jpg':'/brand-media/rulo-polished-wide-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',

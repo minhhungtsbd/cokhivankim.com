@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 23 ảnh đã có bản thay thế được duyệt.
+- 28 ảnh đã có bản thay thế được duyệt.
 - 16 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -42,6 +42,11 @@ Cập nhật: 2026-10-26.
 - [x] `/media/3e186babe9485eb235e6.jpg` → `/brand-media/laser-products-collage-vankim.png` — dùng ở 9 trang.
 - [x] `/media/58844b6d30a7add3345e.jpg` → `/brand-media/laser-product-arcs-vankim.png` — dùng ở 8 trang.
 - [x] `/media/f88fbb2e9a766116a6cf.jpg` → `/brand-media/laser-four-panel-vankim.png` — dùng ở 5 trang.
+- [x] `/media/d05d410f8967ac182723.jpg` → `/brand-media/roller-machine-vankim.png` — dùng ở 1 trang.
+- [x] `/media/50ce5b52986c53c7d8a9.jpg` → `/brand-media/roller-polished-vankim.png` — dùng ở 1 trang.
+- [x] `/media/154355ea77d42dfa475c.jpg` → `/brand-media/roller-machine-vankim.png` — dùng ở 1 trang.
+- [x] `/media/cff2f7defd8593126c93.jpg` → `/brand-media/rulo-orange-endcap-vankim.png` — dùng ở 1 trang.
+- [x] `/media/422716d5085affb20693.jpg` → `/brand-media/rulo-polished-wide-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -216,17 +221,17 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
 
-### [ ] Dịch vụ sửa chữa Rulo - trục cán
+### [x] Dịch vụ sửa chữa Rulo - trục cán
 
 - Route: `/dich-vu/sua-chua-rulo-truc-can-167.html`
 - Ảnh cần rà: 7
-  - [ ] `/media/d05d410f8967ac182723.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/95825955.jpg
+  - [x] `/media/d05d410f8967ac182723.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/95825955.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
-  - [ ] `/media/50ce5b52986c53c7d8a9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-sua-may-can-silicon.jpg
-  - [ ] `/media/154355ea77d42dfa475c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon.jpg
-  - [ ] `/media/cff2f7defd8593126c93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-re.jpg
-  - [ ] `/media/422716d5085affb20693.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-tphcm.jpg
+  - [x] `/media/50ce5b52986c53c7d8a9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-sua-may-can-silicon.jpg
+  - [x] `/media/154355ea77d42dfa475c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon.jpg
+  - [x] `/media/cff2f7defd8593126c93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-re.jpg
+  - [x] `/media/422716d5085affb20693.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-tphcm.jpg
 
 ### [ ] Sửa cửa cuốn tại TPHCM
 
