@@ -7,7 +7,8 @@ const imageReplacements={
  '/media/9712588fc7222c11ea41.jpg':'/brand-media/sprocket-vankim.png',
  '/media/01173f717f55732537f7.jpg':'/brand-media/laser-star-vankim.png',
  '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
- '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png'
+ '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png',
+ '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
