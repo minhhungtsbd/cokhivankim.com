@@ -115,6 +115,8 @@ const knownReplacements={
  ,'/media/823e07024c2d725ff282.jpg':'/brand-media/steel-pallet-frame-vankim.png'
  ,'/media/05acaebb1ed80157861b.jpg':'/brand-media/cnc-milled-trim-vankim.png'
  ,'/media/dfdaca47412ef41c226c.jpg':'/brand-media/cnc-milled-parts-vankim.png'
+ ,'/media/cf8c270a6d665e814cf7.jpg':'/brand-media/wash-machine-1-vankim.png'
+ ,'/media/b12efb1d9b30a977d9ab.jpg':'/brand-media/wash-machine-2-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
