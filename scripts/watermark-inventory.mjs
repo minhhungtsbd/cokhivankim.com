@@ -45,6 +45,12 @@ const knownReplacements={
  ,'/media/a7bce9d62e21d62ac5cf.jpg':'/brand-media/gear-catalogue-vankim.png'
  ,'/media/7089bc522119e1100672.jpg':'/brand-media/gear-catalogue-vankim.png'
  ,'/media/d3ab39997479c6848498.jpg':'/brand-media/steel-frame-vankim.png'
+ ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
+ ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
+ ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
+ ,'/media/24ccdd2007a9d8290e88.jpg':'/brand-media/gear-collection-vankim.png'
+ ,'/media/367698abbc96ab85f5c4.jpg':'/brand-media/three-gears-vankim.png'
+ ,'/media/7dc99e490d5f5452a63d.jpg':'/brand-media/gear-grid-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
@@ -59,6 +65,9 @@ const checkedClean={
  '/media/6b159e52eaa85e376185.jpg':'Không có watermark cũ.',
  '/media/0259950403c0bc387a7c.jpg':'Không có watermark cũ.',
  '/media/92e4bbf15c4d2855f28f.jpg':'Không có watermark cũ.',
+ '/media/5f9c68e51fdc7cd15d0a.png':'Không có watermark cũ.',
+ '/media/4d8fe8d7fe2875f07f2c.png':'Không có watermark cũ.',
+ '/media/9db7e66b151dfda25f3f.png':'Không có watermark cũ.',
  '/media/bd011510a3933f2fbdf7.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/ababec62b4add6ad13f3.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/496e91f6eda19b5177ea.jpg':'Logo thương hiệu đối tác, không phải watermark.',

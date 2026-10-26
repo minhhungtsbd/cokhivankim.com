@@ -14,8 +14,8 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 39 ảnh đã có bản thay thế được duyệt.
-- 20 ảnh đã kiểm tra, không có watermark cũ.
+- 45 ảnh đã có bản thay thế được duyệt.
+- 23 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -58,6 +58,12 @@ Cập nhật: 2026-10-26.
 - [x] `/media/a7bce9d62e21d62ac5cf.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 2 trang.
 - [x] `/media/7089bc522119e1100672.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 4 trang.
 - [x] `/media/d3ab39997479c6848498.jpg` → `/brand-media/steel-frame-vankim.png` — dùng ở 3 trang.
+- [x] `/media/1be635151db24eb88c81.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
+- [x] `/media/56c375bb5849e17ea70d.jpg` → `/brand-media/gear-rack-collection-vankim.png` — dùng ở 2 trang.
+- [x] `/media/65ec900cfdce83d06b51.jpg` → `/brand-media/gear-set-vankim.png` — dùng ở 2 trang.
+- [x] `/media/24ccdd2007a9d8290e88.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
+- [x] `/media/367698abbc96ab85f5c4.jpg` → `/brand-media/three-gears-vankim.png` — dùng ở 2 trang.
+- [x] `/media/7dc99e490d5f5452a63d.jpg` → `/brand-media/gear-grid-vankim.png` — dùng ở 3 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -73,6 +79,9 @@ Cập nhật: 2026-10-26.
 - [—] `/media/6b159e52eaa85e376185.jpg` — Không có watermark cũ.
 - [—] `/media/0259950403c0bc387a7c.jpg` — Không có watermark cũ.
 - [—] `/media/92e4bbf15c4d2855f28f.jpg` — Không có watermark cũ.
+- [—] `/media/5f9c68e51fdc7cd15d0a.png` — Không có watermark cũ.
+- [—] `/media/4d8fe8d7fe2875f07f2c.png` — Không có watermark cũ.
+- [—] `/media/9db7e66b151dfda25f3f.png` — Không có watermark cũ.
 - [—] `/media/bd011510a3933f2fbdf7.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/ababec62b4add6ad13f3.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/496e91f6eda19b5177ea.jpg` — Logo thương hiệu đối tác, không phải watermark.
@@ -544,37 +553,37 @@ Cập nhật: 2026-10-26.
   - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
-### [ ] Gia Công Bánh Răng TPHCM
+### [x] Gia Công Bánh Răng TPHCM
 
 - Route: `/san-pham/gia-cong-banh-rang-481.html`
 - Ảnh cần rà: 11
   - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/5f9c68e51fdc7cd15d0a.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang.png
-  - [ ] `/media/4d8fe8d7fe2875f07f2c.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-1.png
-  - [ ] `/media/9db7e66b151dfda25f3f.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-2.png
-  - [ ] `/media/1be635151db24eb88c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-4.jpg
-  - [ ] `/media/56c375bb5849e17ea70d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-5.jpg
-  - [ ] `/media/65ec900cfdce83d06b51.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-6.jpg
-  - [ ] `/media/24ccdd2007a9d8290e88.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-7.jpg
-  - [ ] `/media/367698abbc96ab85f5c4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-3.jpg
-  - [ ] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
+  - [—] `/media/5f9c68e51fdc7cd15d0a.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang.png
+  - [—] `/media/4d8fe8d7fe2875f07f2c.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-1.png
+  - [—] `/media/9db7e66b151dfda25f3f.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-2.png
+  - [x] `/media/1be635151db24eb88c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-4.jpg
+  - [x] `/media/56c375bb5849e17ea70d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-5.jpg
+  - [x] `/media/65ec900cfdce83d06b51.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-6.jpg
+  - [x] `/media/24ccdd2007a9d8290e88.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-7.jpg
+  - [x] `/media/367698abbc96ab85f5c4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-3.jpg
+  - [x] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
 
-### [ ] Gia Công Bánh Răng TPHCM
+### [x] Gia Công Bánh Răng TPHCM
 
 - Route: `/san-pham/gia-cong-banh-rang-tphcm-481.html`
 - Ảnh cần rà: 11
   - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/5f9c68e51fdc7cd15d0a.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang.png
-  - [ ] `/media/4d8fe8d7fe2875f07f2c.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-1.png
-  - [ ] `/media/9db7e66b151dfda25f3f.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-2.png
-  - [ ] `/media/1be635151db24eb88c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-4.jpg
-  - [ ] `/media/56c375bb5849e17ea70d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-5.jpg
-  - [ ] `/media/65ec900cfdce83d06b51.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-6.jpg
-  - [ ] `/media/24ccdd2007a9d8290e88.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-7.jpg
-  - [ ] `/media/367698abbc96ab85f5c4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-3.jpg
-  - [ ] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
+  - [—] `/media/5f9c68e51fdc7cd15d0a.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang.png
+  - [—] `/media/4d8fe8d7fe2875f07f2c.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-1.png
+  - [—] `/media/9db7e66b151dfda25f3f.png` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-2.png
+  - [x] `/media/1be635151db24eb88c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-4.jpg
+  - [x] `/media/56c375bb5849e17ea70d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-5.jpg
+  - [x] `/media/65ec900cfdce83d06b51.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-6.jpg
+  - [x] `/media/24ccdd2007a9d8290e88.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-7.jpg
+  - [x] `/media/367698abbc96ab85f5c4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-banh-rang-3.jpg
+  - [x] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
 
 ### [ ] Gia công Phễu inox công nghiệp | Giá rẻ chất lượng
 
@@ -1350,7 +1359,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/6157066f624e4982f9ee.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/chi-tiet-may.jpg
   - [ ] `/media/637abebdf65db4e2cd06.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-CNC-10.jpg
   - [ ] `/media/c474b73c9b62dabfb454.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-7.jpg
-  - [ ] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
+  - [x] `/media/7dc99e490d5f5452a63d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-tphcm.jpg
   - [ ] `/media/f5429c8c006309b89404.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-8.jpg
   - [ ] `/media/5973841e3b162d1a5062.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-CNC-11.jpg
   - [ ] `/media/aa066151f2101e564d5c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-9.jpg
