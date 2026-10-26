@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 88 ảnh đã có bản thay thế được duyệt.
+- 95 ảnh đã có bản thay thế được duyệt.
 - 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -101,6 +101,13 @@ Cập nhật: 2026-10-26.
 - [x] `/media/8e5919dd228e442e52e8.jpg` → `/brand-media/laser-ornamental-sheet-vankim.png` — dùng ở 1 trang.
 - [x] `/media/8338d1543970974f2343.jpg` → `/brand-media/laser-sheet-parts-vankim.png` — dùng ở 3 trang.
 - [x] `/media/2e185321aed1f7445453.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
+- [x] `/media/7141a426acbca4f43c5a.jpg` → `/brand-media/laser-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/80b278cea0cd2dbba2e1.jpg` → `/brand-media/laser-workshop-portrait-vankim.png` — dùng ở 1 trang.
+- [x] `/media/a79843e83b01e2a29174.jpg` → `/brand-media/laser-decorative-sheet-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/12f6eb58c2e87bad56a0.jpg` → `/brand-media/laser-cutting-machine-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e364c097c7470ec35970.jpg` → `/brand-media/steel-sheet-laser-patterns-vankim.png` — dùng ở 1 trang.
+- [x] `/media/dce1d3762f1fcc074413.jpg` → `/brand-media/steel-sheet-floral-laser-vankim.png` — dùng ở 1 trang.
+- [x] `/media/70249acd540d50d6dfc6.jpg` → `/brand-media/steel-sheet-floral-machine-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1be635151db24eb88c81.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/56c375bb5849e17ea70d.jpg` → `/brand-media/gear-rack-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/65ec900cfdce83d06b51.jpg` → `/brand-media/gear-set-vankim.png` — dùng ở 2 trang.
@@ -585,19 +592,19 @@ Cập nhật: 2026-10-26.
   - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
-### [ ] Cắt Thép Tấm
+### [x] Cắt Thép Tấm
 
 - Route: `/san-pham/cat-thep-tam-492.html`
 - Ảnh cần rà: 16
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/7141a426acbca4f43c5a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam.jpg
-  - [ ] `/media/80b278cea0cd2dbba2e1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-1.jpg
-  - [ ] `/media/a79843e83b01e2a29174.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-2.jpg
-  - [ ] `/media/12f6eb58c2e87bad56a0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-3.jpg
-  - [ ] `/media/e364c097c7470ec35970.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-5.jpg
-  - [ ] `/media/dce1d3762f1fcc074413.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-6.jpg
-  - [ ] `/media/70249acd540d50d6dfc6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-7.jpg
+  - [x] `/media/7141a426acbca4f43c5a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam.jpg
+  - [x] `/media/80b278cea0cd2dbba2e1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-1.jpg
+  - [x] `/media/a79843e83b01e2a29174.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-2.jpg
+  - [x] `/media/12f6eb58c2e87bad56a0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-3.jpg
+  - [x] `/media/e364c097c7470ec35970.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-5.jpg
+  - [x] `/media/dce1d3762f1fcc074413.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-6.jpg
+  - [x] `/media/70249acd540d50d6dfc6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-thep-tam-7.jpg
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
