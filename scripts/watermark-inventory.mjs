@@ -108,6 +108,8 @@ const knownReplacements={
  ,'/media/b92485342fcc4d06b434.jpg':'/brand-media/laser-marked-sample-plates-vankim.png'
  ,'/media/baadad3a792ece532142.jpg':'/brand-media/wheel-straightener-vankim.png'
  ,'/media/e1c9e904ca0b7b7b9686.jpg':'/brand-media/wheel-straightener-wrapped-vankim.png'
+ ,'/media/d31690b85badd7a66939.jpg':'/brand-media/steel-pallet-workshop-vankim.png'
+ ,'/media/76d669a1528e10a3bc89.jpg':'/brand-media/steel-pallet-outdoor-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',

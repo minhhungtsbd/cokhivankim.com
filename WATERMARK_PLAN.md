@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 102 ảnh đã có bản thay thế được duyệt.
+- 104 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -121,6 +121,8 @@ Cập nhật: 2026-10-26.
 - [x] `/media/b92485342fcc4d06b434.jpg` → `/brand-media/laser-marked-sample-plates-vankim.png` — dùng ở 1 trang.
 - [x] `/media/baadad3a792ece532142.jpg` → `/brand-media/wheel-straightener-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e1c9e904ca0b7b7b9686.jpg` → `/brand-media/wheel-straightener-wrapped-vankim.png` — dùng ở 1 trang.
+- [x] `/media/d31690b85badd7a66939.jpg` → `/brand-media/steel-pallet-workshop-vankim.png` — dùng ở 2 trang.
+- [x] `/media/76d669a1528e10a3bc89.jpg` → `/brand-media/steel-pallet-outdoor-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -716,8 +718,8 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 7
   - [x] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
-  - [ ] `/media/76d669a1528e10a3bc89.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat-1.jpg
+  - [x] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
+  - [x] `/media/76d669a1528e10a3bc89.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat-1.jpg
   - [ ] `/media/352d5a3e14525dc25cdd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-2.jpg
   - [ ] `/media/77d4f1907335b0f842eb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-3.jpg
   - [ ] `/media/823e07024c2d725ff282.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-4.jpg
@@ -1445,7 +1447,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/686a79b17eb37dd1d05d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-theo-yeu-cau-5.jpg
   - [ ] `/media/d42d7de3f5b0d63a757c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-13.jpg
   - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
-  - [ ] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
+  - [x] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
   - [ ] `/media/882b7b23a4d9a094e8e5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-14.jpg
   - [ ] `/media/3f58af78182e4ecd7d09.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-15.jpg
   - [ ] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
