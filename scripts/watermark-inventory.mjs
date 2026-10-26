@@ -51,6 +51,11 @@ const knownReplacements={
  ,'/media/13f80559255f88932bfd.jpg':'/brand-media/turned-tooling-vankim.png'
  ,'/media/bbe296bdcb8b455a96fd.jpg':'/brand-media/turned-tooling-vankim.png'
  ,'/media/ded3086a5d64f869b7b0.jpg':'/brand-media/mesh-conveyor-wide-vankim.png'
+ ,'/media/2e03db663ccd7dc0382e.jpg':'/brand-media/mesh-belt-portrait-vankim.png'
+ ,'/media/dc714c011cfec478da17.jpg':'/brand-media/stainless-bent-brackets-vankim.png'
+ ,'/media/8414135cf4f93920c224.jpg':'/brand-media/stainless-profiles-vankim.png'
+ ,'/media/3c543508894869dfc645.jpg':'/brand-media/inbox-bent-parts-vankim.png'
+ ,'/media/b36b3b61614366ea5f26.jpg':'/brand-media/inbox-panels-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
@@ -93,7 +98,7 @@ const checkedClean={
  '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.'
 };
 const needsSource={
- 
+ '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'
 };
 
 // Product and workshop uploads are the imported catalogue material where the
