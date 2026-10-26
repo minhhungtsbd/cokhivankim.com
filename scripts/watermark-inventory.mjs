@@ -28,6 +28,7 @@ const knownReplacements={
  ,'/media/eb746fd269ddfb7de7c8.jpg':'/brand-media/laser-product-collage-vankim.png'
  ,'/media/3e186babe9485eb235e6.jpg':'/brand-media/laser-products-collage-vankim.png'
  ,'/media/58844b6d30a7add3345e.jpg':'/brand-media/laser-product-arcs-vankim.png'
+ ,'/media/f88fbb2e9a766116a6cf.jpg':'/brand-media/laser-four-panel-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
@@ -47,10 +48,7 @@ const checkedClean={
  '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.'
 };
 const needsSource={
- '/media/eb746fd269ddfb7de7c8.jpg':'Bản AI thử nghiệm làm đổi bố cục collage; cần nguồn ảnh sạch hoặc xử lý thủ công.',
- '/media/3e186babe9485eb235e6.jpg':'Bản AI thử nghiệm làm đổi bố cục collage; cần nguồn ảnh sạch hoặc xử lý thủ công.',
- '/media/58844b6d30a7add3345e.jpg':'Bản AI thử nghiệm làm đổi chi tiết sản phẩm; cần nguồn ảnh sạch hoặc xử lý thủ công.'
- ,'/media/f88fbb2e9a766116a6cf.jpg':'Bản AI thử nghiệm làm đổi bố cục collage; cần nguồn ảnh sạch hoặc xử lý thủ công.'
+ 
 };
 
 // Product and workshop uploads are the imported catalogue material where the
