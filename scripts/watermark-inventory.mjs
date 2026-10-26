@@ -86,6 +86,8 @@ const knownReplacements={
  ,'/media/482dae7218cd172f0efd.jpg':'/brand-media/laser-sheet-closeup-vankim.png'
  ,'/media/a0f9f16c1b0544677ac9.jpg':'/brand-media/laser-sheet-nesting-vankim.png'
  ,'/media/8e5919dd228e442e52e8.jpg':'/brand-media/laser-ornamental-sheet-vankim.png'
+ ,'/media/8338d1543970974f2343.jpg':'/brand-media/laser-sheet-parts-vankim.png'
+ ,'/media/2e185321aed1f7445453.jpg':'/brand-media/laser-cutting-sparks-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
