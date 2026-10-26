@@ -103,6 +103,7 @@ const imageReplacements={
  ,'/media/367698abbc96ab85f5c4.jpg':'/brand-media/three-gears-vankim.png'
  ,'/media/7dc99e490d5f5452a63d.jpg':'/brand-media/gear-grid-vankim.png'
  ,'/media/838b230d9afcfdba416a.jpg':'/brand-media/laser-engraved-nameplate-vankim.png'
+ ,'/media/b92485342fcc4d06b434.jpg':'/brand-media/laser-marked-sample-plates-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')

@@ -14,8 +14,8 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 99 ảnh đã có bản thay thế được duyệt.
-- 32 ảnh đã kiểm tra, không có watermark cũ.
+- 100 ảnh đã có bản thay thế được duyệt.
+- 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -118,6 +118,7 @@ Cập nhật: 2026-10-26.
 - [x] `/media/367698abbc96ab85f5c4.jpg` → `/brand-media/three-gears-vankim.png` — dùng ở 2 trang.
 - [x] `/media/7dc99e490d5f5452a63d.jpg` → `/brand-media/gear-grid-vankim.png` — dùng ở 3 trang.
 - [x] `/media/838b230d9afcfdba416a.jpg` → `/brand-media/laser-engraved-nameplate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/b92485342fcc4d06b434.jpg` → `/brand-media/laser-marked-sample-plates-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -153,6 +154,10 @@ Cập nhật: 2026-10-26.
 - [—] `/media/4c3995531441930f0dde.jpg` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/a3b21a5692f1abfe2a6c.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/bab7297e1c7ba56282d5.png` — Logo thương hiệu đối tác, không phải watermark.
+- [—] `/media/e3af61ab44f0b3af0de6.jpg` — Chỉ có thông tin khắc thật trên bảng máy; không có watermark cũ.
+- [—] `/media/8b1a698dc07b89391603.jpg` — Chỉ có mã khắc trực tiếp trên chi tiết; không có watermark cũ.
+- [—] `/media/d970b39bb07654540b1e.jpg` — Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.
+- [—] `/media/a8f41796ee3392a9f82c.jpg` — Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.
 
 ## Ảnh cần nguồn sạch hoặc xử lý thủ công
 
@@ -659,18 +664,18 @@ Cập nhật: 2026-10-26.
   - [x] `/media/a7b38f570a8114064666.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep-3.jpg
   - [x] `/media/6d2e490d34883790db7b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep-2.jpg
 
-### [ ] Khắc Laser kim loại
+### [x] Khắc Laser kim loại
 
 - Route: `/san-pham/khac-laser-kim-loai-493.html`
 - Ảnh cần rà: 8
   - [—] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/838b230d9afcfdba416a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-3.jpg
-  - [ ] `/media/b92485342fcc4d06b434.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-4.jpg
-  - [ ] `/media/e3af61ab44f0b3af0de6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-7.jpg
-  - [ ] `/media/8b1a698dc07b89391603.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-9.jpg
-  - [ ] `/media/d970b39bb07654540b1e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-10.jpg
-  - [ ] `/media/a8f41796ee3392a9f82c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-11.jpg
+  - [x] `/media/b92485342fcc4d06b434.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-4.jpg
+  - [—] `/media/e3af61ab44f0b3af0de6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-7.jpg
+  - [—] `/media/8b1a698dc07b89391603.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-9.jpg
+  - [—] `/media/d970b39bb07654540b1e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-10.jpg
+  - [—] `/media/a8f41796ee3392a9f82c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-kim-loai-11.jpg
 
 ### [ ] Máy nắn mâm xe
 

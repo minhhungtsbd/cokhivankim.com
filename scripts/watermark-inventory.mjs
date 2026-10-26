@@ -105,6 +105,7 @@ const knownReplacements={
  ,'/media/367698abbc96ab85f5c4.jpg':'/brand-media/three-gears-vankim.png'
  ,'/media/7dc99e490d5f5452a63d.jpg':'/brand-media/gear-grid-vankim.png'
  ,'/media/838b230d9afcfdba416a.jpg':'/brand-media/laser-engraved-nameplate-vankim.png'
+ ,'/media/b92485342fcc4d06b434.jpg':'/brand-media/laser-marked-sample-plates-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
@@ -138,7 +139,11 @@ const checkedClean={
  '/media/31c33b3f83f949f57b84.jpg':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/4c3995531441930f0dde.jpg':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/a3b21a5692f1abfe2a6c.png':'Logo thương hiệu đối tác, không phải watermark.',
- '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.'
+ '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.',
+ '/media/e3af61ab44f0b3af0de6.jpg':'Chỉ có thông tin khắc thật trên bảng máy; không có watermark cũ.',
+ '/media/8b1a698dc07b89391603.jpg':'Chỉ có mã khắc trực tiếp trên chi tiết; không có watermark cũ.',
+ '/media/d970b39bb07654540b1e.jpg':'Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.',
+ '/media/a8f41796ee3392a9f82c.jpg':'Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.'
 };
 const needsSource={
  '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'
