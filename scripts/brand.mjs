@@ -29,7 +29,6 @@ export function applyBrand(html,route,contact){
  $('.kh-footer-workshops').html('<h2>Địa chỉ liên hệ</h2><p class="vk-address"></p><p><a class="vk-map" target="_blank" rel="noopener noreferrer">Tìm trên Google Maps ↗</a></p><p>Vui lòng liên hệ trước khi đến xưởng.</p>');
  $('.kh-footer-social h2').text('Kết nối với Vạn Kim');
  $('.kh-image-stamp').text('HÌNH ẢNH THAM KHẢO');
- $('.kh-footer-bottom').before('<div class="kh-shell"><p class="vk-note">Hình ảnh sản phẩm và thiết bị trên website được giữ từ tư liệu Cơ Khí Khởi Minh để tham khảo loại hình gia công; không phải hồ sơ xác nhận xưởng hoặc dự án của Vạn Kim. Hình ảnh riêng của Vạn Kim sẽ được cập nhật.</p></div>');
  $('iframe[src*="youtube"]').remove();
  $('a[href$="6689a926fb2a51b45181.pdf"]').remove();
  $('[title]').each((_,e)=>{if(/262A|Phạm Đăng|Nguyễn Thị Tú|Văn Tiến Dũng/.test($(e).attr('title')))$(e).attr('title','Địa chỉ Cơ Khí Vạn Kim');});
