@@ -15,7 +15,7 @@ Cập nhật: 2026-10-26.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 28 ảnh đã có bản thay thế được duyệt.
-- 16 ảnh đã kiểm tra, không có watermark cũ.
+- 19 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -58,6 +58,9 @@ Cập nhật: 2026-10-26.
 - [—] `/media/832056d0c7a2b47fef2f.jpg` — Không có watermark cũ.
 - [—] `/media/01278a42c9f23c6ba34f.jpg` — Không có watermark cũ.
 - [—] `/media/ddab0237bfb0cf2d1d28.jpg` — Không có watermark cũ.
+- [—] `/media/493eb7c59ad995627836.jpg` — Không có watermark cũ.
+- [—] `/media/6b159e52eaa85e376185.jpg` — Không có watermark cũ.
+- [—] `/media/0259950403c0bc387a7c.jpg` — Không có watermark cũ.
 - [—] `/media/bd011510a3933f2fbdf7.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/ababec62b4add6ad13f3.png` — Logo thương hiệu đối tác, không phải watermark.
 - [—] `/media/496e91f6eda19b5177ea.jpg` — Logo thương hiệu đối tác, không phải watermark.
@@ -233,15 +236,15 @@ Cập nhật: 2026-10-26.
   - [x] `/media/cff2f7defd8593126c93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-re.jpg
   - [x] `/media/422716d5085affb20693.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sua-may-can-silicon-tphcm.jpg
 
-### [ ] Sửa cửa cuốn tại TPHCM
+### [x] Sửa cửa cuốn tại TPHCM
 
 - Route: `/dich-vu/sua-cua-cuon-gia-re-166.html`
 - Ảnh cần rà: 5
-  - [ ] `/media/493eb7c59ad995627836.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/90364911.jpg
+  - [—] `/media/493eb7c59ad995627836.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/90364911.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
-  - [ ] `/media/6b159e52eaa85e376185.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dichvu2(9).jpg
-  - [ ] `/media/0259950403c0bc387a7c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-cham-soc-khach-hang.jpg
+  - [—] `/media/6b159e52eaa85e376185.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dichvu2(9).jpg
+  - [—] `/media/0259950403c0bc387a7c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dich-vu-cham-soc-khach-hang.jpg
 
 ### [ ] Thiết kế thi công Vít Tải - Băng Tải inox TPHCM
 
