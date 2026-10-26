@@ -16,6 +16,9 @@ const imageReplacements={
  '/media/1e102039e6688be5f930.jpg':'/brand-media/laser-decorative-panel-vankim.png',
  '/media/10815f2eddce66ae6cce.jpg':'/brand-media/laser-metal-parts-vankim.png',
  '/media/dff6c9f56459b8280ec2.jpg':'/brand-media/laser-product-arcs-vankim.png'
+ ,'/media/16e74ea51d6c27014a88.jpg':'/brand-media/machine-washer-vankim.png'
+ ,'/media/399cb05ca63ca14a4944.jpg':'/brand-media/machine-washer-wide-vankim.png'
+ ,'/media/fa38c829b1107e592a22.jpg':'/brand-media/red-industrial-machine-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')

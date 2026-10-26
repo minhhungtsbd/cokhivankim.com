@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 12 ảnh đã có bản thay thế được duyệt.
+- 15 ảnh đã có bản thay thế được duyệt.
 - 11 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -31,6 +31,9 @@ Cập nhật: 2026-10-26.
 - [x] `/media/1e102039e6688be5f930.jpg` → `/brand-media/laser-decorative-panel-vankim.png` — dùng ở 9 trang.
 - [x] `/media/10815f2eddce66ae6cce.jpg` → `/brand-media/laser-metal-parts-vankim.png` — dùng ở 9 trang.
 - [x] `/media/dff6c9f56459b8280ec2.jpg` → `/brand-media/laser-product-arcs-vankim.png` — dùng ở 9 trang.
+- [x] `/media/16e74ea51d6c27014a88.jpg` → `/brand-media/machine-washer-vankim.png` — dùng ở 3 trang.
+- [x] `/media/399cb05ca63ca14a4944.jpg` → `/brand-media/machine-washer-wide-vankim.png` — dùng ở 4 trang.
+- [x] `/media/fa38c829b1107e592a22.jpg` → `/brand-media/red-industrial-machine-vankim.png` — dùng ở 4 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -87,15 +90,15 @@ Cập nhật: 2026-10-26.
   - [!] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
-### [ ] Chế Tạo Máy Móc Thiết Bị
+### [x] Chế Tạo Máy Móc Thiết Bị
 
 - Route: `/che-tao-may-moc-thiet-bi-111/`
 - Ảnh cần rà: 5
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
-  - [ ] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
-  - [ ] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
+  - [x] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
+  - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
+  - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
 
 ### [x] Cam Kết Chất Lượng Gia Công Cơ Khí
 
@@ -342,8 +345,8 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/82c794a2570b1bc3ca76.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/710399250569/khac-laser-kim-loai.jpg
   - [ ] `/media/a78c8e28a36827176206.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/710399250569.jpg
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
-  - [ ] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
-  - [ ] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
+  - [x] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
+  - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/10815f2eddce66ae6cce.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/241734645111.jpg
@@ -354,7 +357,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
   - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
   - [ ] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
-  - [ ] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
+  - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
   - [ ] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
   - [ ] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
 
@@ -570,18 +573,18 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/may-nan-mam-xe-482.html`
 - Ảnh cần rà: 6
-  - [ ] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
+  - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/baadad3a792ece532142.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe.jpg
   - [ ] `/media/e1c9e904ca0b7b7b9686.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe-1.jpg
-  - [ ] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
-  - [ ] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
+  - [x] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
+  - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
 
 ### [ ] Máy Rửa Phôi Tự Động
 
 - Route: `/san-pham/may-rua-phoi-tu-dong-491.html`
 - Ảnh cần rà: 15
-  - [ ] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
+  - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/cf8c270a6d665e814cf7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong1.jpg
   - [ ] `/media/b12efb1d9b30a977d9ab.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong2.jpg
@@ -595,7 +598,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/ecc3ad4a553f2f0bf6cc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong22.jpg
   - [ ] `/media/a13e966a2c010cb6cccc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong25.jpg
   - [ ] `/media/ec65fc7e0939ec5035b6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong31.jpg
-  - [ ] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
+  - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
 
 ### [ ] Pallet sắt
 
