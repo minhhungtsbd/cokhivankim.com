@@ -12,8 +12,12 @@ const knownReplacements={
  '/media/01173f717f55732537f7.jpg':'/brand-media/laser-star-vankim.png',
  '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
  '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png',
- '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png'
- ,'/media/f5557990635b2c62afd8.jpg':'/brand-media/laser-workshop-vankim.png'
+ '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png',
+ '/media/f5557990635b2c62afd8.jpg':'/brand-media/laser-workshop-vankim.png',
+ '/media/642c65adf2849eb9c943.jpg':'/brand-media/laser-brackets-vankim.png',
+ '/media/1e102039e6688be5f930.jpg':'/brand-media/laser-decorative-panel-vankim.png',
+ '/media/10815f2eddce66ae6cce.jpg':'/brand-media/laser-metal-parts-vankim.png',
+ '/media/dff6c9f56459b8280ec2.jpg':'/brand-media/laser-product-arcs-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
@@ -27,6 +31,11 @@ const checkedClean={
  '/media/4c3995531441930f0dde.jpg':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/a3b21a5692f1abfe2a6c.png':'Logo thương hiệu đối tác, không phải watermark.',
  '/media/bab7297e1c7ba56282d5.png':'Logo thương hiệu đối tác, không phải watermark.'
+};
+const needsSource={
+ '/media/eb746fd269ddfb7de7c8.jpg':'Bản AI thử nghiệm làm đổi bố cục collage; cần nguồn ảnh sạch hoặc xử lý thủ công.',
+ '/media/3e186babe9485eb235e6.jpg':'Bản AI thử nghiệm làm đổi bố cục collage; cần nguồn ảnh sạch hoặc xử lý thủ công.',
+ '/media/58844b6d30a7add3345e.jpg':'Bản AI thử nghiệm làm đổi chi tiết sản phẩm; cần nguồn ảnh sạch hoặc xử lý thủ công.'
 };
 
 // Product and workshop uploads are the imported catalogue material where the
@@ -81,12 +90,14 @@ for(const [original,replacement] of Object.entries(knownReplacements)){
 }
 lines.push('', '## Ảnh đã kiểm tra, không cần thay watermark', '');
 for(const [image,note] of Object.entries(checkedClean))lines.push(`- [—] \`${image}\` — ${note}`);
+lines.push('', '## Ảnh cần nguồn sạch hoặc xử lý thủ công', '');
+for(const [image,note] of Object.entries(needsSource))lines.push(`- [!] \`${image}\` — ${note}`);
 lines.push('', '## Danh sách bài viết và ảnh cần xử lý', '');
 for(const post of posts.sort((a,b)=>a.route.localeCompare(b.route))){
  const complete=post.images.every(image=>knownReplacements[image]||checkedClean[image]);
  lines.push(`### ${complete?'[x]':'[ ]'} ${post.title}`, '', `- Route: \`${post.route}\``, `- Ảnh cần rà: ${post.images.length}`);
  for(const image of post.images){
-  const state=knownReplacements[image]?'[x]':checkedClean[image]?'[—]':'[ ]';
+  const state=knownReplacements[image]?'[x]':checkedClean[image]?'[—]':needsSource[image]?'[!]':'[ ]';
   const usedBy=(references.get(image)||[]).length;
   const source=assetSource.get(image)||'không rõ nguồn import';
   lines.push(`  - ${state} \`${image}\` — dùng ở ${usedBy} trang — nguồn: ${source}`);

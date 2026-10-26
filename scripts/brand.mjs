@@ -10,8 +10,12 @@ const imageReplacements={
  '/media/01173f717f55732537f7.jpg':'/brand-media/laser-star-vankim.png',
  '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
  '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png',
- '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png'
- ,'/media/f5557990635b2c62afd8.jpg':'/brand-media/laser-workshop-vankim.png'
+ '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png',
+ '/media/f5557990635b2c62afd8.jpg':'/brand-media/laser-workshop-vankim.png',
+ '/media/642c65adf2849eb9c943.jpg':'/brand-media/laser-brackets-vankim.png',
+ '/media/1e102039e6688be5f930.jpg':'/brand-media/laser-decorative-panel-vankim.png',
+ '/media/10815f2eddce66ae6cce.jpg':'/brand-media/laser-metal-parts-vankim.png',
+ '/media/dff6c9f56459b8280ec2.jpg':'/brand-media/laser-product-arcs-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
