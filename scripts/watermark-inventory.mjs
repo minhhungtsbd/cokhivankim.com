@@ -13,6 +13,7 @@ const knownReplacements={
  '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
  '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png',
  '/media/04338b775afd8525979d.jpg':'/brand-media/laser-cutting-vankim.png'
+ ,'/media/f5557990635b2c62afd8.jpg':'/brand-media/laser-workshop-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
