@@ -110,6 +110,9 @@ const knownReplacements={
  ,'/media/e1c9e904ca0b7b7b9686.jpg':'/brand-media/wheel-straightener-wrapped-vankim.png'
  ,'/media/d31690b85badd7a66939.jpg':'/brand-media/steel-pallet-workshop-vankim.png'
  ,'/media/76d669a1528e10a3bc89.jpg':'/brand-media/steel-pallet-outdoor-vankim.png'
+ ,'/media/352d5a3e14525dc25cdd.jpg':'/brand-media/steel-pallet-tarp-vankim.png'
+ ,'/media/77d4f1907335b0f842eb.jpg':'/brand-media/steel-pallet-shop-vankim.png'
+ ,'/media/823e07024c2d725ff282.jpg':'/brand-media/steel-pallet-frame-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',

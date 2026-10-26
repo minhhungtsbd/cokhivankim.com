@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 104 ảnh đã có bản thay thế được duyệt.
+- 107 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -123,6 +123,9 @@ Cập nhật: 2026-10-26.
 - [x] `/media/e1c9e904ca0b7b7b9686.jpg` → `/brand-media/wheel-straightener-wrapped-vankim.png` — dùng ở 1 trang.
 - [x] `/media/d31690b85badd7a66939.jpg` → `/brand-media/steel-pallet-workshop-vankim.png` — dùng ở 2 trang.
 - [x] `/media/76d669a1528e10a3bc89.jpg` → `/brand-media/steel-pallet-outdoor-vankim.png` — dùng ở 1 trang.
+- [x] `/media/352d5a3e14525dc25cdd.jpg` → `/brand-media/steel-pallet-tarp-vankim.png` — dùng ở 1 trang.
+- [x] `/media/77d4f1907335b0f842eb.jpg` → `/brand-media/steel-pallet-shop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/823e07024c2d725ff282.jpg` → `/brand-media/steel-pallet-frame-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -712,7 +715,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/ec65fc7e0939ec5035b6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong31.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
 
-### [ ] Pallet sắt
+### [x] Pallet sắt
 
 - Route: `/san-pham/pallet-sat-483.html`
 - Ảnh cần rà: 7
@@ -720,9 +723,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
   - [x] `/media/76d669a1528e10a3bc89.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat-1.jpg
-  - [ ] `/media/352d5a3e14525dc25cdd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-2.jpg
-  - [ ] `/media/77d4f1907335b0f842eb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-3.jpg
-  - [ ] `/media/823e07024c2d725ff282.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-4.jpg
+  - [x] `/media/352d5a3e14525dc25cdd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-2.jpg
+  - [x] `/media/77d4f1907335b0f842eb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-3.jpg
+  - [x] `/media/823e07024c2d725ff282.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pallet-sat-4.jpg
 
 ### [ ] Sản phẩm phay CNC
 
