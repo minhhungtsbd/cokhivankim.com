@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 64 ảnh đã có bản thay thế được duyệt.
+- 70 ảnh đã có bản thay thế được duyệt.
 - 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -77,6 +77,12 @@ Cập nhật: 2026-10-26.
 - [x] `/media/b49a8ac61c14cd00816d.jpg` → `/brand-media/laser-stacked-components-vankim.png` — dùng ở 1 trang.
 - [x] `/media/6e0272bf6e4a45614b95.jpg` → `/brand-media/laser-machine-parts-vankim.png` — dùng ở 2 trang.
 - [x] `/media/9cb3ea1fd5e4adc1f9ae.jpg` → `/brand-media/laser-precision-parts-vankim.png` — dùng ở 5 trang.
+- [x] `/media/24405b6e35a3dea642d3.jpg` → `/brand-media/laser-pattern-gate-vankim.png` — dùng ở 2 trang.
+- [x] `/media/2036e36b7d4a17a14603.jpg` → `/brand-media/laser-pattern-bird-vankim.png` — dùng ở 5 trang.
+- [x] `/media/c27f115857ef411019ce.jpg` → `/brand-media/laser-pattern-floral-vankim.png` — dùng ở 6 trang.
+- [x] `/media/357807ae23edb6a4af74.jpg` → `/brand-media/laser-decorative-interior-vankim.png` — dùng ở 1 trang.
+- [x] `/media/9d19af0cdd9dba5631f4.jpg` → `/brand-media/laser-floral-panel-vankim.png` — dùng ở 2 trang.
+- [x] `/media/8016bd8017f4581f6eed.jpg` → `/brand-media/laser-ornamental-screen-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1be635151db24eb88c81.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/56c375bb5849e17ea70d.jpg` → `/brand-media/gear-rack-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/65ec900cfdce83d06b51.jpg` → `/brand-media/gear-set-vankim.png` — dùng ở 2 trang.
@@ -486,15 +492,15 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 20
   - [x] `/media/1e102039e6688be5f930.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/459518022696.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/24405b6e35a3dea642d3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-laser-tphcm.jpg
-  - [ ] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
-  - [ ] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
+  - [x] `/media/24405b6e35a3dea642d3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-laser-tphcm.jpg
+  - [x] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
+  - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
   - [ ] `/media/174687b3bcb2586ee6f4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-kim-loai-hoa-van-laser.jpg
   - [ ] `/media/afe5dc3faba54d720d10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-kim-loai.jpg
   - [ ] `/media/4d103b1c67ac92d84cb4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-kim-loai-tam.jpg
-  - [ ] `/media/357807ae23edb6a4af74.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-trang-tri.jpg
-  - [ ] `/media/9d19af0cdd9dba5631f4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-vach-ngan.jpg
-  - [ ] `/media/8016bd8017f4581f6eed.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-vach-ngan-kim-loai.jpg
+  - [x] `/media/357807ae23edb6a4af74.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-trang-tri.jpg
+  - [x] `/media/9d19af0cdd9dba5631f4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-vach-ngan.jpg
+  - [x] `/media/8016bd8017f4581f6eed.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-vach-ngan-kim-loai.jpg
   - [ ] `/media/4d01efa0978d21e09e78.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/hoa-tiet-kim-loai-cat-laser.jpg
   - [ ] `/media/d35fb5e6831704b3dedf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/hoa-van-kim-loai.jpg
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
@@ -814,12 +820,12 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/35fa08ef4bbffa979e10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/62776837.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
-  - [ ] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
-  - [ ] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
-  - [ ] `/media/24405b6e35a3dea642d3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-laser-tphcm.jpg
+  - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
+  - [x] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
+  - [x] `/media/24405b6e35a3dea642d3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-laser-tphcm.jpg
   - [ ] `/media/4d103b1c67ac92d84cb4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-kim-loai-tam.jpg
   - [ ] `/media/afe5dc3faba54d720d10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-kim-loai.jpg
-  - [ ] `/media/9d19af0cdd9dba5631f4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-vach-ngan.jpg
+  - [x] `/media/9d19af0cdd9dba5631f4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-vach-ngan.jpg
   - [ ] `/media/a0f9f16c1b0544677ac9.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gai-cong-kim-loai-tam.jpg
   - [ ] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [ ] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -837,7 +843,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/6e0272bf6e4a45614b95.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chi-tiet-may.jpg
   - [ ] `/media/a0f9f16c1b0544677ac9.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gai-cong-kim-loai-tam.jpg
   - [ ] `/media/e0b1d3b48021376ac890.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam-tphcm.jpg
-  - [ ] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
+  - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
   - [x] `/media/f88fbb2e9a766116a6cf.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-fiber.jpg
   - [x] `/media/b36b3b61614366ea5f26.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cat-chan-inox-tphcm.jpg
   - [ ] `/media/8338d1543970974f2343.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam-gia-re.jpg
@@ -2504,8 +2510,8 @@ Cập nhật: 2026-10-26.
   - [x] `/media/9712588fc7222c11ea41.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chi-tiet-may-4.jpg
   - [x] `/media/dc714c011cfec478da17.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chan-gap-inox.jpg
   - [x] `/media/8414135cf4f93920c224.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-bao-chan-inox.jpg
-  - [ ] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
-  - [ ] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
+  - [x] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
+  - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
   - [ ] `/media/aaf240ed9a9a7adef4cc.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-cong-kim-loai-tam-tp-hcm-sat-10ly.jpg
   - [ ] `/media/9d17b5768eb97ec94b0c.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam.jpg
   - [ ] `/media/e20ffb056584942d97c2.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-gia-re-tphcm.jpg
@@ -2537,8 +2543,8 @@ Cập nhật: 2026-10-26.
   - [x] `/media/9712588fc7222c11ea41.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chi-tiet-may-4.jpg
   - [x] `/media/dc714c011cfec478da17.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chan-gap-inox.jpg
   - [x] `/media/8414135cf4f93920c224.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-bao-chan-inox.jpg
-  - [ ] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
-  - [ ] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
+  - [x] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
+  - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
   - [ ] `/media/aaf240ed9a9a7adef4cc.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-cong-kim-loai-tam-tp-hcm-sat-10ly.jpg
   - [ ] `/media/9d17b5768eb97ec94b0c.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam.jpg
   - [ ] `/media/e20ffb056584942d97c2.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-gia-re-tphcm.jpg
@@ -2570,8 +2576,8 @@ Cập nhật: 2026-10-26.
   - [x] `/media/9712588fc7222c11ea41.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chi-tiet-may-4.jpg
   - [x] `/media/dc714c011cfec478da17.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chan-gap-inox.jpg
   - [x] `/media/8414135cf4f93920c224.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-bao-chan-inox.jpg
-  - [ ] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
-  - [ ] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
+  - [x] `/media/2036e36b7d4a17a14603.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-plasma.jpg
+  - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
   - [ ] `/media/aaf240ed9a9a7adef4cc.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-cong-kim-loai-tam-tp-hcm-sat-10ly.jpg
   - [ ] `/media/9d17b5768eb97ec94b0c.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam.jpg
   - [ ] `/media/e20ffb056584942d97c2.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-gia-re-tphcm.jpg
