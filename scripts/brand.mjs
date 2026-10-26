@@ -93,6 +93,8 @@ const imageReplacements={
  ,'/media/e364c097c7470ec35970.jpg':'/brand-media/steel-sheet-laser-patterns-vankim.png'
  ,'/media/dce1d3762f1fcc074413.jpg':'/brand-media/steel-sheet-floral-laser-vankim.png'
  ,'/media/70249acd540d50d6dfc6.jpg':'/brand-media/steel-sheet-floral-machine-vankim.png'
+ ,'/media/6900240af67277d9e081.jpg':'/brand-media/hopper-tower-vankim.png'
+ ,'/media/a7b38f570a8114064666.jpg':'/brand-media/hopper-enclosure-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
