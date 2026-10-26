@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 38 ảnh đã có bản thay thế được duyệt.
+- 39 ảnh đã có bản thay thế được duyệt.
 - 20 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -57,6 +57,7 @@ Cập nhật: 2026-10-26.
 - [x] `/media/bacf20062a950ac18b8b.jpg` → `/brand-media/mesh-conveyor-vankim.png` — dùng ở 2 trang.
 - [x] `/media/a7bce9d62e21d62ac5cf.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 2 trang.
 - [x] `/media/7089bc522119e1100672.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 4 trang.
+- [x] `/media/d3ab39997479c6848498.jpg` → `/brand-media/steel-frame-vankim.png` — dùng ở 3 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -295,13 +296,13 @@ Cập nhật: 2026-10-26.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Gia Công Thép Định Hình
+### [x] Gia Công Thép Định Hình
 
 - Route: `/gia-cong-thep-dinh-hinh-117/`
 - Ảnh cần rà: 3
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
+  - [x] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
 
 ### [x] Một đối tác. Nhiều giải pháp gia công.
 
@@ -385,7 +386,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
   - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
   - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
-  - [ ] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
+  - [x] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
   - [x] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
   - [x] `/media/7089bc522119e1100672.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/348417272204.jpg
@@ -633,7 +634,7 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/pallet-sat-483.html`
 - Ảnh cần rà: 7
-  - [ ] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
+  - [x] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
   - [ ] `/media/76d669a1528e10a3bc89.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat-1.jpg

@@ -44,6 +44,7 @@ const knownReplacements={
  ,'/media/bacf20062a950ac18b8b.jpg':'/brand-media/mesh-conveyor-vankim.png'
  ,'/media/a7bce9d62e21d62ac5cf.jpg':'/brand-media/gear-catalogue-vankim.png'
  ,'/media/7089bc522119e1100672.jpg':'/brand-media/gear-catalogue-vankim.png'
+ ,'/media/d3ab39997479c6848498.jpg':'/brand-media/steel-frame-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
