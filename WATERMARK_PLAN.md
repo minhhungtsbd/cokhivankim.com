@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 28 ảnh đã có bản thay thế được duyệt.
+- 35 ảnh đã có bản thay thế được duyệt.
 - 19 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -47,6 +47,13 @@ Cập nhật: 2026-10-26.
 - [x] `/media/154355ea77d42dfa475c.jpg` → `/brand-media/roller-machine-vankim.png` — dùng ở 1 trang.
 - [x] `/media/cff2f7defd8593126c93.jpg` → `/brand-media/rulo-orange-endcap-vankim.png` — dùng ở 1 trang.
 - [x] `/media/422716d5085affb20693.jpg` → `/brand-media/rulo-polished-wide-vankim.png` — dùng ở 1 trang.
+- [x] `/media/a0e2eeaa10e2f1b491b7.jpg` → `/brand-media/screw-conveyor-illustration-vankim.png` — dùng ở 1 trang.
+- [x] `/media/51b9786ffb9a295985d7.jpg` → `/brand-media/screw-conveyor-illustration-vankim.png` — dùng ở 1 trang.
+- [x] `/media/cab2c1ad6fac1c17de2e.jpg` → `/brand-media/screw-conveyor-incline-vankim.png` — dùng ở 1 trang.
+- [x] `/media/0372abc368e5f2b57701.jpg` → `/brand-media/screw-conveyor-wide-vankim.png` — dùng ở 1 trang.
+- [x] `/media/a79c09b1c6a4d7f2684e.jpg` → `/brand-media/screw-conveyor-drawing-vankim.png` — dùng ở 2 trang.
+- [x] `/media/1528945f271fc1f7f906.jpg` → `/brand-media/screw-conveyor-detail-vankim.png` — dùng ở 1 trang.
+- [x] `/media/1843670e515a58969b70.jpg` → `/brand-media/roller-conveyors-vankim.png` — dùng ở 3 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -250,15 +257,15 @@ Cập nhật: 2026-10-26.
 
 - Route: `/dich-vu/thiet-ke-thi-cong-vit-tai-bang-tai-luoi-inox-tphcm-177.html`
 - Ảnh cần rà: 10
-  - [ ] `/media/a0e2eeaa10e2f1b491b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/16171391.jpg
+  - [x] `/media/a0e2eeaa10e2f1b491b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/16171391.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/01278a42c9f23c6ba34f.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/41206192tu-van.jpg
-  - [ ] `/media/51b9786ffb9a295985d7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-1.jpg
-  - [ ] `/media/cab2c1ad6fac1c17de2e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-2.jpg
-  - [ ] `/media/0372abc368e5f2b57701.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-3.jpg
-  - [ ] `/media/a79c09b1c6a4d7f2684e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-4.jpg
-  - [ ] `/media/1528945f271fc1f7f906.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-5.jpg
-  - [ ] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
+  - [x] `/media/51b9786ffb9a295985d7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-1.jpg
+  - [x] `/media/cab2c1ad6fac1c17de2e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-2.jpg
+  - [x] `/media/0372abc368e5f2b57701.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-3.jpg
+  - [x] `/media/a79c09b1c6a4d7f2684e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-4.jpg
+  - [x] `/media/1528945f271fc1f7f906.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-5.jpg
+  - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
   - [ ] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
 
 ### [ ] Gia Công Bánh Răng
@@ -385,7 +392,7 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 6
   - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
+  - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
   - [ ] `/media/9e151baf1992fd681031.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/luoi-bang-tai-inox-dang-tam-phang-1.jpg
   - [ ] `/media/bacf20062a950ac18b8b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/bang-tai-luoi-inox-304-soi-xoan.jpg
   - [ ] `/media/2e03db663ccd7dc0382e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/luoi-bang-tai-inox.jpg
@@ -849,7 +856,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/4c5ba0dfcb57b901bea4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc.jpg
   - [ ] `/media/cf79b939336cf9130038.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-co-khi-cnc.jpg
   - [ ] `/media/a671d23b3c91134af9e6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-gia-cong-co-khi-hien-dai.jpg
-  - [ ] `/media/a79c09b1c6a4d7f2684e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-4.jpg
+  - [x] `/media/a79c09b1c6a4d7f2684e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-vit-tai-bang-tai-inox-4.jpg
   - [ ] `/media/6900240af67277d9e081.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep.jpg
   - [ ] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [ ] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -1352,7 +1359,7 @@ Cập nhật: 2026-10-26.
   - [ ] `/media/a76796af22c3e5a7e73a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-12.jpg
   - [ ] `/media/686a79b17eb37dd1d05d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-theo-yeu-cau-5.jpg
   - [ ] `/media/d42d7de3f5b0d63a757c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-13.jpg
-  - [ ] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
+  - [x] `/media/1843670e515a58969b70.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/Bang-tai-con-lan-inox.jpg
   - [ ] `/media/d31690b85badd7a66939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/ballet-sat.jpg
   - [ ] `/media/882b7b23a4d9a094e8e5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-14.jpg
   - [ ] `/media/3f58af78182e4ecd7d09.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-15.jpg

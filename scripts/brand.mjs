@@ -32,6 +32,13 @@ const imageReplacements={
  ,'/media/154355ea77d42dfa475c.jpg':'/brand-media/roller-machine-vankim.png'
  ,'/media/cff2f7defd8593126c93.jpg':'/brand-media/rulo-orange-endcap-vankim.png'
  ,'/media/422716d5085affb20693.jpg':'/brand-media/rulo-polished-wide-vankim.png'
+ ,'/media/a0e2eeaa10e2f1b491b7.jpg':'/brand-media/screw-conveyor-illustration-vankim.png'
+ ,'/media/51b9786ffb9a295985d7.jpg':'/brand-media/screw-conveyor-illustration-vankim.png'
+ ,'/media/cab2c1ad6fac1c17de2e.jpg':'/brand-media/screw-conveyor-incline-vankim.png'
+ ,'/media/0372abc368e5f2b57701.jpg':'/brand-media/screw-conveyor-wide-vankim.png'
+ ,'/media/a79c09b1c6a4d7f2684e.jpg':'/brand-media/screw-conveyor-drawing-vankim.png'
+ ,'/media/1528945f271fc1f7f906.jpg':'/brand-media/screw-conveyor-detail-vankim.png'
+ ,'/media/1843670e515a58969b70.jpg':'/brand-media/roller-conveyors-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
