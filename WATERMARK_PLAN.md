@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 45 ảnh đã có bản thay thế được duyệt.
+- 46 ảnh đã có bản thay thế được duyệt.
 - 32 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -58,6 +58,7 @@ Cập nhật: 2026-10-26.
 - [x] `/media/a7bce9d62e21d62ac5cf.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 2 trang.
 - [x] `/media/7089bc522119e1100672.jpg` → `/brand-media/gear-catalogue-vankim.png` — dùng ở 4 trang.
 - [x] `/media/d3ab39997479c6848498.jpg` → `/brand-media/steel-frame-vankim.png` — dùng ở 3 trang.
+- [x] `/media/bffbf2e25cbab6cd29de.jpg` → `/brand-media/industrial-hopper-vankim.png` — dùng ở 3 trang.
 - [x] `/media/1be635151db24eb88c81.jpg` → `/brand-media/gear-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/56c375bb5849e17ea70d.jpg` → `/brand-media/gear-rack-collection-vankim.png` — dùng ở 2 trang.
 - [x] `/media/65ec900cfdce83d06b51.jpg` → `/brand-media/gear-set-vankim.png` — dùng ở 2 trang.
@@ -365,13 +366,13 @@ Cập nhật: 2026-10-26.
 - Ảnh cần rà: 1
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Phễu Inox Công Nghiệp
+### [x] Phễu Inox Công Nghiệp
 
 - Route: `/pheu-inox-cong-nghiep-116/`
 - Ảnh cần rà: 3
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
+  - [x] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
 
 ### [x] Quạt Hút Thổi Công Nghiệp
 
@@ -403,7 +404,7 @@ Cập nhật: 2026-10-26.
   - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
   - [ ] `/media/ded3086a5d64f869b7b0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/962172609300.jpg
-  - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
+  - [x] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
   - [x] `/media/d3ab39997479c6848498.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/047828844370.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
   - [x] `/media/a7bce9d62e21d62ac5cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/348417272204/gia-cong-banh-rang-tphcm.jpg
@@ -598,7 +599,7 @@ Cập nhật: 2026-10-26.
 
 - Route: `/san-pham/gia-cong-pheu-inox-cong-nghiep-gia-re-chat-luong-484.html`
 - Ảnh cần rà: 5
-  - [ ] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
+  - [x] `/media/bffbf2e25cbab6cd29de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/product/321581225596.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/6900240af67277d9e081.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep.jpg
   - [ ] `/media/a7b38f570a8114064666.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep-3.jpg

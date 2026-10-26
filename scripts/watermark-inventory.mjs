@@ -45,6 +45,7 @@ const knownReplacements={
  ,'/media/a7bce9d62e21d62ac5cf.jpg':'/brand-media/gear-catalogue-vankim.png'
  ,'/media/7089bc522119e1100672.jpg':'/brand-media/gear-catalogue-vankim.png'
  ,'/media/d3ab39997479c6848498.jpg':'/brand-media/steel-frame-vankim.png'
+ ,'/media/bffbf2e25cbab6cd29de.jpg':'/brand-media/industrial-hopper-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
