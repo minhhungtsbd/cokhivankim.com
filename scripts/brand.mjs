@@ -1,6 +1,14 @@
 import * as cheerio from 'cheerio';
 
 export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp nhận yêu cầu sản xuất, gia công tiện, phay và các hạng mục cơ khí theo bản vẽ hoặc mẫu. Chúng tôi trao đổi cụ thể về vật liệu, kích thước, số lượng và tiến độ để thống nhất phương án phù hợp trước khi thực hiện. Phục vụ khách hàng cá nhân và doanh nghiệp tại TP.HCM; nhu cầu giao nhận ở khu vực khác được trao đổi theo từng đơn hàng.';
+// Original imported photos remain untouched in /media.  This map makes every
+// published instance use its approved Vạn Kim-branded replacement instead.
+const imageReplacements={
+ '/media/9712588fc7222c11ea41.jpg':'/brand-media/sprocket-vankim.png',
+ '/media/01173f717f55732537f7.jpg':'/brand-media/laser-star-vankim.png',
+ '/media/0285a9cb866c70d16bc9.jpg':'/brand-media/fabrication-table-vankim.png',
+ '/media/03714822033e8dcf4b0f.jpg':'/brand-media/machined-plate-vankim.png'
+};
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
  .replace(/Công ty (?:TNHH )?cơ khí Khởi\s+Minh/gi,'Hộ Kinh Doanh Vạn Kim')
@@ -20,6 +28,13 @@ export function applyBrand(html,route,contact){
  $('.kh-footer-tax,.kh-footer-network,.kh-footer-bct,.kh-fp-quiet,#kh-partners-title').each((_,e)=>{if(e.attribs.id==='kh-partners-title')$(e).closest('section').remove();else $(e).remove();});
  $('a[href]').each((_,e)=>{const a=$(e),href=a.attr('href');if(/facebook\.com|tiktok\.com|online\.gov\.vn|cokhikhoiminh\.com|cokhihanoi\.vn|cokhitphcm\.vn/.test(href))a.remove();if(href==='/ho-so-nang-luc.html')a.remove();});
  $('img').each((_,e)=>{const img=$(e);if(/logo.*(?:Vạn Kim|Khởi Minh)/i.test(img.attr('alt')||''))img.attr('src','/static/vankim-logo.svg').attr('alt','Logo Cơ Khí Vạn Kim').removeAttr('srcset').removeAttr('sizes');});
+ $('img, source').each((_,e)=>{
+  const element=$(e);
+  for(const [original,replacement] of Object.entries(imageReplacements)){
+   if(element.attr('src')===original)element.attr('src',replacement);
+   if(element.attr('srcset')?.includes(original))element.attr('srcset',element.attr('srcset').replaceAll(original,replacement));
+  }
+ });
  $('link[rel*="icon"]').attr('href','/static/vankim-logo.svg').attr('type','image/svg+xml');
  $('meta[property="og:image"]').attr('content','/static/vankim-logo.svg');
  $('.kh-brand strong').text('CƠ KHÍ VẠN KIM');
