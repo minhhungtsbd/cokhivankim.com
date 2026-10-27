@@ -394,6 +394,12 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/6ded2a545b8a616eef9a.jpg':'Không có watermark cũ; ảnh bánh răng gia công, kiểm tra trực quan.',
+ '/media/0478600f5ed5241a232f.jpg':'Không có watermark cũ; ảnh cụm bánh răng, kiểm tra trực quan.',
+ '/media/7263d9bdb7f919d48517.jpg':'Không có watermark cũ; ảnh máy phay cơ khí, kiểm tra trực quan.',
+ '/media/27421b8f11a9c6f4b85a.jpg':'Không có watermark cũ; ảnh bộ đầu gá, kiểm tra trực quan.',
+ '/media/3892f0780ca146e926b9.jpg':'Không có watermark cũ; ảnh bộ đầu gá trùng nội dung, kiểm tra trực quan.',
+ '/media/15147e5e0e228d68ba5c.jpg':'Không có watermark cũ; ảnh xưởng gia công kim loại, kiểm tra trực quan.',
  '/media/51db7e3955cfb2c6d422.jpg':'Không có watermark cũ; ảnh đầu kẹp và chi tiết tiện, kiểm tra trực quan.',
  '/media/13b83490527a73d1c937.jpg':'Không có watermark cũ; ảnh chi tiết phay chính xác, kiểm tra trực quan.',
  '/media/c2379269ffdf7b9b0453.jpg':'Không có watermark cũ; ảnh vỏ kim loại gia công, kiểm tra trực quan.',
