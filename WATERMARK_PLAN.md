@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 127 ảnh đã có bản thay thế được duyệt.
-- 48 ảnh đã kiểm tra, không có watermark cũ.
+- 54 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -150,6 +150,12 @@ Cập nhật: 2026-10-27.
 ## Ảnh đã kiểm tra, không cần thay watermark
 
 - [—] `/media/0c3213cbfb8d8b482f80.jpg` — Không có watermark cũ.
+- [—] `/media/cb7bfe6171fcc1688f45.jpg` — Không có watermark cũ.
+- [—] `/media/8406a9f5c0f17af61402.jpg` — Không có watermark cũ.
+- [—] `/media/2c502e20735d77306790.jpg` — Không có watermark cũ.
+- [—] `/media/87a74f07d93885a2e42f.jpg` — Không có watermark cũ.
+- [—] `/media/d9b8b08855b78539f8f6.jpg` — Không có watermark cũ.
+- [—] `/media/a8cf095578999ae54310.jpg` — Không có watermark cũ.
 - [—] `/media/de47eb681fd0b85e2110.jpg` — Không có watermark cũ.
 - [—] `/media/54674b74b2fad25f1f53.jpg` — Không có watermark cũ.
 - [—] `/media/9ca7097375ac1d5c4f5d.png` — Không có watermark cũ.
@@ -799,17 +805,17 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 26
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/cb7bfe6171fcc1688f45.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
+  - [—] `/media/cb7bfe6171fcc1688f45.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/92e4bbf15c4d2855f28f.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh.jpg
-  - [ ] `/media/8406a9f5c0f17af61402.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
+  - [—] `/media/8406a9f5c0f17af61402.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/ad379e57dbad991083d4.jpg` — dùng ở 10 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-thu.jpg
-  - [ ] `/media/2c502e20735d77306790.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
+  - [—] `/media/2c502e20735d77306790.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
   - [—] `/media/de78ce8df424ef96182a.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-cu.jpg
-  - [ ] `/media/87a74f07d93885a2e42f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
+  - [—] `/media/87a74f07d93885a2e42f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/4e4e95c6f65a5b2a1d44.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-banh-rang-cnc.jpg
-  - [ ] `/media/d9b8b08855b78539f8f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
+  - [—] `/media/d9b8b08855b78539f8f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
   - [ ] `/media/e45e877bca99f0ba648c.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ga-khoan.jpg
-  - [ ] `/media/a8cf095578999ae54310.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-dung-sai/dung-sai-in-3d-va-do-lap-ghep-cach-ghi-yeu-cau-tren-ban-ve.jpg
+  - [—] `/media/a8cf095578999ae54310.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-dung-sai/dung-sai-in-3d-va-do-lap-ghep-cach-ghi-yeu-cau-tren-ban-ve.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [ ] `/media/68c3cfedb460c0ddeda6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-vat-lieu/chon-vat-lieu-in-3d-cho-chi-tiet-co-khi-bat-dau-tu-dieu-kien-lam-viec.jpg
   - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg

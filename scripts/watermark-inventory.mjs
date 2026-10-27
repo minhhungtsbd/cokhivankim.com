@@ -136,6 +136,12 @@ const knownReplacements={
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
+ '/media/cb7bfe6171fcc1688f45.jpg':'Không có watermark cũ.',
+ '/media/8406a9f5c0f17af61402.jpg':'Không có watermark cũ.',
+ '/media/2c502e20735d77306790.jpg':'Không có watermark cũ.',
+ '/media/87a74f07d93885a2e42f.jpg':'Không có watermark cũ.',
+ '/media/d9b8b08855b78539f8f6.jpg':'Không có watermark cũ.',
+ '/media/a8cf095578999ae54310.jpg':'Không có watermark cũ.',
  '/media/de47eb681fd0b85e2110.jpg':'Không có watermark cũ.',
  '/media/54674b74b2fad25f1f53.jpg':'Không có watermark cũ.',
  '/media/9ca7097375ac1d5c4f5d.png':'Không có watermark cũ.',
