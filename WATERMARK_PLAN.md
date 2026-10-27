@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 279 ảnh đã có bản thay thế được duyệt.
-- 226 ảnh đã kiểm tra, không có watermark cũ.
+- 230 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -301,6 +301,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/aca79ae36ae65388b11f.jpg` — Không có watermark cũ.
+- [—] `/media/577319a20518cdfc6959.jpg` — Không có watermark cũ.
+- [—] `/media/5a4117edf87edb6e3609.jpg` — Không có watermark cũ.
+- [—] `/media/88280b64dac0e6d32517.jpg` — Không có watermark cũ.
 - [—] `/media/d66a4363b73cc3eba52d.jpg` — Không có watermark cũ.
 - [—] `/media/001ad8ceb6cd664eb335.jpg` — Không có watermark cũ.
 - [—] `/media/f87581452718abe2f9f3.jpg` — Không có watermark cũ.
@@ -1987,11 +1991,11 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-long-an-giao-hang-tan-noi-257.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/aca79ae36ae65388b11f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/03585720.jpg
+  - [—] `/media/aca79ae36ae65388b11f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/03585720.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/577319a20518cdfc6959.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-1.jpg
-  - [ ] `/media/5a4117edf87edb6e3609.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-2.jpg
-  - [ ] `/media/88280b64dac0e6d32517.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-4.jpg
+  - [—] `/media/577319a20518cdfc6959.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-1.jpg
+  - [—] `/media/5a4117edf87edb6e3609.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-2.jpg
+  - [—] `/media/88280b64dac0e6d32517.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-4.jpg
   - [ ] `/media/228f06c10d11183fb8ef.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-3.jpg
   - [ ] `/media/669a0815bb5a1437f1c5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-6.jpg
   - [ ] `/media/88a5a48e610bcf895c51.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-long-an-5.jpg
@@ -3080,7 +3084,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/e1c21cdd6d36c47da847.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/03585720/gia-cong-co-khi-tai-long-an-giao-hang-tan-noi.jpg
-  - [ ] `/media/aca79ae36ae65388b11f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/03585720.jpg
+  - [—] `/media/aca79ae36ae65388b11f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/03585720.jpg
   - [ ] `/media/f2d615d4c99ed21a10f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/39296295/dich-vu-gia-cong-co-khi-tai-can-tho-giao-hang-tan-noi.jpg
   - [—] `/media/08395c1799986d4ba333.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/39296295.jpg
   - [ ] `/media/bd73fdf5a59d2a83d8dc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/77878061/gia-cong-co-khi-tai-nhon-trach-uy-tin-chuyen-nghiep.jpg
