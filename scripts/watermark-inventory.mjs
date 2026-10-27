@@ -6,6 +6,9 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/7227092ce6eaaa77e5f0.jpg':'/brand-media/gia-cong-co-khi-28-vankim.png',
+ '/media/ed38f4d7073b9115ac37.jpg':'/brand-media/gia-cong-co-khi-17-vankim.png',
+ '/media/18bf10687f26639196d3.jpg':'/brand-media/gia-cong-co-khi-18-vankim.png',
  '/media/4fa4c8f98433c7366f7c.jpg':'/brand-media/stainless-cabinet-top-vankim.png',
  '/media/6ef5a8536ac137b61f4d.jpg':'/brand-media/stacked-angle-parts-vankim.png',
  '/media/77b24c4aa19bdbff3b14.jpg':'/brand-media/box-brackets-vankim.png',

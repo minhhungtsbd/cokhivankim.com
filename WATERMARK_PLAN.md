@@ -19,6 +19,9 @@ Cập nhật: 2026-10-27.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/7227092ce6eaaa77e5f0.jpg` → `/brand-media/flanged-spools-vankim.png` — dùng ở 1 trang.
+- [x] `/media/ed38f4d7073b9115ac37.jpg` → `/brand-media/stainless-panels-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/18bf10687f26639196d3.jpg` → `/brand-media/stainless-boxes-cutouts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/4fa4c8f98433c7366f7c.jpg` → `/brand-media/stainless-cabinet-top-vankim.png` — dùng ở 1 trang.
 - [x] `/media/6ef5a8536ac137b61f4d.jpg` → `/brand-media/stacked-angle-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/77b24c4aa19bdbff3b14.jpg` → `/brand-media/box-brackets-vankim.png` — dùng ở 1 trang.
@@ -42,9 +45,6 @@ Cập nhật: 2026-10-27.
 - [x] `/media/a2b25b93cb4cd9d25fcc.jpg` → `/brand-media/machined-brackets-rail-vankim.png` — dùng ở 1 trang.
 - [x] `/media/dc94a49ad479e46a148e.jpg` → `/brand-media/ornamental-screen-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/33a4b46521ee8f922086.jpg` → `/brand-media/stainless-trays-rails-vankim.png` — dùng ở 1 trang.
-- [x] `/media/7227092ce6eaaa77e5f0.jpg` → `/brand-media/flanged-spools-vankim.png` — dùng ở 1 trang.
-- [x] `/media/ed38f4d7073b9115ac37.jpg` → `/brand-media/stainless-panels-workshop-vankim.png` — dùng ở 1 trang.
-- [x] `/media/18bf10687f26639196d3.jpg` → `/brand-media/stainless-boxes-cutouts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e46825f8b74182851503.jpg` → `/brand-media/formed-cones-rings-vankim.png` — dùng ở 1 trang.
 - [x] `/media/85a0ccb65a8a41a63a8b.jpg` → `/brand-media/stainless-cabinets-cones-vankim.png` — dùng ở 1 trang.
 - [x] `/media/4f0229991e63e2e861ec.jpg` → `/brand-media/cnc-cutting-display-vankim.png` — dùng ở 1 trang.
