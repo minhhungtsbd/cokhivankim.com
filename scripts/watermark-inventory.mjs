@@ -6,6 +6,7 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/942c7203b02b155251a4.jpg':'/brand-media/cnc-pattern-panels-vankim.png',
  '/media/17b81bd0491bee823702.jpg':'/brand-media/cnc-stacked-ornate-panels-vankim.png',
  '/media/9b23ab92762174a44542.jpg':'/brand-media/cnc-ornate-gate-panel-vankim.png',
  '/media/4869d41d4c0ff6f22a04.jpg':'/brand-media/cnc-garden-screen-vankim.png',
