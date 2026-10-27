@@ -394,6 +394,12 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/54f9d39030421e0b74bd.jpg':'Không có watermark cũ; mã khắc trên kim loại là nội dung sản phẩm, kiểm tra trực quan.',
+ '/media/3083dd90bdcca437d3da.jpg':'Không có watermark cũ; bảng tên là nội dung sản phẩm, kiểm tra trực quan.',
+ '/media/1dc9ef122f2a8ae3b704.jpg':'Không có watermark cũ; collage mẫu khắc sản phẩm, kiểm tra trực quan.',
+ '/media/b39170ad8d4843e2742e.jpg':'Không có watermark cũ; collage mẫu khắc sản phẩm, kiểm tra trực quan.',
+ '/media/09ef771fd13b3eab198e.jpg':'Không có watermark cũ; ảnh khắc laser trên chi tiết, kiểm tra trực quan.',
+ '/media/db99e958c96bb961be35.jpg':'Không có watermark cũ; bảng nhãn khắc laser, kiểm tra trực quan.',
  '/media/3c55022aa620492c914c.jpg':'Không có watermark cũ; ảnh đầu kẹp khoan, chữ là thông số sản phẩm, kiểm tra trực quan.',
  '/media/e1c21cdd6d36c47da847.jpg':'Không có watermark cũ; ảnh cụm bánh răng, kiểm tra trực quan.',
  '/media/f2d615d4c99ed21a10f6.jpg':'Không có watermark cũ; chữ là thông số trên động cơ, không phải watermark, kiểm tra trực quan.',
