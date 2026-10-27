@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 352 ảnh đã kiểm tra, không có watermark cũ.
+- 358 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/1d6c489406d291211453.jpg` — Không có watermark cũ; ảnh kho tấm kim loại, kiểm tra trực quan.
+- [—] `/media/52ae4a592de6fa1662f4.jpg` — Không có watermark cũ; ảnh tấm kim loại, kiểm tra trực quan.
+- [—] `/media/dc7a7cd1c99239c2f841.jpg` — Không có watermark cũ; ảnh tấm kim loại, kiểm tra trực quan.
+- [—] `/media/c7463e212927c3c70b8e.jpg` — Không có watermark cũ; ảnh kho tấm kim loại, kiểm tra trực quan.
+- [—] `/media/b8272add29cb0f888e8c.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
+- [—] `/media/0fbd030ed021af8c712e.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
 - [—] `/media/3f35a8bcf8de2d583a84.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
 - [—] `/media/2ffcd9a0c2f088e8d1f1.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
 - [—] `/media/6f0d32ef922917e2b33b.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
@@ -2949,17 +2955,17 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Mua Sắt tấm 1 ly 2 ly 3 ly 4 ly 5 ly (1mm đến 5mm) tại TPHCM
+### [x] Mua Sắt tấm 1 ly 2 ly 3 ly 4 ly 5 ly (1mm đến 5mm) tại TPHCM
 
 - Route: `/tin-tuc/mua-sat-tam-1-ly-2-ly-3-ly-4-ly-5-ly-1mm-den-5mm-tai-tphcm-227.html`
 - Ảnh cần rà: 12
-  - [ ] `/media/1d6c489406d291211453.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68778948.jpg
+  - [—] `/media/1d6c489406d291211453.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68778948.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/52ae4a592de6fa1662f4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-1.jpg
-  - [ ] `/media/dc7a7cd1c99239c2f841.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-2.jpg
-  - [ ] `/media/c7463e212927c3c70b8e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-3.jpg
-  - [ ] `/media/b8272add29cb0f888e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-5.jpg
-  - [ ] `/media/0fbd030ed021af8c712e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-4.jpg
+  - [—] `/media/52ae4a592de6fa1662f4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-1.jpg
+  - [—] `/media/dc7a7cd1c99239c2f841.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-2.jpg
+  - [—] `/media/c7463e212927c3c70b8e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-3.jpg
+  - [—] `/media/b8272add29cb0f888e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-5.jpg
+  - [—] `/media/0fbd030ed021af8c712e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/sat-tam-4.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -3374,7 +3380,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/c3eeae6b2152f3505e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80719460/mua-sat-tam-6-ly-7-ly-8-ly-9-ly-10-ly-1mm-den-10mm-tai-tphcm.jpg
   - [ ] `/media/37ec93d391e1e381746d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80719460.jpg
   - [ ] `/media/1d8c93845011757a08af.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68778948/mua-sat-tam-1-ly-2-ly-3-ly-4-ly-5-ly-1mm-den-5mm-tai-tphcm.jpg
-  - [ ] `/media/1d6c489406d291211453.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68778948.jpg
+  - [—] `/media/1d6c489406d291211453.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68778948.jpg
   - [ ] `/media/b9cec38bdc896519686a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/20327224/thi-cong-thang-may-gia-dinh-quan-8-uy-tin.jpg
   - [ ] `/media/c40f2b24f4dc09251ac3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20327224.jpg
   - [ ] `/media/c804fa5ec57e87710c80.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/65395307/tu-van-lap-dat-thang-may-gia-dinh-quan-7-gia-re.jpg
