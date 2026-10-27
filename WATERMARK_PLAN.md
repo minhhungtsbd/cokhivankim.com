@@ -14,11 +14,13 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 409 ảnh đã có bản thay thế được duyệt.
-- 543 ảnh đã kiểm tra, không có watermark cũ.
+- 411 ảnh đã có bản thay thế được duyệt.
+- 547 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/d89ddd34700f7cbaf4f2.jpg` → `/brand-media/press-brake-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/d95893ac6f861abcda43.jpg` → `/brand-media/laser-workshop-wide-vankim.png` — dùng ở 1 trang.
 - [x] `/media/73478e284f7ad69962ab.jpg` → `/brand-media/stainless-machine-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e34f3d21cf963c68d541.jpg` → `/brand-media/machined-pins-vankim.png` — dùng ở 1 trang.
 - [x] `/media/8923977646b56a81fa4a.jpg` → `/brand-media/gear-catalog-collage-vankim.png` — dùng ở 1 trang.
@@ -431,6 +433,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/b997a33dfeec449cff93.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
+- [—] `/media/83b789bdc879d10d9525.jpg` — Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.
+- [—] `/media/65d12c047c341ffa2181.jpg` — Không có watermark cũ; ảnh thang máy trang trí, kiểm tra trực quan.
+- [—] `/media/8ef397c546965f6129ea.jpg` — Không có watermark cũ; collage thanh/profile thép, kiểm tra trực quan.
 - [—] `/media/dbaeb308803e8ce4a54e.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/0a61f7875c5323b4b8a7.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/e37dec658eff8c6f10e5.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
@@ -3816,7 +3822,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Tư vấn lắp đặt Thang Máy Gia Đình Quận 7 Giá Rẻ
+### [x] Tư vấn lắp đặt Thang Máy Gia Đình Quận 7 Giá Rẻ
 
 - Route: `/tin-tuc/tu-van-lap-dat-thang-may-gia-dinh-quan-7-gia-re-225.html`
 - Ảnh cần rà: 17
@@ -3829,9 +3835,9 @@ Cập nhật: 2026-10-27.
   - [—] `/media/c93f61369acdfe5308b8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-10.jpg
   - [—] `/media/4352332bb7783b7d83b0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-5.jpg
   - [—] `/media/7a162d092dc32db6dd54.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-9.jpg
-  - [ ] `/media/b997a33dfeec449cff93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-6.jpg
-  - [ ] `/media/83b789bdc879d10d9525.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-8.jpg
-  - [ ] `/media/65d12c047c341ffa2181.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-7.jpg
+  - [—] `/media/b997a33dfeec449cff93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-6.jpg
+  - [—] `/media/83b789bdc879d10d9525.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-8.jpg
+  - [—] `/media/65d12c047c341ffa2181.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -3862,9 +3868,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/01173f717f55732537f7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-3.jpg
-  - [ ] `/media/8ef397c546965f6129ea.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-thep-tam.jpg
-  - [ ] `/media/d89ddd34700f7cbaf4f2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chan-thep-tam.jpg
-  - [ ] `/media/d95893ac6f861abcda43.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chan-thep-tam-2.jpg
+  - [—] `/media/8ef397c546965f6129ea.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-thep-tam.jpg
+  - [x] `/media/d89ddd34700f7cbaf4f2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chan-thep-tam.jpg
+  - [x] `/media/d95893ac6f861abcda43.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chan-thep-tam-2.jpg
   - [ ] `/media/589bb9d363aecf200101.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam.jpg
   - [ ] `/media/ef7e05afe4becadbf6a5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-chan-thep-tam-1.jpg
   - [ ] `/media/4ce199c028e1bf1bbb00.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-1.jpg

@@ -6,6 +6,8 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/d89ddd34700f7cbaf4f2.jpg':'/brand-media/press-brake-workshop-vankim.png',
+ '/media/d95893ac6f861abcda43.jpg':'/brand-media/laser-workshop-wide-vankim.png',
  '/media/73478e284f7ad69962ab.jpg':'/brand-media/stainless-machine-workshop-vankim.png',
  '/media/e34f3d21cf963c68d541.jpg':'/brand-media/machined-pins-vankim.png',
  '/media/8923977646b56a81fa4a.jpg':'/brand-media/gear-catalog-collage-vankim.png',
@@ -423,6 +425,10 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/b997a33dfeec449cff93.jpg':'Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.',
+ '/media/83b789bdc879d10d9525.jpg':'Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.',
+ '/media/65d12c047c341ffa2181.jpg':'Không có watermark cũ; ảnh thang máy trang trí, kiểm tra trực quan.',
+ '/media/8ef397c546965f6129ea.jpg':'Không có watermark cũ; collage thanh/profile thép, kiểm tra trực quan.',
  '/media/dbaeb308803e8ce4a54e.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/0a61f7875c5323b4b8a7.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/e37dec658eff8c6f10e5.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
