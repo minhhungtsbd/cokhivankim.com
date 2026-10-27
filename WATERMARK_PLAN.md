@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 173 ảnh đã có bản thay thế được duyệt.
+- 174 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/e414b95a5f27f8cdfb2b.jpg` → `/brand-media/stainless-industrial-machine-vankim.png` — dùng ở 3 trang.
 - [x] `/media/ba90ffde7b1079215d46.jpg` → `/brand-media/precision-machined-rings-vankim.png` — dùng ở 5 trang.
 - [x] `/media/54d9490f2333b740a397.jpg` → `/brand-media/precision-machined-bushings-vankim.png` — dùng ở 2 trang.
 - [x] `/media/35fa08ef4bbffa979e10.jpg` → `/brand-media/cnc-floral-panel-vankim.png` — dùng ở 2 trang.
@@ -1053,7 +1054,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/54d9490f2333b740a397.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/49484893.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/ba90ffde7b1079215d46.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc-1.jpg
-  - [ ] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
+  - [x] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
   - [ ] `/media/71ed0ce7244877f16528.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-nan-mam-xe-3.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -1774,7 +1775,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/08eba1720a856ea6639c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/87230282.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/ef4071dc4c5c86dab9de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/che-tao-khuon-mau-co-khi.jpg
-  - [ ] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
+  - [x] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
   - [ ] `/media/4ec7d43d7367d35e28f6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-banh-rang.jpg
   - [ ] `/media/98ec29bac9bcabd26333.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
@@ -3165,7 +3166,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/ba90ffde7b1079215d46.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc-1.jpg
-  - [ ] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
+  - [x] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
   - [ ] `/media/cacf73f58ca8294b55cf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dan-dung.jpg
   - [ ] `/media/c3317ac8690cb1415469.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-chan.JPG
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
