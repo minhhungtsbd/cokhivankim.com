@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 345 ảnh đã có bản thay thế được duyệt.
+- 348 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/fecb3c4414f1e6696cd1.jpg` → `/brand-media/white-gold-dragon-gate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e1263fad0b39e8f47184.jpg` → `/brand-media/gold-four-panel-floral-gate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/336af5c7e36210144d8b.jpg` → `/brand-media/gray-white-floral-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/9cd1c665eca3b2de47ee.jpg` → `/brand-media/gold-black-house-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/6110e52c4324d2338087.jpg` → `/brand-media/four-panel-gold-inlay-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/930d7f4adb7f731eaf4e.jpg` → `/brand-media/gold-phoenix-four-panel-gate-vankim.png` — dùng ở 1 trang.
@@ -2232,7 +2235,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia Công Cửa Cổng Sắt Cắt CNC tại TPHCM – Mẫu cổng sắt CNC
+### [x] Gia Công Cửa Cổng Sắt Cắt CNC tại TPHCM – Mẫu cổng sắt CNC
 
 - Route: `/tin-tuc/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc-217.html`
 - Ảnh cần rà: 52
@@ -2280,9 +2283,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/9cd1c665eca3b2de47ee.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-18.jpg
   - [x] `/media/6110e52c4324d2338087.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-19.jpg
   - [x] `/media/930d7f4adb7f731eaf4e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-20.jpg
-  - [ ] `/media/fecb3c4414f1e6696cd1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-21.jpg
-  - [ ] `/media/e1263fad0b39e8f47184.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-23.jpg
-  - [ ] `/media/336af5c7e36210144d8b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-22.jpg
+  - [x] `/media/fecb3c4414f1e6696cd1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-21.jpg
+  - [x] `/media/e1263fad0b39e8f47184.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-23.jpg
+  - [x] `/media/336af5c7e36210144d8b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-22.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
