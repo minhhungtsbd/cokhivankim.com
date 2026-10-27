@@ -6,6 +6,9 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/2f049d5006fa4fa95c05.jpg':'/brand-media/sheet-metal-bracket-assembly-vankim.png',
+ '/media/36ece80e8ef6951aa5b4.jpg':'/brand-media/stainless-profiles-vankim.png',
+ '/media/7d03d0bf41cbf620a81a.jpg':'/brand-media/stainless-workshop-panels-vankim.png',
  '/media/1c6e5815b7339ec90946.jpg':'/brand-media/laser-cutting-sparks-vankim.png',
  '/media/16c3c9c6d64a3cb49a3a.jpg':'/brand-media/cnc-ornate-gate-vankim.png',
  '/media/c66db623ad083fd7d31d.jpg':'/brand-media/turned-metal-components-vankim.png',
@@ -396,6 +399,10 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/a39ee440693a04db74c2.jpg':'Không có watermark cũ; collage thép hình, kiểm tra trực quan.',
+ '/media/b6c9f5ebf39fc89e83e6.jpg':'Không có watermark cũ; collage thép hình trùng nội dung, kiểm tra trực quan.',
+ '/media/fffca3a9e07788236ba1.jpg':'Không có watermark cũ; ảnh đồng hồ trang trí, kiểm tra trực quan.',
+ '/media/36ece80e8ef6951aa5b4.jpg':'Không có watermark cũ; ảnh sản phẩm inox, kiểm tra trực quan.',
  '/media/08b4670394dd72743c81.jpg':'Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.',
  '/media/040f74c912a80ad7f6b1.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/ff8b38e0f07a32388711.jpg':'Không có watermark cũ; ảnh thang máy trùng nội dung, kiểm tra trực quan.',

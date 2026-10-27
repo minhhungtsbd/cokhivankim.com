@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 382 ảnh đã có bản thay thế được duyệt.
-- 485 ảnh đã kiểm tra, không có watermark cũ.
+- 385 ảnh đã có bản thay thế được duyệt.
+- 489 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/2f049d5006fa4fa95c05.jpg` → `/brand-media/sheet-metal-bracket-assembly-vankim.png` — dùng ở 1 trang.
+- [x] `/media/36ece80e8ef6951aa5b4.jpg` → `/brand-media/stainless-profiles-vankim.png` — dùng ở 1 trang.
+- [x] `/media/7d03d0bf41cbf620a81a.jpg` → `/brand-media/stainless-workshop-panels-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1c6e5815b7339ec90946.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/16c3c9c6d64a3cb49a3a.jpg` → `/brand-media/cnc-ornate-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c66db623ad083fd7d31d.jpg` → `/brand-media/turned-metal-components-vankim.png` — dùng ở 2 trang.
@@ -404,6 +407,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/a39ee440693a04db74c2.jpg` — Không có watermark cũ; collage thép hình, kiểm tra trực quan.
+- [—] `/media/b6c9f5ebf39fc89e83e6.jpg` — Không có watermark cũ; collage thép hình trùng nội dung, kiểm tra trực quan.
+- [—] `/media/fffca3a9e07788236ba1.jpg` — Không có watermark cũ; ảnh đồng hồ trang trí, kiểm tra trực quan.
+- [—] `/media/36ece80e8ef6951aa5b4.jpg` — Không có watermark cũ; ảnh sản phẩm inox, kiểm tra trực quan.
 - [—] `/media/08b4670394dd72743c81.jpg` — Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.
 - [—] `/media/040f74c912a80ad7f6b1.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/ff8b38e0f07a32388711.jpg` — Không có watermark cũ; ảnh thang máy trùng nội dung, kiểm tra trực quan.
@@ -3544,15 +3551,15 @@ Cập nhật: 2026-10-27.
   - [x] `/media/421992b47bce74a3de09.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/54621017.jpg
   - [x] `/media/16c3c9c6d64a3cb49a3a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/10587743/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc.jpg
   - [x] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
-  - [ ] `/media/2f049d5006fa4fa95c05.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33458472/gia-cong-chan-dap-thep-tam-tphcm-cat-dap-chan-uon.jpg
+  - [x] `/media/2f049d5006fa4fa95c05.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33458472/gia-cong-chan-dap-thep-tam-tphcm-cat-dap-chan-uon.jpg
   - [x] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
-  - [ ] `/media/a39ee440693a04db74c2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/46989785/xuong-gia-cong-cat-thep-tam-tphcm-cat-chan-dap-thep-tam.jpg
-  - [ ] `/media/b6c9f5ebf39fc89e83e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46989785.jpg
-  - [ ] `/media/fffca3a9e07788236ba1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/16608075/dong-ho-treo-tuong-trang-tri-phong-khach-gia-xuong-ship-toan-quoc.jpg
+  - [—] `/media/a39ee440693a04db74c2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/46989785/xuong-gia-cong-cat-thep-tam-tphcm-cat-chan-dap-thep-tam.jpg
+  - [—] `/media/b6c9f5ebf39fc89e83e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46989785.jpg
+  - [—] `/media/fffca3a9e07788236ba1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/16608075/dong-ho-treo-tuong-trang-tri-phong-khach-gia-xuong-ship-toan-quoc.jpg
   - [—] `/media/e8a16b95bed931f4e0fd.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/16608075.jpg
-  - [ ] `/media/36ece80e8ef6951aa5b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/13195708/gia-cong-inox-theo-yeu-cau-tphcm-xuong-gia-cong-inox-gia-re.jpg
+  - [x] `/media/36ece80e8ef6951aa5b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/13195708/gia-cong-inox-theo-yeu-cau-tphcm-xuong-gia-cong-inox-gia-re.jpg
   - [x] `/media/66cc223419890acda822.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/13195708.jpg
-  - [ ] `/media/7d03d0bf41cbf620a81a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/21057247/gia-cong-co-khi-go-vap-gia-cong-co-khi-theo-yeu-cau.jpg
+  - [x] `/media/7d03d0bf41cbf620a81a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/21057247/gia-cong-co-khi-go-vap-gia-cong-co-khi-theo-yeu-cau.jpg
   - [x] `/media/0285a9cb866c70d16bc9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/21057247.jpg
   - [ ] `/media/ac44f523f9d7f2073937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/22608188/gia-cong-cat-laser-kim-loai-tam-tphcm-cat-cnc-kim-loai-gia-re.jpg
   - [x] `/media/07dc4d94a5c30a3817a6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/22608188.jpg
@@ -3773,7 +3780,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/xuong-gia-cong-cat-thep-tam-tphcm-cat-chan-dap-thep-tam-215.html`
 - Ảnh cần rà: 16
-  - [ ] `/media/b6c9f5ebf39fc89e83e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46989785.jpg
+  - [—] `/media/b6c9f5ebf39fc89e83e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46989785.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/01173f717f55732537f7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-3.jpg
