@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 119 ảnh đã có bản thay thế được duyệt.
+- 121 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -138,6 +138,8 @@ Cập nhật: 2026-10-27.
 - [x] `/media/56f12268dd113d79aa14.jpg` → `/brand-media/wash-machine-8-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c9842b6c6b7bdd15441e.jpg` → `/brand-media/wash-machine-9-vankim.png` — dùng ở 1 trang.
 - [x] `/media/ecc3ad4a553f2f0bf6cc.jpg` → `/brand-media/wash-machine-10-vankim.png` — dùng ở 1 trang.
+- [x] `/media/a13e966a2c010cb6cccc.jpg` → `/brand-media/wash-machine-11-vankim.png` — dùng ở 1 trang.
+- [x] `/media/ec65fc7e0939ec5035b6.jpg` → `/brand-media/wash-machine-12-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -707,7 +709,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/16e74ea51d6c27014a88.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/356230235202/may-rua-phoi-tu-dong.jpg
   - [x] `/media/399cb05ca63ca14a4944.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/356230235202.jpg
 
-### [ ] Máy Rửa Phôi Tự Động
+### [x] Máy Rửa Phôi Tự Động
 
 - Route: `/san-pham/may-rua-phoi-tu-dong-491.html`
 - Ảnh cần rà: 15
@@ -723,8 +725,8 @@ Cập nhật: 2026-10-27.
   - [x] `/media/56f12268dd113d79aa14.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong17.jpg
   - [x] `/media/c9842b6c6b7bdd15441e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong19.jpg
   - [x] `/media/ecc3ad4a553f2f0bf6cc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong22.jpg
-  - [ ] `/media/a13e966a2c010cb6cccc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong25.jpg
-  - [ ] `/media/ec65fc7e0939ec5035b6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong31.jpg
+  - [x] `/media/a13e966a2c010cb6cccc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong25.jpg
+  - [x] `/media/ec65fc7e0939ec5035b6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong31.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
 
 ### [x] Pallet sắt

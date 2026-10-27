@@ -125,6 +125,8 @@ const knownReplacements={
  ,'/media/56f12268dd113d79aa14.jpg':'/brand-media/wash-machine-8-vankim.png'
  ,'/media/c9842b6c6b7bdd15441e.jpg':'/brand-media/wash-machine-9-vankim.png'
  ,'/media/ecc3ad4a553f2f0bf6cc.jpg':'/brand-media/wash-machine-10-vankim.png'
+ ,'/media/a13e966a2c010cb6cccc.jpg':'/brand-media/wash-machine-11-vankim.png'
+ ,'/media/ec65fc7e0939ec5035b6.jpg':'/brand-media/wash-machine-12-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
