@@ -180,6 +180,7 @@ const checkedClean={
  ,'/media/ce2ccd1071cc894585a5.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
  ,'/media/4e4e95c6f65a5b2a1d44.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
  ,'/media/70934889193ead42788a.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
+ ,'/media/afd1a616546a71ceb5a6.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
 };
 const needsSource={
  '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'

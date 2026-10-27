@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 125 ảnh đã có bản thay thế được duyệt.
-- 47 ảnh đã kiểm tra, không có watermark cũ.
+- 48 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -194,6 +194,7 @@ Cập nhật: 2026-10-27.
 - [—] `/media/ce2ccd1071cc894585a5.jpg` — Ảnh chi tiết nhựa in 3D, không có watermark cũ.
 - [—] `/media/4e4e95c6f65a5b2a1d44.jpg` — Ảnh chi tiết nhựa in 3D, không có watermark cũ.
 - [—] `/media/70934889193ead42788a.jpg` — Ảnh chi tiết nhựa in 3D, không có watermark cũ.
+- [—] `/media/afd1a616546a71ceb5a6.jpg` — Ảnh chi tiết nhựa in 3D, không có watermark cũ.
 
 ## Ảnh cần nguồn sạch hoặc xử lý thủ công
 
@@ -809,7 +810,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/a8cf095578999ae54310.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-dung-sai/dung-sai-in-3d-va-do-lap-ghep-cach-ghi-yeu-cau-tren-ban-ve.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [ ] `/media/68c3cfedb460c0ddeda6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-vat-lieu/chon-vat-lieu-in-3d-cho-chi-tiet-co-khi-bat-dau-tu-dieu-kien-lam-viec.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [ ] `/media/465eeae8a13284e04e88.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-puly/in-3d-puly-nhua-va-chi-tiet-truyen-dong-can-kiem-tra-gi.jpg
   - [—] `/media/bfca9a5e4829f84e8a7f.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-puly.jpg
   - [ ] `/media/e710523007ea518cd5c3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-robot/in-3d-ma-kep-va-ga-cam-bien-robot-tu-bien-dang-den-kiem-tra-lap.jpg
@@ -821,7 +822,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/e826f2a107f31495c488.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v43-do-ga/in-3d-do-ga-co-khi-ung-dung-lap-rap-dinh-vi-va-ket-hop-kim-loai.jpg
   - [—] `/media/d2ff906d2f0521f92cfb.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-do-ga.jpg
 
-### [ ] Bánh răng nhựa in 3D hay CNC: so sánh để chọn đúng phương án
+### [x] Bánh răng nhựa in 3D hay CNC: so sánh để chọn đúng phương án
 
 - Route: `/tin-tuc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an-290.html`
 - Ảnh cần rà: 11
@@ -835,7 +836,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/a75ba14e16d31cb66565.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-banh-rang.jpg
   - [—] `/media/bfca9a5e4829f84e8a7f.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-puly.jpg
   - [—] `/media/0c3213cbfb8d8b482f80.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-so-sanh.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
 
 ### [ ] Cắt CNC Kim Loại và cắt CNC Sắt Thép Tấm tại TPHCM
 
@@ -948,11 +949,11 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Chọn vật liệu in 3D cho chi tiết cơ khí: bắt đầu từ điều kiện làm việc
+### [x] Chọn vật liệu in 3D cho chi tiết cơ khí: bắt đầu từ điều kiện làm việc
 
 - Route: `/tin-tuc/chon-vat-lieu-in-3d-cho-chi-tiet-co-khi-bat-dau-tu-dieu-kien-lam-viec-293.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -1270,7 +1271,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/d2ff906d2f0521f92cfb.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-do-ga.jpg
   - [ ] `/media/24594876c91a6450842a.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-hoan-thien.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
 
 ### [ ] Đơn hàng in 3D chi tiết nhựa dạng tay vặn tại Khởi Minh
 
@@ -1286,7 +1287,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
   - [—] `/media/70934889193ead42788a.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-dung-sai/dung-sai-in-3d-va-do-lap-ghep-cach-ghi-yeu-cau-tren-ban-ve.jpg
   - [—] `/media/de47eb681fd0b85e2110.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-ung-dung.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [ ] `/media/cfb1a37c4a8905e4fda9.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-dat-hang.jpg
 
@@ -1961,7 +1962,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
   - [—] `/media/4e4e95c6f65a5b2a1d44.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-banh-rang-cnc.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [—] `/media/bfca9a5e4829f84e8a7f.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-puly.jpg
 
@@ -1995,7 +1996,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/e45e877bca99f0ba648c.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ga-khoan.jpg
   - [—] `/media/c55cf8c0201ac8090ac1.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-robot.jpg
   - [ ] `/media/24594876c91a6450842a.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-hoan-thien.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
 
 ### [ ] In 3D hay CNC nhựa: chọn phương án nào cho chi tiết của bạn?
 
@@ -2009,7 +2010,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
   - [—] `/media/4e4e95c6f65a5b2a1d44.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-banh-rang-cnc.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [—] `/media/ad379e57dbad991083d4.jpg` — dùng ở 10 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-thu.jpg
 
@@ -2026,7 +2027,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
   - [—] `/media/d2ff906d2f0521f92cfb.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-do-ga.jpg
   - [—] `/media/6d76c8784a9b479d6257.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-vo-gia-do.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
 
 ### [ ] In 3D mẫu thử cơ khí: kiểm tra hình dáng, lắp ghép và thiết kế
@@ -2057,7 +2058,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
   - [—] `/media/6d76c8784a9b479d6257.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-vo-gia-do.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
   - [—] `/media/ad379e57dbad991083d4.jpg` — dùng ở 10 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-thu.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
 
@@ -2075,7 +2076,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/a75ba14e16d31cb66565.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-banh-rang.jpg
   - [—] `/media/4e4e95c6f65a5b2a1d44.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-banh-rang-cnc.jpg
   - [ ] `/media/24594876c91a6450842a.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-hoan-thien.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
 
 ### [ ] In 3D vỏ thiết bị và giá đỡ theo yêu cầu: thiết kế để lắp vừa
 
@@ -2091,7 +2092,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [—] `/media/ad379e57dbad991083d4.jpg` — dùng ở 10 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-thu.jpg
-  - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
+  - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
 
 ### [ ] Khắc laser Bình Chánh trên kim loại, giao tận nơi
 
