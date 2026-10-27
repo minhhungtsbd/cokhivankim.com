@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 175 ảnh đã có bản thay thế được duyệt.
-- 71 ảnh đã kiểm tra, không có watermark cũ.
+- 72 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -197,6 +197,7 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/2ffc3b771eefeaf80628.jpg` — Không có watermark cũ.
 - [—] `/media/27bf2e01f7628e447780.jpg` — Không có watermark cũ.
 - [—] `/media/0343fa46ba969ce3b330.jpg` — Không có watermark cũ.
 - [—] `/media/d0b60168dbe3d1f06a16.jpg` — Không có watermark cũ; trùng ảnh /media/25cc2f7bed6a23147a81.jpg.
@@ -1111,7 +1112,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/dich-vu-gia-cong-co-khi-quan-11-theo-yeu-cau-274.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/2ffc3b771eefeaf80628.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32946114.jpg
+  - [—] `/media/2ffc3b771eefeaf80628.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32946114.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/ddf8a4626d1f549b3397.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-1.jpg
   - [ ] `/media/22c93cea9962a55d7111.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-2.jpg
@@ -2774,7 +2775,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/51db7e3955cfb2c6d422.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80391050/gia-cong-co-khi-quan-tan-binh-uy-tin-chat-luong.jpg
   - [—] `/media/54674b74b2fad25f1f53.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80391050.jpg
   - [ ] `/media/13b83490527a73d1c937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/32946114/dich-vu-gia-cong-co-khi-quan-11-theo-yeu-cau.jpg
-  - [ ] `/media/2ffc3b771eefeaf80628.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32946114.jpg
+  - [—] `/media/2ffc3b771eefeaf80628.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32946114.jpg
   - [ ] `/media/535a2c446db5aae2fd70.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20089292.jpg
   - [ ] `/media/c2379269ffdf7b9b0453.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/12895665/gia-cong-co-khi-quan-6-dich-vu-chuyen-nghiep-uy-tin.jpg
   - [ ] `/media/e35ac31cc2de00107e83.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/12895665.jpg
