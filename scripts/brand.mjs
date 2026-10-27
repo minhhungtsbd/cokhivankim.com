@@ -129,6 +129,8 @@ const imageReplacements={
  ,'/media/001ab6eb57b1ae18c50b.jpg':'/brand-media/cnc-turned-tooling-closeup-vankim.png'
  ,'/media/4786400505ff1fedbf73.jpg':'/brand-media/cnc-turned-tooling-group-vankim.png'
  ,'/media/4d01efa0978d21e09e78.jpg':'/brand-media/laser-tiger-panel-vankim.png'
+ ,'/media/7edbb0e70fee2c0b7c3f.jpg':'/brand-media/cnc-wildlife-panel-vankim.png'
+ ,'/media/c9d7b61daf91ea9f57a4.jpg':'/brand-media/mechanical-services-banner-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
