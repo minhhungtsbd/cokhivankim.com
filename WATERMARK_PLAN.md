@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 154 ảnh đã có bản thay thế được duyệt.
+- 155 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/a72993021efbed4a5bbb.jpg` → `/brand-media/perforated-bent-sheets-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c67e13e6170d652c0c1d.jpg` → `/brand-media/cnc-city-map-art-vankim.png` — dùng ở 1 trang.
 - [x] `/media/6733c77a551b4367e463.jpg` → `/brand-media/laser-cutting-bed-patterns-vankim.png` — dùng ở 1 trang.
 - [x] `/media/942c7203b02b155251a4.jpg` → `/brand-media/cnc-pattern-panels-vankim.png` — dùng ở 1 trang.
@@ -905,7 +906,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/148cf5deb8daeb6ee92e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-sat.jpg
   - [x] `/media/6733c77a551b4367e463.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam(1).jpg
   - [x] `/media/c67e13e6170d652c0c1d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-tam.jpg
-  - [ ] `/media/a72993021efbed4a5bbb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-cnc.jpg
+  - [x] `/media/a72993021efbed4a5bbb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-cnc.jpg
   - [ ] `/media/19d6442c35c1065f0f08.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-gia-re.jpg
   - [ ] `/media/1c2fcbf1328840d922fe.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-kim-loai-tam.jpg
   - [ ] `/media/f033fb99249398a69dd6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(4).jpg
