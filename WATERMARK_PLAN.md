@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 372 ảnh đã có bản thay thế được duyệt.
-- 258 ảnh đã kiểm tra, không có watermark cũ.
+- 373 ảnh đã có bản thay thế được duyệt.
+- 260 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/bd0c8d9f57a7912951e9.jpg` → `/brand-media/green-cnc-lathe-workshop-vankim.png` — dùng ở 2 trang.
 - [x] `/media/9e46d3ed1687bad150c8.jpg` → `/brand-media/jig-curved-fin-fixtures-vankim.png` — dùng ở 2 trang.
 - [x] `/media/6c232938b30455cfcb1d.jpg` → `/brand-media/large-ring-turning-machine-vankim.png` — dùng ở 2 trang.
 - [x] `/media/a611f3ad3eccedd588bf.jpg` → `/brand-media/cnc-mold-machining-vankim.png` — dùng ở 2 trang.
@@ -394,6 +395,8 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/ef4c33ffde88641f7e7c.jpg` — Không có watermark cũ; kiểm tra trực quan.
+- [—] `/media/7d48fae45492a1efac87.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/4fb79a41b9f6e95a2931.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/c8c68556247f5168b3c1.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/ba211835702618ea89b4.jpg` — Không có watermark cũ; kiểm tra trực quan.
@@ -2355,7 +2358,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/d2ff906d2f0521f92cfb.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-do-ga.jpg
   - [—] `/media/6d76c8784a9b479d6257.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-vo-gia-do.jpg
 
-### [ ] Gia công Tiện Phay CNC chính xác theo yêu cầu TPHCM
+### [x] Gia công Tiện Phay CNC chính xác theo yêu cầu TPHCM
 
 - Route: `/tin-tuc/gia-cong-tien-cnc-phay-cnc-chinh-xac-theo-yeu-cau-tphcm-180.html`
 - Ảnh cần rà: 21
@@ -2374,14 +2377,14 @@ Cập nhật: 2026-10-27.
   - [x] `/media/6c232938b30455cfcb1d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-1.jpg
   - [x] `/media/03714822033e8dcf4b0f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-do-ga-jig.jpg
   - [x] `/media/a611f3ad3eccedd588bf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-khuon.jpg
-  - [ ] `/media/bd0c8d9f57a7912951e9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-2.jpg
+  - [x] `/media/bd0c8d9f57a7912951e9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-2.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công Tiện Phay CNC chính xác theo yêu cầu TPHCM
+### [x] Gia công Tiện Phay CNC chính xác theo yêu cầu TPHCM
 
 - Route: `/tin-tuc/gia-cong-tien-phay-cnc-chinh-xac-theo-yeu-cau-tphcm-180.html`
 - Ảnh cần rà: 21
@@ -2400,7 +2403,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/6c232938b30455cfcb1d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-1.jpg
   - [x] `/media/03714822033e8dcf4b0f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-do-ga-jig.jpg
   - [x] `/media/a611f3ad3eccedd588bf.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-khuon.jpg
-  - [ ] `/media/bd0c8d9f57a7912951e9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-2.jpg
+  - [x] `/media/bd0c8d9f57a7912951e9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-2.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -2555,9 +2558,9 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/khac-laser-binh-chanh-gia-re-249.html`
 - Ảnh cần rà: 10
-  - [ ] `/media/ef4c33ffde88641f7e7c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/40848773.jpg
+  - [—] `/media/ef4c33ffde88641f7e7c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/40848773.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/7d48fae45492a1efac87.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-binh-chanh-1.jpg
+  - [—] `/media/7d48fae45492a1efac87.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-binh-chanh-1.jpg
   - [ ] `/media/f4bc5ec2817549f20c31.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-binh-chanh-2.jpg
   - [ ] `/media/649bac6a9a7bc706dbd3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-binh-chanh-4.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
@@ -3221,7 +3224,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/1dc9ef122f2a8ae3b704.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/52366637/khac-laser-quan-binh-thanh-lay-lien.jpg
   - [ ] `/media/f2e1c995db548f833a90.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/52366637.jpg
   - [ ] `/media/b39170ad8d4843e2742e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/40848773/khac-laser-binh-chanh-gia-re.jpg
-  - [ ] `/media/ef4c33ffde88641f7e7c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/40848773.jpg
+  - [—] `/media/ef4c33ffde88641f7e7c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/40848773.jpg
   - [ ] `/media/09ef771fd13b3eab198e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/27200212/khac-laser-quan-12-gia-re.jpg
   - [ ] `/media/11f039da13949b2cc6e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/27200212.jpg
   - [ ] `/media/db99e958c96bb961be35.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/51776847/khac-laser-quan-11-lay-lien.jpg

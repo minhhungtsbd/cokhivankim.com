@@ -6,6 +6,7 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/bd0c8d9f57a7912951e9.jpg':'/brand-media/green-cnc-lathe-workshop-vankim.png',
  '/media/9e46d3ed1687bad150c8.jpg':'/brand-media/jig-curved-fin-fixtures-vankim.png',
  '/media/6c232938b30455cfcb1d.jpg':'/brand-media/large-ring-turning-machine-vankim.png',
  '/media/a611f3ad3eccedd588bf.jpg':'/brand-media/cnc-mold-machining-vankim.png',
@@ -386,6 +387,8 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/ef4c33ffde88641f7e7c.jpg':'Không có watermark cũ; kiểm tra trực quan.',
+ '/media/7d48fae45492a1efac87.jpg':'Không có watermark cũ; kiểm tra trực quan.',
  '/media/4fb79a41b9f6e95a2931.jpg':'Không có watermark cũ; kiểm tra trực quan.',
  '/media/c8c68556247f5168b3c1.jpg':'Không có watermark cũ; kiểm tra trực quan.',
  '/media/ba211835702618ea89b4.jpg':'Không có watermark cũ; kiểm tra trực quan.',
