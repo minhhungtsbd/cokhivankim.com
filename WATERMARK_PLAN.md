@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 279 ảnh đã có bản thay thế được duyệt.
-- 195 ảnh đã kiểm tra, không có watermark cũ.
+- 199 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -301,6 +301,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/65196399a97e8b472e6d.jpg` — Không có watermark cũ.
+- [—] `/media/ea0be8849abae7f34cc9.jpg` — Không có watermark cũ; mã 032-FMB22 là ký hiệu trên sản phẩm.
+- [—] `/media/4a361c74f79401a86baa.jpg` — Không có watermark cũ.
+- [—] `/media/e58ed2ec840462b914cf.jpg` — Không có watermark cũ.
 - [—] `/media/7de3229efdc5c84e9a08.jpg` — Không có watermark cũ.
 - [—] `/media/d0f05c194bdc2e73538c.jpg` — Không có watermark cũ.
 - [—] `/media/401ea327b042781477db.jpg` — Không có watermark cũ.
@@ -1882,10 +1886,10 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 14
   - [—] `/media/54674b74b2fad25f1f53.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80391050.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/65196399a97e8b472e6d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-1.jpg
-  - [ ] `/media/ea0be8849abae7f34cc9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-2.jpg
-  - [ ] `/media/4a361c74f79401a86baa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-3.jpg
-  - [ ] `/media/e58ed2ec840462b914cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-4.jpg
+  - [—] `/media/65196399a97e8b472e6d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-1.jpg
+  - [—] `/media/ea0be8849abae7f34cc9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-2.jpg
+  - [—] `/media/4a361c74f79401a86baa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-3.jpg
+  - [—] `/media/e58ed2ec840462b914cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-4.jpg
   - [ ] `/media/8ee977b8b15f0e7f2d03.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-5.jpg
   - [ ] `/media/1d7bf7d83260ab7a3e53.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-6.jpg
   - [ ] `/media/e375d53730d0556db997.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-7.jpg
