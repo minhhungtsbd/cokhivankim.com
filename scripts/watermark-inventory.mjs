@@ -6,6 +6,9 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/2d6ff1ee4e7186f51a22.jpg':'/brand-media/black-floral-door-vankim.png',
+ '/media/f6c3576a656f92003a2a.jpg':'/brand-media/white-circular-gate-vankim.png',
+ '/media/3814b15864d542d0ef14.jpg':'/brand-media/gold-modern-gate-vankim.png',
  '/media/165882f515e36a97bb0b.jpg':'/brand-media/decorative-panel-bundle-vankim.png',
  '/media/f5d0d58899883d4b01bd.jpg':'/brand-media/gold-modern-gate-vankim.png',
  '/media/656468719cc2eca6c6b8.jpg':'/brand-media/four-panel-gate-vankim.png',
