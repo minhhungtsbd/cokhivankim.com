@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 130 ảnh đã có bản thay thế được duyệt.
+- 131 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -149,6 +149,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/0c9a317c947ffae226f0.jpg` → `/brand-media/laser-cut-stacked-parts-vankim.png` — dùng ở 2 trang.
 - [x] `/media/a04eab3573aa39f7d28c.jpg` → `/brand-media/laser-cutting-bed-vankim.png` — dùng ở 2 trang.
 - [x] `/media/96284729f5765cf01938.jpg` → `/brand-media/laser-cut-decorative-sheets-vankim.png` — dùng ở 4 trang.
+- [x] `/media/dcee69a57523e490d22d.jpg` → `/brand-media/laser-cutting-machine-vankim.png` — dùng ở 2 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -946,7 +947,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Cắt laser kim loại Thủ Đức – Cắt laser Sắt Thép Inox giá rẻ
+### [x] Cắt laser kim loại Thủ Đức – Cắt laser Sắt Thép Inox giá rẻ
 
 - Route: `/tin-tuc/cat-laser-kim-loai-thu-duc-cat-laser-sat-thep-inox-gia-re-202.html`
 - Ảnh cần rà: 17
@@ -961,7 +962,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/aaf240ed9a9a7adef4cc.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-cong-kim-loai-tam-tp-hcm-sat-10ly.jpg
   - [x] `/media/b657e52895acac890965.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-thep.jpg
   - [x] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
-  - [ ] `/media/dcee69a57523e490d22d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-10.jpg
+  - [x] `/media/dcee69a57523e490d22d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-10.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -1367,7 +1368,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/a2c585436a350d6d59d1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-6.jpg
   - [ ] `/media/ceeaae879816a259c9f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-7.jpg
   - [ ] `/media/f7e15f9e60c756883a6f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-8.jpg
-  - [ ] `/media/dcee69a57523e490d22d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-10.jpg
+  - [x] `/media/dcee69a57523e490d22d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-10.jpg
   - [ ] `/media/5e2f88769eb7d1a7c9a4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-11.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg

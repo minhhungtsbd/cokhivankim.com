@@ -134,6 +134,7 @@ const imageReplacements={
  ,'/media/0c9a317c947ffae226f0.jpg':'/brand-media/laser-cut-stacked-parts-vankim.png'
  ,'/media/a04eab3573aa39f7d28c.jpg':'/brand-media/laser-cutting-bed-vankim.png'
  ,'/media/96284729f5765cf01938.jpg':'/brand-media/laser-cut-decorative-sheets-vankim.png'
+ ,'/media/dcee69a57523e490d22d.jpg':'/brand-media/laser-cutting-machine-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
