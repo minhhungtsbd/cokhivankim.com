@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 411 ảnh đã kiểm tra, không có watermark cũ.
+- 416 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,11 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/f789dcdf9257034beb7f.jpg` — Không có watermark cũ; ảnh xếp tấm thép SS400, kiểm tra trực quan.
+- [—] `/media/993e6eec692c623dae9c.jpg` — Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.
+- [—] `/media/4f1f1074c9cd47abc127.jpg` — Không có watermark cũ; ảnh kho tấm thép SS400, kiểm tra trực quan.
+- [—] `/media/e3418a5a119980b76ba8.jpg` — Không có watermark cũ; ảnh kho tấm thép SS400, kiểm tra trực quan.
+- [—] `/media/93166d8097d975081b3c.jpg` — Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.
 - [—] `/media/48166782861a518066d8.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
 - [—] `/media/e817efc2be90ecc087e5.jpg` — Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.
 - [—] `/media/930cc404ea5d19823ffd.jpg` — Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.
@@ -3155,7 +3160,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Mua Thép Tấm SS400 tại TPHCM Giá Rẻ
+### [x] Mua Thép Tấm SS400 tại TPHCM Giá Rẻ
 
 - Route: `/tin-tuc/mua-thep-tam-ss400-tai-tphcm-gia-re-229.html`
 - Ảnh cần rà: 17
@@ -3166,11 +3171,11 @@ Cập nhật: 2026-10-27.
   - [—] `/media/f0a02295782d3e1352a3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-3.jpg
   - [—] `/media/e8ff7a0517aa7f86db05.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-4.jpg
   - [—] `/media/135766ce67d0ffb65174.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-5.jpg
-  - [ ] `/media/f789dcdf9257034beb7f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-10.jpg
-  - [ ] `/media/993e6eec692c623dae9c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-6.jpg
-  - [ ] `/media/4f1f1074c9cd47abc127.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-9.jpg
-  - [ ] `/media/e3418a5a119980b76ba8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-7.jpg
-  - [ ] `/media/93166d8097d975081b3c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-8.jpg
+  - [—] `/media/f789dcdf9257034beb7f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-10.jpg
+  - [—] `/media/993e6eec692c623dae9c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-6.jpg
+  - [—] `/media/4f1f1074c9cd47abc127.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-9.jpg
+  - [—] `/media/e3418a5a119980b76ba8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-7.jpg
+  - [—] `/media/93166d8097d975081b3c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-ss400-8.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg

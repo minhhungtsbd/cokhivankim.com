@@ -387,6 +387,11 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/f789dcdf9257034beb7f.jpg':'Không có watermark cũ; ảnh xếp tấm thép SS400, kiểm tra trực quan.',
+ '/media/993e6eec692c623dae9c.jpg':'Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.',
+ '/media/4f1f1074c9cd47abc127.jpg':'Không có watermark cũ; ảnh kho tấm thép SS400, kiểm tra trực quan.',
+ '/media/e3418a5a119980b76ba8.jpg':'Không có watermark cũ; ảnh kho tấm thép SS400, kiểm tra trực quan.',
+ '/media/93166d8097d975081b3c.jpg':'Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.',
  '/media/48166782861a518066d8.jpg':'Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.',
  '/media/e817efc2be90ecc087e5.jpg':'Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.',
  '/media/930cc404ea5d19823ffd.jpg':'Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.',
