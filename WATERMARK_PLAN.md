@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 160 ảnh đã có bản thay thế được duyệt.
+- 161 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/ad073c3d90ce57442ba7.jpg` → `/brand-media/cnc-irregular-cut-panel-vankim.png` — dùng ở 2 trang.
 - [x] `/media/2fd5dcbbd1f550ad03c5.jpg` → `/brand-media/cnc-floral-panel-floor-vankim.png` — dùng ở 1 trang.
 - [x] `/media/64bc7f488711bcbf2d6d.jpg` → `/brand-media/cnc-scrollwork-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f033fb99249398a69dd6.jpg` → `/brand-media/cnc-interlaced-screen-vankim.png` — dùng ở 1 trang.
@@ -917,7 +918,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/f033fb99249398a69dd6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(4).jpg
   - [x] `/media/64bc7f488711bcbf2d6d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tphcm(2).jpg
   - [x] `/media/2fd5dcbbd1f550ad03c5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-sat-hoa-van.jpg
-  - [ ] `/media/ad073c3d90ce57442ba7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-tphcm.jpg
+  - [x] `/media/ad073c3d90ce57442ba7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-tphcm.jpg
   - [ ] `/media/c737a882579406cf2f09.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-sat-tam.jpg
   - [ ] `/media/35e6d0711e7ed3c9c68f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-1.jpg
   - [ ] `/media/76747ed8f8f94436c545.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-2.jpg
@@ -953,7 +954,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Cắt Laser Kim Loại quận Bình Tân – Gia công cắt Sắt Inox Thép tấm
+### [x] Cắt Laser Kim Loại quận Bình Tân – Gia công cắt Sắt Inox Thép tấm
 
 - Route: `/tin-tuc/cat-laser-kim-loai-quan-binh-tan-gia-cong-cat-sat-inox-thep-tam-209.html`
 - Ảnh cần rà: 18
@@ -969,7 +970,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/8338d1543970974f2343.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam-gia-re.jpg
   - [x] `/media/d27e84a8c4ebd4a471a1.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-laser-fiber-chi-tiet-may.jpg
   - [x] `/media/3c543508894869dfc645.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cat-chan-inox.jpg
-  - [ ] `/media/ad073c3d90ce57442ba7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-tphcm.jpg
+  - [x] `/media/ad073c3d90ce57442ba7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-tphcm.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
