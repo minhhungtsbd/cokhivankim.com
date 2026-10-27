@@ -6,6 +6,10 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/882b7b23a4d9a094e8e5.jpg':'/brand-media/stacked-white-metal-cabinets-vankim.png',
+ '/media/3f58af78182e4ecd7d09.jpg':'/brand-media/stainless-enclosure-press-brake-vankim.png',
+ '/media/609aa59dc9cc851647de.jpg':'/brand-media/precision-machined-parts-collage-vankim.png',
+ '/media/79579bb5b708257bb0bf.jpg':'/brand-media/ornamental-laser-railing-vankim.png',
  '/media/e446673d6c599f4a91cf.jpg':'/brand-media/ornate-gate-workshop-vankim.png',
  '/media/a2c585436a350d6d59d1.jpg':'/brand-media/decorative-panel-workshop-vankim.png',
  '/media/ceeaae879816a259c9f6.jpg':'/brand-media/decorative-screen-vankim.png',
