@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 303 ảnh đã có bản thay thế được duyệt.
+- 306 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/cf6711aaa9092f5e3c20.jpg` → `/brand-media/ornate-double-gate-vankim.png` — dùng ở 2 trang.
+- [x] `/media/3dd055673da0e1b11f09.jpg` → `/brand-media/gold-decorative-gate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/b1a73e4c0aafc53b58db.jpg` → `/brand-media/black-ornate-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/9e0bd8a65ccfca0926db.jpg` → `/brand-media/industrial-blower-vankim.png` — dùng ở 1 trang.
 - [x] `/media/28c494dc6ce52632a19b.jpg` → `/brand-media/press-brake-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/fd6a84ef6295b7d1a297.jpg` → `/brand-media/cnc-machining-vankim.png` — dùng ở 1 trang.
@@ -2194,11 +2197,11 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc-217.html`
 - Ảnh cần rà: 52
-  - [ ] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
+  - [x] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
-  - [ ] `/media/3dd055673da0e1b11f09.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-24.jpg
-  - [ ] `/media/b1a73e4c0aafc53b58db.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-1.jpg
+  - [x] `/media/3dd055673da0e1b11f09.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-24.jpg
+  - [x] `/media/b1a73e4c0aafc53b58db.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-1.jpg
   - [ ] `/media/b50ab8c9912f91574979.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-25.jpg
   - [ ] `/media/56d54a65f5cc2754755d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep.jpg
   - [ ] `/media/ead1ce8b72d369002c20.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-2.jpg
@@ -3237,7 +3240,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/1c6e5815b7339ec90946.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/54621017/gia-cong-cat-thep-tam-theo-yeu-cau-tphcm.jpg
   - [x] `/media/421992b47bce74a3de09.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/54621017.jpg
   - [ ] `/media/16c3c9c6d64a3cb49a3a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/10587743/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc.jpg
-  - [ ] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
+  - [x] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
   - [ ] `/media/2f049d5006fa4fa95c05.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33458472/gia-cong-chan-dap-thep-tam-tphcm-cat-dap-chan-uon.jpg
   - [x] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
   - [ ] `/media/a39ee440693a04db74c2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/46989785/xuong-gia-cong-cat-thep-tam-tphcm-cat-chan-dap-thep-tam.jpg
