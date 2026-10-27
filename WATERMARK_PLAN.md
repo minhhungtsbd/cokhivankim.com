@@ -54,8 +54,8 @@ Cập nhật: 2026-10-27.
 - [x] `/media/fd6a84ef6295b7d1a297.jpg` → `/brand-media/cnc-machining-vankim.png` — dùng ở 1 trang.
 - [x] `/media/cb094e7a8af5077a7d1e.jpg` → `/brand-media/wrapped-metal-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/a2b25b93cb4cd9d25fcc.jpg` → `/brand-media/machined-brackets-vankim.png` — dùng ở 1 trang.
-- [x] `/media/dc94a49ad479e46a148e.jpg` → `/brand-media/decorative-panel-vankim.png` — dùng ở 1 trang.
-- [x] `/media/33a4b46521ee8f922086.jpg` → `/brand-media/stainless-trays-vankim.png` — dùng ở 1 trang.
+- [x] `/media/dc94a49ad479e46a148e.jpg` → `/brand-media/decorative-metal-panel-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/33a4b46521ee8f922086.jpg` → `/brand-media/stainless-sheet-boxes-vankim.png` — dùng ở 1 trang.
 - [x] `/media/7227092ce6eaaa77e5f0.jpg` → `/brand-media/machined-flange-spools-vankim.png` — dùng ở 1 trang.
 - [x] `/media/ed38f4d7073b9115ac37.jpg` → `/brand-media/stainless-sheet-fabrication-vankim.png` — dùng ở 1 trang.
 - [x] `/media/18bf10687f26639196d3.jpg` → `/brand-media/stainless-fabricated-boxes-vankim.png` — dùng ở 1 trang.
