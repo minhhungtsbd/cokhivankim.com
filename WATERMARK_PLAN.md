@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 175 ảnh đã có bản thay thế được duyệt.
+- 176 ảnh đã có bản thay thế được duyệt.
 - 72 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/09954731739ff4badde3.jpg` → `/brand-media/stainless-machine-vankim.png` — dùng ở 2 trang.
 - [x] `/media/71ed0ce7244877f16528.jpg` → `/brand-media/workshop-wheel-machines-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e414b95a5f27f8cdfb2b.jpg` → `/brand-media/stainless-industrial-machine-vankim.png` — dùng ở 3 trang.
 - [x] `/media/ba90ffde7b1079215d46.jpg` → `/brand-media/precision-machined-rings-vankim.png` — dùng ở 5 trang.
@@ -2983,7 +2984,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/1afc48e520229bfcae12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33116534/gia-cong-co-khi-tai-thu-duc-co-khi-chinh-xac-tphcm.jpg
   - [ ] `/media/079eb95b4139809abdf8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33116534.jpg
   - [ ] `/media/73478e284f7ad69962ab.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/18825378/xuong-gia-cong-co-khi-quan-12-tphcm-gia-cong-co-khi-chinh-xac.jpg
-  - [ ] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg
+  - [x] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg
   - [ ] `/media/e34f3d21cf963c68d541.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/67825755/nhan-gia-cong-co-khi-tai-quan-binh-tan-tphcm-uy-tin-chuyen-nghiep.jpg
   - [ ] `/media/c66db623ad083fd7d31d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67825755.jpg
   - [ ] `/media/8923977646b56a81fa4a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/06671123/gia-cong-co-khi-chinh-xac-theo-yeu-cau-tai-tphcm-gia-re-chat-luong.jpg
@@ -3174,7 +3175,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/xuong-gia-cong-co-khi-quan-12-tphcm-gia-cong-co-khi-chinh-xac-168.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg
+  - [x] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/ba90ffde7b1079215d46.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc-1.jpg
   - [x] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
