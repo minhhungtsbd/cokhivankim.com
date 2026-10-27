@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 409 ảnh đã có bản thay thế được duyệt.
-- 519 ảnh đã kiểm tra, không có watermark cũ.
+- 525 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -431,6 +431,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/579038423b759197f621.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/6b6a9f93bffabf8b45e3.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/5c3865b8720ba4a66d54.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/63c9759227d94afa959e.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/32606a22110a7193a295.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/cdd9300ba0ed4ac99558.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/be4764404f3f7f258c57.jpg` — Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.
 - [—] `/media/3e63b58ab1c0484bb566.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/699a76a74d53a8f618f4.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
@@ -3757,12 +3763,12 @@ Cập nhật: 2026-10-27.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/988deac6c610e3c2379d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-1.jpg
   - [—] `/media/620a67ed05c0c73b6170.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-2.jpg
-  - [ ] `/media/579038423b759197f621.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-10.jpg
-  - [ ] `/media/6b6a9f93bffabf8b45e3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-3.jpg
-  - [ ] `/media/5c3865b8720ba4a66d54.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-4.jpg
-  - [ ] `/media/63c9759227d94afa959e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-9.jpg
-  - [ ] `/media/32606a22110a7193a295.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-5.jpg
-  - [ ] `/media/cdd9300ba0ed4ac99558.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-7.jpg
+  - [—] `/media/579038423b759197f621.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-10.jpg
+  - [—] `/media/6b6a9f93bffabf8b45e3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-3.jpg
+  - [—] `/media/5c3865b8720ba4a66d54.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-4.jpg
+  - [—] `/media/63c9759227d94afa959e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-9.jpg
+  - [—] `/media/32606a22110a7193a295.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-5.jpg
+  - [—] `/media/cdd9300ba0ed4ac99558.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-7.jpg
   - [ ] `/media/7a9f8cceceb25b12acf2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-8.jpg
   - [ ] `/media/c9ac6a3445cf6acb8648.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
