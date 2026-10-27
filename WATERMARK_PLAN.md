@@ -14,11 +14,15 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 283 ảnh đã có bản thay thế được duyệt.
+- 287 ảnh đã có bản thay thế được duyệt.
 - 242 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/08eba1720a856ea6639c.jpg` → `/brand-media/black-gears-vankim.png` — dùng ở 2 trang.
+- [x] `/media/98ec29bac9bcabd26333.jpg` → `/brand-media/gear-rack-vankim.png` — dùng ở 1 trang.
+- [x] `/media/65433e293041e47a31ea.jpg` → `/brand-media/machined-components-collage-vankim.png` — dùng ở 2 trang.
+- [x] `/media/4b6789db00ddda99ae48.jpg` → `/brand-media/mechanical-products-catalog-vankim.png` — dùng ở 1 trang.
 - [x] `/media/6c6a9f7f6cb050916939.jpg` → `/brand-media/precision-parts-collage-watermark-vankim.png` — dùng ở 2 trang.
 - [x] `/media/411998d8b4f9de858d04.jpg` → `/brand-media/precision-parts-collage-watermark-vankim.png` — dùng ở 2 trang.
 - [x] `/media/cacf73f58ca8294b55cf.jpg` → `/brand-media/stainless-tank-watermark-vankim.png` — dùng ở 2 trang.
@@ -2057,31 +2061,31 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công cơ khí tại quận 7 TPHCM | Gia công chính xác theo yêu cầu
+### [x] Gia công cơ khí tại quận 7 TPHCM | Gia công chính xác theo yêu cầu
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-quan-7-tphcm-gia-cong-chinh-xac-theo-yeu-cau-172.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/08eba1720a856ea6639c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/87230282.jpg
+  - [x] `/media/08eba1720a856ea6639c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/87230282.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/ef4071dc4c5c86dab9de.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/che-tao-khuon-mau-co-khi.jpg
   - [x] `/media/e414b95a5f27f8cdfb2b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi.jpg
   - [x] `/media/4ec7d43d7367d35e28f6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-banh-rang.jpg
-  - [ ] `/media/98ec29bac9bcabd26333.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-7.jpg
+  - [x] `/media/98ec29bac9bcabd26333.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công cơ khí tại quận Tân Phú TPHCM | Gia công cơ khí chính xác giá rẻ
+### [x] Gia công cơ khí tại quận Tân Phú TPHCM | Gia công cơ khí chính xác giá rẻ
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-quan-tan-phu-tphcm-gia-cong-co-khi-chinh-xac-gia-re-175.html`
 - Ảnh cần rà: 10
-  - [ ] `/media/65433e293041e47a31ea.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/24734264.jpg
+  - [x] `/media/65433e293041e47a31ea.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/24734264.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/905d4d978f9e395edf71.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tphcm.jpg
   - [x] `/media/411998d8b4f9de858d04.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chi-tiet-may.jpg
-  - [ ] `/media/4b6789db00ddda99ae48.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-co-khi-tan-phu-tphcm.jpg
+  - [x] `/media/4b6789db00ddda99ae48.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-gia-cong-co-khi-tan-phu-tphcm.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -3242,7 +3246,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/b06dcba33e7f1006db37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/47049848/gia-cong-co-khi-tai-quan-10-tphcm-co-khi-chinh-xac-gia-re.jpg
   - [x] `/media/6c6a9f7f6cb050916939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/47049848.jpg
   - [ ] `/media/96391213a6ba10feef47.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/24734264/gia-cong-co-khi-tai-quan-tan-phu-tphcm-gia-cong-co-khi-chinh-xac-gia-re.jpg
-  - [ ] `/media/65433e293041e47a31ea.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/24734264.jpg
+  - [x] `/media/65433e293041e47a31ea.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/24734264.jpg
   - [ ] `/media/8db31d0c98b45219892d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/76591117/gia-cong-co-khi-chinh-xac-quan-binh-thanh-tphcm-uy-tin-chat-luong.jpg
   - [x] `/media/8aa33d11294e80797de1.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/76591117.jpg
   - [ ] `/media/fb3f4e43792681b3f490.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68808210/gia-cong-co-khi-chinh-xac-tai-binh-chanh-tphcm-gia-tot-uy-tin.jpg
@@ -3255,7 +3259,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/bc3e6146136d09d8fabb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/87230282/gia-cong-co-khi-tai-quan-7-tphcm-gia-cong-chinh-xac-theo-yeu-cau.jpg
-  - [ ] `/media/08eba1720a856ea6639c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/87230282.jpg
+  - [x] `/media/08eba1720a856ea6639c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/87230282.jpg
   - [ ] `/media/db272b201f9a8f363be9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/49484893/cong-ty-gia-cong-co-khi-quan-9-tphcm-gia-cong-co-khi-chinh-xac.jpg
   - [x] `/media/54d9490f2333b740a397.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/49484893.jpg
   - [ ] `/media/1afc48e520229bfcae12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33116534/gia-cong-co-khi-tai-thu-duc-co-khi-chinh-xac-tphcm.jpg
