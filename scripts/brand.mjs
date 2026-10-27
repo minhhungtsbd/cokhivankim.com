@@ -4,6 +4,8 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/07dc4d94a5c30a3817a6.jpg':'/brand-media/laser-workshop-vankim.png',
+ '/media/1627d889f5c6c3548899.jpg':'/brand-media/laser-workshop-vankim.png',
  '/media/905d4d978f9e395edf71.jpg':'/brand-media/cnc-components-vankim.png',
  '/media/cfe0560147be47966c26.jpg':'/brand-media/cnc-machining-tool-vankim.png',
  '/media/e7ab2f1693dfc6118641.jpg':'/brand-media/machined-plate-array-vankim.png',

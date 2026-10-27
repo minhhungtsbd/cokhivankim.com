@@ -14,11 +14,13 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 182 ảnh đã có bản thay thế được duyệt.
-- 162 ảnh đã kiểm tra, không có watermark cũ.
+- 184 ảnh đã có bản thay thế được duyệt.
+- 168 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/07dc4d94a5c30a3817a6.jpg` → `/brand-media/laser-workshop-vankim.png` — dùng ở 2 trang.
+- [x] `/media/1627d889f5c6c3548899.jpg` → `/brand-media/laser-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/905d4d978f9e395edf71.jpg` → `/brand-media/cnc-components-vankim.png` — dùng ở 2 trang.
 - [x] `/media/cfe0560147be47966c26.jpg` → `/brand-media/cnc-machining-tool-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e7ab2f1693dfc6118641.jpg` → `/brand-media/machined-plate-array-vankim.png` — dùng ở 1 trang.
@@ -204,6 +206,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/3f9845aa433aa4c7c152.jpg` — Không có watermark cũ.
+- [—] `/media/cab10c8313c9804f1dbe.jpg` — Không có watermark cũ.
+- [—] `/media/ae3734bbb8475ad5e0d6.jpg` — Không có watermark cũ.
+- [—] `/media/f21713be8419d6453fa9.jpg` — Không có watermark cũ.
+- [—] `/media/12063dda297c44f11788.jpg` — Không có watermark cũ.
+- [—] `/media/7cbe655aad43cf75bdc4.jpg` — Không có watermark cũ.
 - [—] `/media/aba3ce286718587f09bf.jpg` — Không có watermark cũ.
 - [—] `/media/24594876c91a6450842a.jpg` — Không có watermark cũ.
 - [—] `/media/190e3520c8c8ecd54f36.jpg` — Không có watermark cũ.
@@ -1462,7 +1470,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [—] `/media/cfb1a37c4a8905e4fda9.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-dat-hang.jpg
 
-### [ ] Đồng hồ treo tường trang trí phòng khách GIÁ XƯỞNG Ship Toàn Quốc
+### [x] Đồng hồ treo tường trang trí phòng khách GIÁ XƯỞNG Ship Toàn Quốc
 
 - Route: `/tin-tuc/dong-ho-treo-tuong-trang-tri-phong-khach-gia-xuong-ship-toan-quoc-213.html`
 - Ảnh cần rà: 16
@@ -1471,12 +1479,12 @@ Cập nhật: 2026-10-27.
   - [—] `/media/81b4813d26be54d1e438.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-1.jpg
   - [—] `/media/b66a159d710f1ae20dfe.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-2.jpg
   - [—] `/media/8446584b26970e2fef56.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-3.jpg
-  - [ ] `/media/3f9845aa433aa4c7c152.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-4.jpg
-  - [ ] `/media/cab10c8313c9804f1dbe.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-5.jpg
-  - [ ] `/media/ae3734bbb8475ad5e0d6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-6.jpg
-  - [ ] `/media/f21713be8419d6453fa9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-7.jpg
-  - [ ] `/media/12063dda297c44f11788.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-8.jpg
-  - [ ] `/media/7cbe655aad43cf75bdc4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-9.jpg
+  - [—] `/media/3f9845aa433aa4c7c152.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-4.jpg
+  - [—] `/media/cab10c8313c9804f1dbe.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-5.jpg
+  - [—] `/media/ae3734bbb8475ad5e0d6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-6.jpg
+  - [—] `/media/f21713be8419d6453fa9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-7.jpg
+  - [—] `/media/12063dda297c44f11788.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-8.jpg
+  - [—] `/media/7cbe655aad43cf75bdc4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/dong-ho-treo-tuong-trang-tri-phong-khach-9.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -1503,10 +1511,10 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-cat-laser-kim-loai-tam-tphcm-cat-cnc-kim-loai-gia-re-210.html`
 - Ảnh cần rà: 23
-  - [ ] `/media/07dc4d94a5c30a3817a6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/22608188.jpg
+  - [x] `/media/07dc4d94a5c30a3817a6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/22608188.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
-  - [ ] `/media/1627d889f5c6c3548899.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam-tphcm(1).jpg
+  - [x] `/media/1627d889f5c6c3548899.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam-tphcm(1).jpg
   - [ ] `/media/f628b02ceb5580cc737a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(2).jpg
   - [ ] `/media/78f4af257629173a9986.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-1(1).jpg
   - [ ] `/media/f3975fd42884a23e439f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-2.jpg
@@ -3032,7 +3040,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/7d03d0bf41cbf620a81a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/21057247/gia-cong-co-khi-go-vap-gia-cong-co-khi-theo-yeu-cau.jpg
   - [x] `/media/0285a9cb866c70d16bc9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/21057247.jpg
   - [ ] `/media/ac44f523f9d7f2073937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/22608188/gia-cong-cat-laser-kim-loai-tam-tphcm-cat-cnc-kim-loai-gia-re.jpg
-  - [ ] `/media/07dc4d94a5c30a3817a6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/22608188.jpg
+  - [x] `/media/07dc4d94a5c30a3817a6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/22608188.jpg
   - [ ] `/media/eebd29e38ec415685836.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/77390565/cat-laser-kim-loai-quan-binh-tan-gia-cong-cat-sat-inox-thep-tam.jpg
   - [x] `/media/0c9a317c947ffae226f0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77390565.jpg
 

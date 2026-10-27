@@ -6,6 +6,8 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/07dc4d94a5c30a3817a6.jpg':'/brand-media/laser-workshop-vankim.png',
+ '/media/1627d889f5c6c3548899.jpg':'/brand-media/laser-workshop-vankim.png',
  '/media/905d4d978f9e395edf71.jpg':'/brand-media/cnc-components-vankim.png',
  '/media/cfe0560147be47966c26.jpg':'/brand-media/cnc-machining-tool-vankim.png',
  '/media/e7ab2f1693dfc6118641.jpg':'/brand-media/machined-plate-array-vankim.png',
@@ -190,6 +192,12 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/3f9845aa433aa4c7c152.jpg':'Không có watermark cũ.',
+ '/media/cab10c8313c9804f1dbe.jpg':'Không có watermark cũ.',
+ '/media/ae3734bbb8475ad5e0d6.jpg':'Không có watermark cũ.',
+ '/media/f21713be8419d6453fa9.jpg':'Không có watermark cũ.',
+ '/media/12063dda297c44f11788.jpg':'Không có watermark cũ.',
+ '/media/7cbe655aad43cf75bdc4.jpg':'Không có watermark cũ.',
  '/media/aba3ce286718587f09bf.jpg':'Không có watermark cũ.',
  '/media/24594876c91a6450842a.jpg':'Không có watermark cũ.',
  '/media/190e3520c8c8ecd54f36.jpg':'Không có watermark cũ.',
