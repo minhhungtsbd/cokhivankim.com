@@ -287,6 +287,9 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/8ee977b8b15f0e7f2d03.jpg':'Không có watermark cũ.',
+ '/media/1d7bf7d83260ab7a3e53.jpg':'Không có watermark cũ.',
+ '/media/e375d53730d0556db997.jpg':'Không có watermark cũ.',
  '/media/65196399a97e8b472e6d.jpg':'Không có watermark cũ.',
  '/media/ea0be8849abae7f34cc9.jpg':'Không có watermark cũ; mã 032-FMB22 là ký hiệu trên sản phẩm.',
  '/media/4a361c74f79401a86baa.jpg':'Không có watermark cũ.',

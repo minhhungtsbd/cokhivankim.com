@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 279 ảnh đã có bản thay thế được duyệt.
-- 199 ảnh đã kiểm tra, không có watermark cũ.
+- 202 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -301,6 +301,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/8ee977b8b15f0e7f2d03.jpg` — Không có watermark cũ.
+- [—] `/media/1d7bf7d83260ab7a3e53.jpg` — Không có watermark cũ.
+- [—] `/media/e375d53730d0556db997.jpg` — Không có watermark cũ.
 - [—] `/media/65196399a97e8b472e6d.jpg` — Không có watermark cũ.
 - [—] `/media/ea0be8849abae7f34cc9.jpg` — Không có watermark cũ; mã 032-FMB22 là ký hiệu trên sản phẩm.
 - [—] `/media/4a361c74f79401a86baa.jpg` — Không có watermark cũ.
@@ -1880,7 +1883,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia Công Cơ Khí Quận Tân Bình Uy tín Chất lượng
+### [x] Gia Công Cơ Khí Quận Tân Bình Uy tín Chất lượng
 
 - Route: `/tin-tuc/gia-cong-co-khi-quan-tan-binh-uy-tin-chat-luong-275.html`
 - Ảnh cần rà: 14
@@ -1890,9 +1893,9 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ea0be8849abae7f34cc9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-2.jpg
   - [—] `/media/4a361c74f79401a86baa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-3.jpg
   - [—] `/media/e58ed2ec840462b914cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-4.jpg
-  - [ ] `/media/8ee977b8b15f0e7f2d03.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-5.jpg
-  - [ ] `/media/1d7bf7d83260ab7a3e53.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-6.jpg
-  - [ ] `/media/e375d53730d0556db997.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-7.jpg
+  - [—] `/media/8ee977b8b15f0e7f2d03.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-5.jpg
+  - [—] `/media/1d7bf7d83260ab7a3e53.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-6.jpg
+  - [—] `/media/e375d53730d0556db997.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tan-binh-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
