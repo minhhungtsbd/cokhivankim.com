@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 392 ảnh đã kiểm tra, không có watermark cũ.
+- 405 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,19 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/970bfdd867462a9d1bb6.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
+- [—] `/media/1d59835f0aa839a2cdfd.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
+- [—] `/media/857f98edb9c50222bfdb.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
+- [—] `/media/00d2802924b4cc516496.jpg` — Không có watermark cũ; ảnh xếp tấm gân, kiểm tra trực quan.
+- [—] `/media/7b36dfdc8e629e830be6.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/74189a9a1ce3613d6135.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/21190699078d59785539.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/6efbf0549f8947990669.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/4b6484794114534ab998.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/adea69390de2c6ab45b3.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/6e1dc6c364b4ec20ebd4.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/0925a0c4902742e22ce2.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/5f21f6a57cffb79b6da2.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
 - [—] `/media/7ba899cc8639c287ca7e.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
 - [—] `/media/4f615eafaf718c658f8a.jpg` — Không có watermark cũ; ảnh xếp tấm thép, kiểm tra trực quan.
 - [—] `/media/35d1e1b29a2b17b43e4c.jpg` — Không có watermark cũ; ảnh tấm gân kim loại, kiểm tra trực quan.
@@ -3097,7 +3110,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Mua Thép tấm chống trượt 2mm tại TPHCM
+### [x] Mua Thép tấm chống trượt 2mm tại TPHCM
 
 - Route: `/tin-tuc/mua-thep-tam-chong-truot-2mm-tai-tphcm-232.html`
 - Ảnh cần rà: 14
@@ -3106,30 +3119,30 @@ Cập nhật: 2026-10-27.
   - [—] `/media/1d9672506eee0bd8fc17.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-1.jpg
   - [—] `/media/191a64462ddb8934504c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-2.jpg
   - [—] `/media/01a959fd1c8e5376dbf3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-3.jpg
-  - [ ] `/media/970bfdd867462a9d1bb6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-4.jpg
-  - [ ] `/media/1d59835f0aa839a2cdfd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-7.jpg
-  - [ ] `/media/857f98edb9c50222bfdb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-5.jpg
-  - [ ] `/media/00d2802924b4cc516496.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-6.jpg
+  - [—] `/media/970bfdd867462a9d1bb6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-4.jpg
+  - [—] `/media/1d59835f0aa839a2cdfd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-7.jpg
+  - [—] `/media/857f98edb9c50222bfdb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-5.jpg
+  - [—] `/media/00d2802924b4cc516496.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-chong-truot-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Mua Thép Tấm đục lỗ tại TPHCM
+### [x] Mua Thép Tấm đục lỗ tại TPHCM
 
 - Route: `/tin-tuc/mua-thep-tam-duc-lo-tai-tphcm-234.html`
 - Ảnh cần rà: 15
-  - [ ] `/media/7b36dfdc8e629e830be6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30771716.jpg
+  - [—] `/media/7b36dfdc8e629e830be6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30771716.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/74189a9a1ce3613d6135.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo.jpg
-  - [ ] `/media/21190699078d59785539.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-1.jpg
-  - [ ] `/media/6efbf0549f8947990669.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-2.jpg
-  - [ ] `/media/4b6484794114534ab998.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-6.jpg
-  - [ ] `/media/adea69390de2c6ab45b3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-3.jpg
-  - [ ] `/media/6e1dc6c364b4ec20ebd4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-7.jpg
-  - [ ] `/media/0925a0c4902742e22ce2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-4.jpg
-  - [ ] `/media/5f21f6a57cffb79b6da2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-5.jpg
+  - [—] `/media/74189a9a1ce3613d6135.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo.jpg
+  - [—] `/media/21190699078d59785539.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-1.jpg
+  - [—] `/media/6efbf0549f8947990669.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-2.jpg
+  - [—] `/media/4b6484794114534ab998.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-6.jpg
+  - [—] `/media/adea69390de2c6ab45b3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-3.jpg
+  - [—] `/media/6e1dc6c364b4ec20ebd4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-7.jpg
+  - [—] `/media/0925a0c4902742e22ce2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-4.jpg
+  - [—] `/media/5f21f6a57cffb79b6da2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tam-thep-dap-lo-5.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -3393,7 +3406,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/dd2774513d71c2323a83.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/63434646/khac-laser-tren-kim-loai-tphcm-moi-so-luong.jpg
   - [—] `/media/cc4772ba5e2ce02fc94f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/63434646.jpg
   - [ ] `/media/ee4f16c47159bdaa871d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/30771716/mua-thep-tam-duc-lo-tai-tphcm.jpg
-  - [ ] `/media/7b36dfdc8e629e830be6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30771716.jpg
+  - [—] `/media/7b36dfdc8e629e830be6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30771716.jpg
 
 ### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
 

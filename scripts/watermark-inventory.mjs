@@ -387,6 +387,19 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/970bfdd867462a9d1bb6.jpg':'Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.',
+ '/media/1d59835f0aa839a2cdfd.jpg':'Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.',
+ '/media/857f98edb9c50222bfdb.jpg':'Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.',
+ '/media/00d2802924b4cc516496.jpg':'Không có watermark cũ; ảnh xếp tấm gân, kiểm tra trực quan.',
+ '/media/7b36dfdc8e629e830be6.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/74189a9a1ce3613d6135.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/21190699078d59785539.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/6efbf0549f8947990669.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/4b6484794114534ab998.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/adea69390de2c6ab45b3.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/6e1dc6c364b4ec20ebd4.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/0925a0c4902742e22ce2.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
+ '/media/5f21f6a57cffb79b6da2.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
  '/media/7ba899cc8639c287ca7e.jpg':'Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.',
  '/media/4f615eafaf718c658f8a.jpg':'Không có watermark cũ; ảnh xếp tấm thép, kiểm tra trực quan.',
  '/media/35d1e1b29a2b17b43e4c.jpg':'Không có watermark cũ; ảnh tấm gân kim loại, kiểm tra trực quan.',
