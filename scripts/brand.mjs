@@ -5,7 +5,6 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
  '/media/905d4d978f9e395edf71.jpg':'/brand-media/cnc-components-vankim.png',
- '/media/745b0fbd95d0ac280c21.jpg':'/brand-media/cnc-machining-tool-vankim.png',
  '/media/cfe0560147be47966c26.jpg':'/brand-media/cnc-machining-tool-vankim.png',
  '/media/e7ab2f1693dfc6118641.jpg':'/brand-media/machined-plate-array-vankim.png',
  '/media/18a1646973d8311ef626.jpg':'/brand-media/cnc-milling-vankim.png',
