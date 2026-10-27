@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 127 ảnh đã có bản thay thế được duyệt.
+- 128 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -146,6 +146,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/4d01efa0978d21e09e78.jpg` → `/brand-media/laser-tiger-panel-vankim.png` — dùng ở 1 trang.
 - [x] `/media/7edbb0e70fee2c0b7c3f.jpg` → `/brand-media/cnc-wildlife-panel-vankim.png` — dùng ở 2 trang.
 - [x] `/media/c9d7b61daf91ea9f57a4.jpg` → `/brand-media/mechanical-services-banner-vankim.png` — dùng ở 12 trang.
+- [x] `/media/0c9a317c947ffae226f0.jpg` → `/brand-media/laser-cut-stacked-parts-vankim.png` — dùng ở 2 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -924,7 +925,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/cat-laser-kim-loai-quan-binh-tan-gia-cong-cat-sat-inox-thep-tam-209.html`
 - Ảnh cần rà: 18
-  - [ ] `/media/0c9a317c947ffae226f0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77390565.jpg
+  - [x] `/media/0c9a317c947ffae226f0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77390565.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/6e0272bf6e4a45614b95.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chi-tiet-may.jpg
@@ -2879,7 +2880,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/ac44f523f9d7f2073937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/22608188/gia-cong-cat-laser-kim-loai-tam-tphcm-cat-cnc-kim-loai-gia-re.jpg
   - [ ] `/media/07dc4d94a5c30a3817a6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/22608188.jpg
   - [ ] `/media/eebd29e38ec415685836.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/77390565/cat-laser-kim-loai-quan-binh-tan-gia-cong-cat-sat-inox-thep-tam.jpg
-  - [ ] `/media/0c9a317c947ffae226f0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77390565.jpg
+  - [x] `/media/0c9a317c947ffae226f0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77390565.jpg
 
 ### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
 
