@@ -14,11 +14,13 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 287 ảnh đã có bản thay thế được duyệt.
+- 289 ảnh đã có bản thay thế được duyệt.
 - 250 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/079eb95b4139809abdf8.jpg` → `/brand-media/welded-flange-vankim.png` — dùng ở 2 trang.
+- [x] `/media/30b4af50d839e643fb2a.jpg` → `/brand-media/platform-frame-vankim.png` — dùng ở 1 trang.
 - [x] `/media/08eba1720a856ea6639c.jpg` → `/brand-media/black-gears-vankim.png` — dùng ở 2 trang.
 - [x] `/media/98ec29bac9bcabd26333.jpg` → `/brand-media/gear-rack-vankim.png` — dùng ở 1 trang.
 - [x] `/media/65433e293041e47a31ea.jpg` → `/brand-media/machined-components-collage-vankim.png` — dùng ở 2 trang.
@@ -2123,9 +2125,9 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-thu-duc-co-khi-chinh-xac-tphcm-170.html`
 - Ảnh cần rà: 23
-  - [ ] `/media/079eb95b4139809abdf8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33116534.jpg
+  - [x] `/media/079eb95b4139809abdf8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33116534.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/30b4af50d839e643fb2a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac(2).jpg
+  - [x] `/media/30b4af50d839e643fb2a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac(2).jpg
   - [x] `/media/ba90ffde7b1079215d46.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc-1.jpg
   - [ ] `/media/8499ddf3aa7b6499a67c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(1).jpg
   - [ ] `/media/10a82a56f217e928f50e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-quan-thu-duc.jpg
@@ -3271,7 +3273,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/db272b201f9a8f363be9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/49484893/cong-ty-gia-cong-co-khi-quan-9-tphcm-gia-cong-co-khi-chinh-xac.jpg
   - [x] `/media/54d9490f2333b740a397.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/49484893.jpg
   - [ ] `/media/1afc48e520229bfcae12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33116534/gia-cong-co-khi-tai-thu-duc-co-khi-chinh-xac-tphcm.jpg
-  - [ ] `/media/079eb95b4139809abdf8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33116534.jpg
+  - [x] `/media/079eb95b4139809abdf8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33116534.jpg
   - [ ] `/media/73478e284f7ad69962ab.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/18825378/xuong-gia-cong-co-khi-quan-12-tphcm-gia-cong-co-khi-chinh-xac.jpg
   - [x] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg
   - [ ] `/media/e34f3d21cf963c68d541.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/67825755/nhan-gia-cong-co-khi-tai-quan-binh-tan-tphcm-uy-tin-chuyen-nghiep.jpg

@@ -6,6 +6,8 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/079eb95b4139809abdf8.jpg':'/brand-media/welded-flange-vankim.png',
+ '/media/30b4af50d839e643fb2a.jpg':'/brand-media/platform-frame-vankim.png',
  '/media/08eba1720a856ea6639c.jpg':'/brand-media/black-gears-vankim.png',
  '/media/98ec29bac9bcabd26333.jpg':'/brand-media/gear-rack-vankim.png',
  '/media/65433e293041e47a31ea.jpg':'/brand-media/machined-components-collage-vankim.png',
