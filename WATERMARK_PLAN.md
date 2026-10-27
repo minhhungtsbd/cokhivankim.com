@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 129 ảnh đã có bản thay thế được duyệt.
+- 130 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -148,6 +148,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/c9d7b61daf91ea9f57a4.jpg` → `/brand-media/mechanical-services-banner-vankim.png` — dùng ở 12 trang.
 - [x] `/media/0c9a317c947ffae226f0.jpg` → `/brand-media/laser-cut-stacked-parts-vankim.png` — dùng ở 2 trang.
 - [x] `/media/a04eab3573aa39f7d28c.jpg` → `/brand-media/laser-cutting-bed-vankim.png` — dùng ở 2 trang.
+- [x] `/media/96284729f5765cf01938.jpg` → `/brand-media/laser-cut-decorative-sheets-vankim.png` — dùng ở 4 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -959,7 +960,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/a0f9f16c1b0544677ac9.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gai-cong-kim-loai-tam.jpg
   - [x] `/media/aaf240ed9a9a7adef4cc.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-cong-kim-loai-tam-tp-hcm-sat-10ly.jpg
   - [x] `/media/b657e52895acac890965.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-thep.jpg
-  - [ ] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
+  - [x] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
   - [ ] `/media/dcee69a57523e490d22d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-10.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -2605,7 +2606,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/9d17b5768eb97ec94b0c.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam.jpg
   - [ ] `/media/e20ffb056584942d97c2.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-gia-re-tphcm.jpg
   - [ ] `/media/debe082392ae100cacc0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-la-ser-kim-loai-tphcm.jpg
-  - [ ] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
+  - [x] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
   - [ ] `/media/927fb42f50a66e071c9b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tphcm.jpg
   - [x] `/media/b657e52895acac890965.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-thep.jpg
   - [x] `/media/af41f9cded8dc65c715a.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-inox.jpg
@@ -2638,7 +2639,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/9d17b5768eb97ec94b0c.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam.jpg
   - [ ] `/media/e20ffb056584942d97c2.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-gia-re-tphcm.jpg
   - [ ] `/media/debe082392ae100cacc0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-la-ser-kim-loai-tphcm.jpg
-  - [ ] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
+  - [x] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
   - [ ] `/media/927fb42f50a66e071c9b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tphcm.jpg
   - [x] `/media/b657e52895acac890965.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-thep.jpg
   - [x] `/media/af41f9cded8dc65c715a.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-inox.jpg
@@ -2671,7 +2672,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/9d17b5768eb97ec94b0c.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam.jpg
   - [ ] `/media/e20ffb056584942d97c2.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-gia-re-tphcm.jpg
   - [ ] `/media/debe082392ae100cacc0.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-la-ser-kim-loai-tphcm.jpg
-  - [ ] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
+  - [x] `/media/96284729f5765cf01938.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-gia-re-tphcm.jpg
   - [ ] `/media/927fb42f50a66e071c9b.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tphcm.jpg
   - [x] `/media/b657e52895acac890965.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-thep.jpg
   - [x] `/media/af41f9cded8dc65c715a.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-inox.jpg
