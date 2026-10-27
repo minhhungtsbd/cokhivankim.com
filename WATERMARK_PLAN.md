@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 333 ảnh đã kiểm tra, không có watermark cũ.
+- 337 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/ca088d4df2b34444fa1c.jpg` — Không có watermark cũ; ảnh nội thất/thang máy, kiểm tra trực quan.
+- [—] `/media/4443a62958af914aaa25.jpeg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/9ef38c25435add6a9795.jpeg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/9278736538741ed9fd12.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/b13fc97ea2076ff9af78.jpg` — Không có watermark cũ; chữ là nội dung khắc trên sản phẩm, kiểm tra trực quan.
 - [—] `/media/f2ee4824568a1bf4f6f9.jpg` — Không có watermark cũ; mã/chữ là chi tiết sản phẩm, kiểm tra trực quan.
 - [—] `/media/413cdf52ea74a8cea7f8.jpg` — Không có watermark cũ; chữ là nội dung sản phẩm, kiểm tra trực quan.
@@ -2893,11 +2897,11 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/lap-dat-thang-may-gia-dinh-quan-1-uy-tin-219.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/ca088d4df2b34444fa1c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30110262.jpg
+  - [—] `/media/ca088d4df2b34444fa1c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30110262.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/4443a62958af914aaa25.jpeg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh.jpeg
-  - [ ] `/media/9ef38c25435add6a9795.jpeg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-1.jpeg
-  - [ ] `/media/9278736538741ed9fd12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-8.jpg
+  - [—] `/media/4443a62958af914aaa25.jpeg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh.jpeg
+  - [—] `/media/9ef38c25435add6a9795.jpeg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-1.jpeg
+  - [—] `/media/9278736538741ed9fd12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-8.jpg
   - [ ] `/media/731d8ca7f375264c86d3.jpeg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-3.jpeg
   - [ ] `/media/bda185582325da14fd26.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-9.jpg
   - [ ] `/media/7fc8e49dfa63d8587908.jpeg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-4.jpeg
@@ -3378,7 +3382,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/040f74c912a80ad7f6b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/28175722/thi-cong-thang-may-gia-dinh-quan-2-gia-re.jpg
   - [ ] `/media/ff8b38e0f07a32388711.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/28175722.jpg
   - [ ] `/media/4730cec0ce6031e98c81.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/30110262/lap-dat-thang-may-gia-dinh-quan-1-uy-tin.jpg
-  - [ ] `/media/ca088d4df2b34444fa1c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30110262.jpg
+  - [—] `/media/ca088d4df2b34444fa1c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30110262.jpg
   - [ ] `/media/1c6e5815b7339ec90946.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/54621017/gia-cong-cat-thep-tam-theo-yeu-cau-tphcm.jpg
   - [x] `/media/421992b47bce74a3de09.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/54621017.jpg
   - [ ] `/media/16c3c9c6d64a3cb49a3a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/10587743/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc.jpg

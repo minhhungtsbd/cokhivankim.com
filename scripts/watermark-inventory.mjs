@@ -387,6 +387,10 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/ca088d4df2b34444fa1c.jpg':'Không có watermark cũ; ảnh nội thất/thang máy, kiểm tra trực quan.',
+ '/media/4443a62958af914aaa25.jpeg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/9ef38c25435add6a9795.jpeg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/9278736538741ed9fd12.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/b13fc97ea2076ff9af78.jpg':'Không có watermark cũ; chữ là nội dung khắc trên sản phẩm, kiểm tra trực quan.',
  '/media/f2ee4824568a1bf4f6f9.jpg':'Không có watermark cũ; mã/chữ là chi tiết sản phẩm, kiểm tra trực quan.',
  '/media/413cdf52ea74a8cea7f8.jpg':'Không có watermark cũ; chữ là nội dung sản phẩm, kiểm tra trực quan.',
