@@ -137,6 +137,7 @@ const knownReplacements={
  ,'/media/a04eab3573aa39f7d28c.jpg':'/brand-media/laser-cutting-bed-vankim.png'
  ,'/media/96284729f5765cf01938.jpg':'/brand-media/laser-cut-decorative-sheets-vankim.png'
  ,'/media/dcee69a57523e490d22d.jpg':'/brand-media/laser-cutting-machine-vankim.png'
+ ,'/media/52199ffe7af5ff4fd047.jpg':'/brand-media/precision-machined-parts-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',

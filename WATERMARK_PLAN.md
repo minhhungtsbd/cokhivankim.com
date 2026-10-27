@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 131 ảnh đã có bản thay thế được duyệt.
+- 132 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -150,6 +150,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/a04eab3573aa39f7d28c.jpg` → `/brand-media/laser-cutting-bed-vankim.png` — dùng ở 2 trang.
 - [x] `/media/96284729f5765cf01938.jpg` → `/brand-media/laser-cut-decorative-sheets-vankim.png` — dùng ở 4 trang.
 - [x] `/media/dcee69a57523e490d22d.jpg` → `/brand-media/laser-cutting-machine-vankim.png` — dùng ở 2 trang.
+- [x] `/media/52199ffe7af5ff4fd047.jpg` → `/brand-media/precision-machined-parts-vankim.png` — dùng ở 2 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -989,7 +990,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/cong-ty-gia-cong-co-khi-chinh-xac-tai-binh-duong-179.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/52199ffe7af5ff4fd047.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46938674.jpg
+  - [x] `/media/52199ffe7af5ff4fd047.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46938674.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/f9b1a76fd44f65dd70f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cong-ty-co-khi-tphcm.jpg
   - [ ] `/media/544d59e70f8802d5c6b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-phay-cnc.jpg
@@ -2904,7 +2905,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/f1c600572fd0ddf6d719.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/91219653/gia-cong-tien-phay-cnc-chinh-xac-theo-yeu-cau-tphcm.jpg
   - [ ] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
   - [ ] `/media/b5fa9143fca664f43d85.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/46938674/cong-ty-gia-cong-co-khi-chinh-xac-tai-binh-duong.jpg
-  - [ ] `/media/52199ffe7af5ff4fd047.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46938674.jpg
+  - [x] `/media/52199ffe7af5ff4fd047.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46938674.jpg
   - [ ] `/media/90caa185f34825c26bd2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/89125172/sua-cua-cuon-tai-tphcm-gia-re-uy-tin-bao-hanh-lau-dai-sua-nhanh.jpg
   - [ ] `/media/806e8e5b994c9addb2b6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/89125172.jpg
   - [ ] `/media/b06dcba33e7f1006db37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/47049848/gia-cong-co-khi-tai-quan-10-tphcm-co-khi-chinh-xac-gia-re.jpg
