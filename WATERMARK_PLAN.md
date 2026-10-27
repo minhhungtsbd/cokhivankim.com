@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 364 ảnh đã kiểm tra, không có watermark cũ.
+- 370 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/bb79e7c5536f1b2d6c96.jpg` — Không có watermark cũ; ảnh kho tấm inox, kiểm tra trực quan.
+- [—] `/media/67601dda56b5aae3cd12.jpg` — Không có watermark cũ; ảnh tấm kim loại, kiểm tra trực quan.
+- [—] `/media/0a8531af0f463ee666dc.jpg` — Không có watermark cũ; ảnh tấm kim loại, kiểm tra trực quan.
+- [—] `/media/275ccc965dc46fed136a.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
+- [—] `/media/b2ae24f02c6b8d5cb904.jpg` — Không có watermark cũ; ảnh kho tấm kim loại, kiểm tra trực quan.
+- [—] `/media/fdb93be71e38fbd7312c.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
 - [—] `/media/37ec93d391e1e381746d.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
 - [—] `/media/2dc17609ab29b2b8ba84.jpg` — Không có watermark cũ; ảnh tấm kim loại, kiểm tra trực quan.
 - [—] `/media/0e28df1470ffae44fbd9.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
@@ -3016,13 +3022,13 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/mua-thep-tam-1-ly-1-mm-va-2-ly-2mm-tai-tphcm-230.html`
 - Ảnh cần rà: 13
-  - [ ] `/media/bb79e7c5536f1b2d6c96.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19419751.jpg
+  - [—] `/media/bb79e7c5536f1b2d6c96.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19419751.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/67601dda56b5aae3cd12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-1-ly.jpg
-  - [ ] `/media/0a8531af0f463ee666dc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-1-ly-1.jpg
-  - [ ] `/media/275ccc965dc46fed136a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly.jpg
-  - [ ] `/media/b2ae24f02c6b8d5cb904.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly-1.jpg
-  - [ ] `/media/fdb93be71e38fbd7312c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly-3.jpg
+  - [—] `/media/67601dda56b5aae3cd12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-1-ly.jpg
+  - [—] `/media/0a8531af0f463ee666dc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-1-ly-1.jpg
+  - [—] `/media/275ccc965dc46fed136a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly.jpg
+  - [—] `/media/b2ae24f02c6b8d5cb904.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly-1.jpg
+  - [—] `/media/fdb93be71e38fbd7312c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly-3.jpg
   - [ ] `/media/b42170379c880a4d0d8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-2-ly-4.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -3380,7 +3386,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/3992eea60dcf2e64d937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/15824419/mua-thep-tam-3-ly-3-mm-va-4-ly-4mm-tai-tphcm.jpg
   - [ ] `/media/4d2fade90accdd90f7b6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/15824419.jpg
   - [ ] `/media/9965c67d2c12430f5f37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/19419751/mua-thep-tam-1-ly-1-mm-va-2-ly-2mm-tai-tphcm.jpg
-  - [ ] `/media/bb79e7c5536f1b2d6c96.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19419751.jpg
+  - [—] `/media/bb79e7c5536f1b2d6c96.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19419751.jpg
   - [ ] `/media/3b74b8a3cb0f8d8ef454.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/01661830/mua-thep-tam-ss400-tai-tphcm-gia-re.jpg
   - [ ] `/media/48166782861a518066d8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/01661830.jpg
   - [ ] `/media/c3eeae6b2152f3505e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80719460/mua-sat-tam-6-ly-7-ly-8-ly-9-ly-10-ly-1mm-den-10mm-tai-tphcm.jpg
