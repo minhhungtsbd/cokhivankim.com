@@ -6,6 +6,7 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/745b0fbd95d0ac280c21.jpg':'/brand-media/cnc-machining-tool-vankim.png',
  '/media/09954731739ff4badde3.jpg':'/brand-media/stainless-machine-vankim.png',
  '/media/71ed0ce7244877f16528.jpg':'/brand-media/workshop-wheel-machines-vankim.png',
  '/media/e414b95a5f27f8cdfb2b.jpg':'/brand-media/stainless-industrial-machine-vankim.png',
@@ -184,6 +185,13 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/2874face178c5d898dd2.jpg':'Không có watermark cũ; trùng ảnh /media/9ac069ffde63232cdf80.jpg.',
+ '/media/1051b8d2f1a356f8a356.jpg':'Không có watermark cũ.',
+ '/media/650161b6555e7f0af076.jpg':'Không có watermark cũ.',
+ '/media/9d0fc3f238a28abb0fc9.jpg':'Không có watermark cũ; trùng ảnh /media/45184582a780ba8ded03.jpg.',
+ '/media/496418a177ae55eb9905.jpg':'Không có watermark cũ.',
+ '/media/6956255d87d043b2b4d4.jpg':'Không có watermark cũ.',
+ '/media/a1c45a39dffe2d0bdaf7.jpg':'Không có watermark cũ.',
  '/media/7c20061a92c501693de0.jpg':'Không có watermark cũ.',
  '/media/3f80f50c32ab4fc25626.jpg':'Không có watermark cũ.',
  '/media/0854104df152912521a8.jpg':'Không có watermark cũ.',

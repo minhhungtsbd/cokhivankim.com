@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 176 ảnh đã có bản thay thế được duyệt.
-- 108 ảnh đã kiểm tra, không có watermark cũ.
+- 177 ảnh đã có bản thay thế được duyệt.
+- 111 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/745b0fbd95d0ac280c21.jpg` → `/brand-media/cnc-machining-tool-vankim.png` — dùng ở 2 trang.
 - [x] `/media/09954731739ff4badde3.jpg` → `/brand-media/stainless-machine-vankim.png` — dùng ở 2 trang.
 - [x] `/media/71ed0ce7244877f16528.jpg` → `/brand-media/workshop-wheel-machines-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e414b95a5f27f8cdfb2b.jpg` → `/brand-media/stainless-industrial-machine-vankim.png` — dùng ở 3 trang.
@@ -198,14 +199,17 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
-- [—] `/media/7c20061a92c501693de0.jpg` — Không có watermark cũ.
-- [—] `/media/3f80f50c32ab4fc25626.jpg` — Không có watermark cũ.
-- [—] `/media/0854104df152912521a8.jpg` — Không có watermark cũ.
-- [—] `/media/9ac069ffde63232cdf80.jpg` — Không có watermark cũ.
+- [—] `/media/2874face178c5d898dd2.jpg` — Không có watermark cũ; trùng ảnh /media/9ac069ffde63232cdf80.jpg.
+- [—] `/media/1051b8d2f1a356f8a356.jpg` — Không có watermark cũ.
+- [—] `/media/650161b6555e7f0af076.jpg` — Không có watermark cũ.
 - [—] `/media/9d0fc3f238a28abb0fc9.jpg` — Không có watermark cũ; trùng ảnh /media/45184582a780ba8ded03.jpg.
 - [—] `/media/496418a177ae55eb9905.jpg` — Không có watermark cũ.
 - [—] `/media/6956255d87d043b2b4d4.jpg` — Không có watermark cũ.
 - [—] `/media/a1c45a39dffe2d0bdaf7.jpg` — Không có watermark cũ.
+- [—] `/media/7c20061a92c501693de0.jpg` — Không có watermark cũ.
+- [—] `/media/3f80f50c32ab4fc25626.jpg` — Không có watermark cũ.
+- [—] `/media/0854104df152912521a8.jpg` — Không có watermark cũ.
+- [—] `/media/9ac069ffde63232cdf80.jpg` — Không có watermark cũ.
 - [—] `/media/4be9235eff3d6367890b.jpg` — Không có watermark cũ.
 - [—] `/media/b7d704d1100213001040.jpg` — Không có watermark cũ.
 - [—] `/media/212c83abfa16e01deb76.jpg` — Không có watermark cũ; trùng ảnh /media/d369a42f283b819ec95a.jpg.
@@ -1221,7 +1225,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Dịch vụ Gia Công Cơ Khí Quận Phú Nhuận Chuyên Nghiệp
+### [x] Dịch vụ Gia Công Cơ Khí Quận Phú Nhuận Chuyên Nghiệp
 
 - Route: `/tin-tuc/dich-vu-gia-cong-co-khi-quan-phu-nhuan-chuyen-nghiep-266.html`
 - Ảnh cần rà: 14
@@ -1231,9 +1235,9 @@ Cập nhật: 2026-10-27.
   - [—] `/media/496418a177ae55eb9905.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-2.jpg
   - [—] `/media/6956255d87d043b2b4d4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-3.jpg
   - [—] `/media/a1c45a39dffe2d0bdaf7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-4.jpg
-  - [ ] `/media/2874face178c5d898dd2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-5.jpg
-  - [ ] `/media/1051b8d2f1a356f8a356.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-6.jpg
-  - [ ] `/media/650161b6555e7f0af076.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-7.jpg
+  - [—] `/media/2874face178c5d898dd2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-5.jpg
+  - [—] `/media/1051b8d2f1a356f8a356.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-6.jpg
+  - [—] `/media/650161b6555e7f0af076.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -1244,7 +1248,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/dich-vu-gia-cong-co-khi-tai-bien-hoa-theo-yeu-cau-182.html`
 - Ảnh cần rà: 13
-  - [ ] `/media/745b0fbd95d0ac280c21.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/43261773.jpg
+  - [x] `/media/745b0fbd95d0ac280c21.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/43261773.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/905d4d978f9e395edf71.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tphcm.jpg
   - [ ] `/media/e7ab2f1693dfc6118641.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-cnc.jpg
@@ -2989,7 +2993,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/fe91e5cbbdb36c487429.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/44311223/cat-laser-kim-loai-thu-duc-cat-laser-sat-thep-inox-gia-re.jpg
   - [x] `/media/a04eab3573aa39f7d28c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/44311223.jpg
   - [ ] `/media/966ff5109cea6a61140c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/43261773/dich-vu-gia-cong-co-khi-tai-bien-hoa-theo-yeu-cau.jpg
-  - [ ] `/media/745b0fbd95d0ac280c21.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/43261773.jpg
+  - [x] `/media/745b0fbd95d0ac280c21.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/43261773.jpg
   - [ ] `/media/e24789c8626e7892d14e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/35338802/nhan-cat-laser-kim-loai-sat-thep-inox-nhom-tphcm-cat-laser-fiber-gia-re.jpg
   - [ ] `/media/c494847f2c8fc08a15a6.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/35338802.jpg
   - [ ] `/media/f1c600572fd0ddf6d719.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/91219653/gia-cong-tien-phay-cnc-chinh-xac-theo-yeu-cau-tphcm.jpg
