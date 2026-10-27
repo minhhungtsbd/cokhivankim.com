@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 342 ảnh đã có bản thay thế được duyệt.
+- 345 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/9cd1c665eca3b2de47ee.jpg` → `/brand-media/gold-black-house-gate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/6110e52c4324d2338087.jpg` → `/brand-media/four-panel-gold-inlay-gate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/930d7f4adb7f731eaf4e.jpg` → `/brand-media/gold-phoenix-four-panel-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/136eae1d1525e6b7b3a9.jpg` → `/brand-media/classic-ornate-house-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/3f56dd0dfd7ad05d6493.jpg` → `/brand-media/black-ornate-driveway-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/37a23b0214ecdaf94e85.jpg` → `/brand-media/dark-medallion-cnc-gate-vankim.png` — dùng ở 1 trang.
@@ -2274,9 +2277,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/136eae1d1525e6b7b3a9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-15.jpg
   - [x] `/media/3f56dd0dfd7ad05d6493.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-16.jpg
   - [x] `/media/37a23b0214ecdaf94e85.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-17.jpg
-  - [ ] `/media/9cd1c665eca3b2de47ee.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-18.jpg
-  - [ ] `/media/6110e52c4324d2338087.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-19.jpg
-  - [ ] `/media/930d7f4adb7f731eaf4e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-20.jpg
+  - [x] `/media/9cd1c665eca3b2de47ee.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-18.jpg
+  - [x] `/media/6110e52c4324d2338087.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-19.jpg
+  - [x] `/media/930d7f4adb7f731eaf4e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-20.jpg
   - [ ] `/media/fecb3c4414f1e6696cd1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-21.jpg
   - [ ] `/media/e1263fad0b39e8f47184.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-23.jpg
   - [ ] `/media/336af5c7e36210144d8b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cua-cong-sat-cat-cnc-dep-22.jpg

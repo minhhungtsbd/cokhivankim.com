@@ -4,6 +4,9 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/9cd1c665eca3b2de47ee.jpg':'/brand-media/gold-black-house-gate-vankim.png',
+ '/media/6110e52c4324d2338087.jpg':'/brand-media/four-panel-gold-inlay-gate-vankim.png',
+ '/media/930d7f4adb7f731eaf4e.jpg':'/brand-media/gold-phoenix-four-panel-gate-vankim.png',
  '/media/136eae1d1525e6b7b3a9.jpg':'/brand-media/classic-ornate-house-gate-vankim.png',
  '/media/3f56dd0dfd7ad05d6493.jpg':'/brand-media/black-ornate-driveway-gate-vankim.png',
  '/media/37a23b0214ecdaf94e85.jpg':'/brand-media/dark-medallion-cnc-gate-vankim.png',
