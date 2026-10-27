@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 229 ảnh đã có bản thay thế được duyệt.
+- 237 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -57,6 +57,14 @@ Cập nhật: 2026-10-27.
 - [x] `/media/4ec7d43d7367d35e28f6.jpg` → `/brand-media/machined-gears-vankim.png` — dùng ở 2 trang.
 - [x] `/media/ca7e5fc0a3c490b2a0a5.jpg` → `/brand-media/machined-bushings-set-vankim.png` — dùng ở 2 trang.
 - [x] `/media/f46c9aa9c03b72204fb1.jpg` → `/brand-media/precision-machined-assembly-vankim.png` — dùng ở 2 trang.
+- [x] `/media/35457470316426411733.jpg` → `/brand-media/machined-bushings-set-vankim.png` — dùng ở 1 trang.
+- [x] `/media/0acb1b7bda1c1bc532ca.jpg` → `/brand-media/machined-fixture-vankim.png` — dùng ở 1 trang.
+- [x] `/media/4fe696e6506b3793dcb0.jpg` → `/brand-media/gear-transmission-collage-vankim.png` — dùng ở 2 trang.
+- [x] `/media/fc305d8e37b563d086d7.jpg` → `/brand-media/machining-workshop-banner-vankim.png` — dùng ở 2 trang.
+- [x] `/media/471d63603ac9f91d0461.jpg` → `/brand-media/fabricated-frame-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e27816a9d49aca2104cf.jpg` → `/brand-media/precision-flanges-vankim.png` — dùng ở 1 trang.
+- [x] `/media/66a59d67051dc26fdefa.jpg` → `/brand-media/machined-bushings-vankim.png` — dùng ở 1 trang.
+- [x] `/media/886b69e9d787e1f2b86b.jpg` → `/brand-media/precision-components-collage-vankim.png` — dùng ở 1 trang.
 - [x] `/media/115953dbb8a3be4b2c93.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/249dc0e97e376736330f.jpg` → `/brand-media/machined-plate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f628b02ceb5580cc737a.jpg` → `/brand-media/laser-cutting-panels-vankim.png` — dùng ở 1 trang.
@@ -1653,15 +1661,15 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công cơ khí chính xác tại Bình Chánh TPHCM | Giá tốt uy tín
+### [x] Gia công cơ khí chính xác tại Bình Chánh TPHCM | Giá tốt uy tín
 
 - Route: `/tin-tuc/gia-cong-co-khi-chinh-xac-tai-binh-chanh-tphcm-gia-tot-uy-tin-173.html`
 - Ảnh cần rà: 10
   - [x] `/media/ca7e5fc0a3c490b2a0a5.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68808210.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/f46c9aa9c03b72204fb1.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi2.jpg
-  - [ ] `/media/35457470316426411733.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi3.jpg
-  - [ ] `/media/0acb1b7bda1c1bc532ca.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-binh-chanh.jpg
+  - [x] `/media/35457470316426411733.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi3.jpg
+  - [x] `/media/0acb1b7bda1c1bc532ca.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-binh-chanh.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -1672,14 +1680,14 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-co-khi-chinh-xac-theo-yeu-cau-tai-tphcm-gia-re-chat-luong-163.html`
 - Ảnh cần rà: 43
-  - [ ] `/media/4fe696e6506b3793dcb0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/06671123.jpg
+  - [x] `/media/4fe696e6506b3793dcb0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/06671123.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/fc305d8e37b563d086d7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-gia-cong-co-khi-goc.jpg
+  - [x] `/media/fc305d8e37b563d086d7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-gia-cong-co-khi-goc.jpg
   - [x] `/media/6900240af67277d9e081.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/pheu-inox-cong-nghiep.jpg
-  - [ ] `/media/471d63603ac9f91d0461.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac(1).jpg
-  - [ ] `/media/e27816a9d49aca2104cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chi-tiet-may.jpg
-  - [ ] `/media/66a59d67051dc26fdefa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-1.jpg
-  - [ ] `/media/886b69e9d787e1f2b86b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(3)(1).jpg
+  - [x] `/media/471d63603ac9f91d0461.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac(1).jpg
+  - [x] `/media/e27816a9d49aca2104cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chi-tiet-may.jpg
+  - [x] `/media/66a59d67051dc26fdefa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-1.jpg
+  - [x] `/media/886b69e9d787e1f2b86b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(3)(1).jpg
   - [ ] `/media/f186a33fd4151a6027cb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-2.jpg
   - [ ] `/media/7533735140ab234e2c22.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-2%20(4).jpg
   - [ ] `/media/d506a6b8f1289184dc3f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-3.jpg
@@ -1722,7 +1730,7 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 24
   - [x] `/media/0285a9cb866c70d16bc9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/21057247.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/fc305d8e37b563d086d7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-gia-cong-co-khi-goc.jpg
+  - [x] `/media/fc305d8e37b563d086d7.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-gia-cong-co-khi-goc.jpg
   - [ ] `/media/609aa59dc9cc851647de.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(27).jpg
   - [ ] `/media/79579bb5b708257bb0bf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(22).jpg
   - [ ] `/media/3f8c57cc52b12b2a5f85.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(13).jpg
@@ -3140,7 +3148,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/e34f3d21cf963c68d541.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/67825755/nhan-gia-cong-co-khi-tai-quan-binh-tan-tphcm-uy-tin-chuyen-nghiep.jpg
   - [ ] `/media/c66db623ad083fd7d31d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67825755.jpg
   - [ ] `/media/8923977646b56a81fa4a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/06671123/gia-cong-co-khi-chinh-xac-theo-yeu-cau-tai-tphcm-gia-re-chat-luong.jpg
-  - [ ] `/media/4fe696e6506b3793dcb0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/06671123.jpg
+  - [x] `/media/4fe696e6506b3793dcb0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/06671123.jpg
 
 ### [ ] Sửa cửa cuốn tại TPHCM | Giá rẻ Uy Tín | Bảo hành lâu dài | Sửa nhanh
 
