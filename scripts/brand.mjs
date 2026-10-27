@@ -4,6 +4,9 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/6e3bcced447f04479a05.jpg':'/brand-media/cnc-turning-machine-interior-vankim.png',
+ '/media/6edaddf6b31ab95e8ee9.jpg':'/brand-media/black-turned-shafts-and-bushings-vankim.png',
+ '/media/43ba3820aa15fcc60688.jpg':'/brand-media/precision-turning-chuck-vankim.png',
  '/media/2d023ce4a7da133dc37a.jpg':'/brand-media/cnc-milling-machine-green-vankim.png',
  '/media/da86956eecd49da6da6e.jpg':'/brand-media/cnc-machine-workshop-vankim.png',
  '/media/565bdef49f0fb7bb8486.jpg':'/brand-media/precision-milled-parts-black-background-vankim.png',

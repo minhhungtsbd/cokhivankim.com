@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 363 ảnh đã có bản thay thế được duyệt.
+- 366 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/6e3bcced447f04479a05.jpg` → `/brand-media/cnc-turning-machine-interior-vankim.png` — dùng ở 2 trang.
+- [x] `/media/6edaddf6b31ab95e8ee9.jpg` → `/brand-media/black-turned-shafts-and-bushings-vankim.png` — dùng ở 2 trang.
+- [x] `/media/43ba3820aa15fcc60688.jpg` → `/brand-media/precision-turning-chuck-vankim.png` — dùng ở 2 trang.
 - [x] `/media/2d023ce4a7da133dc37a.jpg` → `/brand-media/cnc-milling-machine-green-vankim.png` — dùng ở 2 trang.
 - [x] `/media/da86956eecd49da6da6e.jpg` → `/brand-media/cnc-machine-workshop-vankim.png` — dùng ở 2 trang.
 - [x] `/media/565bdef49f0fb7bb8486.jpg` → `/brand-media/precision-milled-parts-black-background-vankim.png` — dùng ở 2 trang.
@@ -2355,9 +2358,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/2d023ce4a7da133dc37a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc.jpg
   - [x] `/media/da86956eecd49da6da6e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-3.jpg
   - [x] `/media/565bdef49f0fb7bb8486.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cac-chi-tiet.jpg
-  - [ ] `/media/6e3bcced447f04479a05.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-4.jpg
-  - [ ] `/media/6edaddf6b31ab95e8ee9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc.jpg
-  - [ ] `/media/43ba3820aa15fcc60688.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc(1).jpg
+  - [x] `/media/6e3bcced447f04479a05.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-4.jpg
+  - [x] `/media/6edaddf6b31ab95e8ee9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc.jpg
+  - [x] `/media/43ba3820aa15fcc60688.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc(1).jpg
   - [ ] `/media/344cde05df7b1882044b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc(1).jpg
   - [ ] `/media/ef8b7bb5c83461ef9559.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-1.jpg
   - [ ] `/media/a37bc98d40d4aa3e2d20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc(1).jpg
@@ -2381,9 +2384,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/2d023ce4a7da133dc37a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc.jpg
   - [x] `/media/da86956eecd49da6da6e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-3.jpg
   - [x] `/media/565bdef49f0fb7bb8486.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cac-chi-tiet.jpg
-  - [ ] `/media/6e3bcced447f04479a05.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-4.jpg
-  - [ ] `/media/6edaddf6b31ab95e8ee9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc.jpg
-  - [ ] `/media/43ba3820aa15fcc60688.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc(1).jpg
+  - [x] `/media/6e3bcced447f04479a05.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-4.jpg
+  - [x] `/media/6edaddf6b31ab95e8ee9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc.jpg
+  - [x] `/media/43ba3820aa15fcc60688.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc(1).jpg
   - [ ] `/media/344cde05df7b1882044b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc(1).jpg
   - [ ] `/media/ef8b7bb5c83461ef9559.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-1.jpg
   - [ ] `/media/a37bc98d40d4aa3e2d20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc(1).jpg
