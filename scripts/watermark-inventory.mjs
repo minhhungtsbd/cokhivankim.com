@@ -149,6 +149,7 @@ const knownReplacements={
  ,'/media/e0b1d3b48021376ac890.jpg':'/brand-media/cnc-bird-panel-vankim.png'
  ,'/media/a66bb7ce3e1c30a1c65b.jpg':'/brand-media/cnc-perforated-screen-vankim.png'
  ,'/media/e22ac06c7a8c5bb0b80e.jpg':'/brand-media/cnc-perforated-table-vankim.png'
+ ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
