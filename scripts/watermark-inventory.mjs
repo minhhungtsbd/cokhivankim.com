@@ -6,6 +6,7 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/9e0bd8a65ccfca0926db.jpg':'/brand-media/industrial-blower-vankim.png',
  '/media/28c494dc6ce52632a19b.jpg':'/brand-media/press-brake-parts-vankim.png',
  '/media/fd6a84ef6295b7d1a297.jpg':'/brand-media/cnc-machining-vankim.png',
  '/media/cb094e7a8af5077a7d1e.jpg':'/brand-media/wrapped-metal-parts-vankim.png',
@@ -316,6 +317,8 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/5669dd1078d231acf765.jpg':'Không có watermark cũ; kiểm tra trực quan.',
+ '/media/6b6158d97c6a5f66ef61.jpg':'Không có watermark cũ; trùng ảnh đã kiểm tra sạch.',
  '/media/7b55baec4f3ef557a227.jpg':'Không có watermark cũ.',
  '/media/561c9c9d3decc6447892.jpg':'Không có watermark cũ; trùng ảnh đã kiểm tra sạch.',
  '/media/f86785487090e4cb3f3c.jpg':'Không có watermark cũ.',
