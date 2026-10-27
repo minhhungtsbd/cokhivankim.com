@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 279 ảnh đã có bản thay thế được duyệt.
-- 202 ảnh đã kiểm tra, không có watermark cũ.
+- 206 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -301,6 +301,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/4a99e18aaf30b20a7134.jpg` — Không có watermark cũ; trùng ảnh đã kiểm tra sạch.
+- [—] `/media/1bd3b35cb4f5634ad412.jpg` — Không có watermark cũ; trùng ảnh đã kiểm tra sạch.
+- [—] `/media/907165ac645d2ed2a3cd.jpg` — Không có watermark cũ.
+- [—] `/media/23de97f884e480f7c3bc.jpg` — Không có watermark cũ.
 - [—] `/media/8ee977b8b15f0e7f2d03.jpg` — Không có watermark cũ.
 - [—] `/media/1d7bf7d83260ab7a3e53.jpg` — Không có watermark cũ.
 - [—] `/media/e375d53730d0556db997.jpg` — Không có watermark cũ.
@@ -1906,11 +1910,11 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-can-gio-giao-hang-tan-noi-262.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/4a99e18aaf30b20a7134.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68091962.jpg
+  - [—] `/media/4a99e18aaf30b20a7134.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68091962.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/1bd3b35cb4f5634ad412.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-1.jpg
-  - [ ] `/media/907165ac645d2ed2a3cd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-2.jpg
-  - [ ] `/media/23de97f884e480f7c3bc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-3.jpg
+  - [—] `/media/1bd3b35cb4f5634ad412.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-1.jpg
+  - [—] `/media/907165ac645d2ed2a3cd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-2.jpg
+  - [—] `/media/23de97f884e480f7c3bc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-3.jpg
   - [ ] `/media/eea9368c0b80a3340c8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-4.jpg
   - [ ] `/media/9f152749a0470ddaa310.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-5.jpg
   - [ ] `/media/9efdd25d0e03abca753d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-can-gio-7.jpg
@@ -3039,7 +3043,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/533cb14e579809ee9f19.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80864418/xuong-gia-cong-co-khi-tai-cu-chi-uy-tin.jpg
   - [ ] `/media/635db377de21a5408413.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/80864418.jpg
   - [ ] `/media/15826c530526ec067a5e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68091962/gia-cong-co-khi-tai-can-gio-giao-hang-tan-noi.jpg
-  - [ ] `/media/4a99e18aaf30b20a7134.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68091962.jpg
+  - [—] `/media/4a99e18aaf30b20a7134.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68091962.jpg
   - [ ] `/media/cb1a1e790a47466682fc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/38234233/gia-cong-co-khi-tai-thu-dau-mot-uy-tin-chuyen-nghiep.jpg
   - [ ] `/media/176fc1d97cc670ed13fe.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/38234233.jpg
   - [ ] `/media/6fa1030cc0910be2d4bc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/19328943/gia-cong-co-khi-tai-di-an-theo-yeu-cau.jpg
