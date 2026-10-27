@@ -139,6 +139,7 @@ const knownReplacements={
  ,'/media/dcee69a57523e490d22d.jpg':'/brand-media/laser-cutting-machine-vankim.png'
  ,'/media/52199ffe7af5ff4fd047.jpg':'/brand-media/precision-machined-parts-vankim.png'
  ,'/media/f9b1a76fd44f65dd70f6.jpg':'/brand-media/precision-welding-vankim.png'
+ ,'/media/4c5ba0dfcb57b901bea4.jpg':'/brand-media/machined-flanges-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
