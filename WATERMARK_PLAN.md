@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 380 ảnh đã có bản thay thế được duyệt.
-- 463 ảnh đã kiểm tra, không có watermark cũ.
+- 469 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -402,6 +402,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/ee4f16c47159bdaa871d.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
+- [—] `/media/af195559b7b6cce63173.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
+- [—] `/media/f95193ae9739e7ab157d.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
+- [—] `/media/3992eea60dcf2e64d937.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
+- [—] `/media/9965c67d2c12430f5f37.jpg` — Không có watermark cũ; ảnh tấm inox, kiểm tra trực quan.
+- [—] `/media/3b74b8a3cb0f8d8ef454.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
 - [—] `/media/77fa22da63e51cc616fd.jpg` — Không có watermark cũ; collage sản phẩm khắc, kiểm tra trực quan.
 - [—] `/media/85a3ce7c852e07aeb1f4.jpg` — Không có watermark cũ; chữ khắc trên chi tiết là nội dung sản phẩm, kiểm tra trực quan.
 - [—] `/media/e5dc00bac48e189965d1.jpg` — Không có watermark cũ; collage mẫu khắc sản phẩm, kiểm tra trực quan.
@@ -3442,7 +3448,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/f8e9165b6b6536d73e9b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/81705315/dich-vu-khac-laser-quan-8-gia-re.jpg
   - [—] `/media/da067ae4e19aa5eb028d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/81705315.jpg
 
-### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
+### [x] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
 
 - Route: `/tin-tuc/page/5/`
 - Ảnh cần rà: 26
@@ -3470,7 +3476,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/dcc9148ac5f354660f39.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/08610314.jpg
   - [—] `/media/dd2774513d71c2323a83.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/63434646/khac-laser-tren-kim-loai-tphcm-moi-so-luong.jpg
   - [—] `/media/cc4772ba5e2ce02fc94f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/63434646.jpg
-  - [ ] `/media/ee4f16c47159bdaa871d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/30771716/mua-thep-tam-duc-lo-tai-tphcm.jpg
+  - [—] `/media/ee4f16c47159bdaa871d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/30771716/mua-thep-tam-duc-lo-tai-tphcm.jpg
   - [—] `/media/7b36dfdc8e629e830be6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30771716.jpg
 
 ### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
@@ -3479,15 +3485,15 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 26
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/af195559b7b6cce63173.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/27158131/mua-thep-tam-5-ly-den-10-ly-tai-tphcm.jpg
+  - [—] `/media/af195559b7b6cce63173.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/27158131/mua-thep-tam-5-ly-den-10-ly-tai-tphcm.jpg
   - [—] `/media/3b08d4ee66fea96f1f83.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/27158131.jpg
-  - [ ] `/media/f95193ae9739e7ab157d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/58608435/mua-thep-tam-chong-truot-2mm-tai-tphcm.jpg
+  - [—] `/media/f95193ae9739e7ab157d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/58608435/mua-thep-tam-chong-truot-2mm-tai-tphcm.jpg
   - [—] `/media/35d1e1b29a2b17b43e4c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/58608435.jpg
-  - [ ] `/media/3992eea60dcf2e64d937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/15824419/mua-thep-tam-3-ly-3-mm-va-4-ly-4mm-tai-tphcm.jpg
+  - [—] `/media/3992eea60dcf2e64d937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/15824419/mua-thep-tam-3-ly-3-mm-va-4-ly-4mm-tai-tphcm.jpg
   - [—] `/media/4d2fade90accdd90f7b6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/15824419.jpg
-  - [ ] `/media/9965c67d2c12430f5f37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/19419751/mua-thep-tam-1-ly-1-mm-va-2-ly-2mm-tai-tphcm.jpg
+  - [—] `/media/9965c67d2c12430f5f37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/19419751/mua-thep-tam-1-ly-1-mm-va-2-ly-2mm-tai-tphcm.jpg
   - [—] `/media/bb79e7c5536f1b2d6c96.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19419751.jpg
-  - [ ] `/media/3b74b8a3cb0f8d8ef454.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/01661830/mua-thep-tam-ss400-tai-tphcm-gia-re.jpg
+  - [—] `/media/3b74b8a3cb0f8d8ef454.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/01661830/mua-thep-tam-ss400-tai-tphcm-gia-re.jpg
   - [—] `/media/48166782861a518066d8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/01661830.jpg
   - [ ] `/media/c3eeae6b2152f3505e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80719460/mua-sat-tam-6-ly-7-ly-8-ly-9-ly-10-ly-1mm-den-10mm-tai-tphcm.jpg
   - [—] `/media/37ec93d391e1e381746d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80719460.jpg
