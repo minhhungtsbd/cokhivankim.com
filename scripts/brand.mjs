@@ -4,6 +4,7 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/ba90ffde7b1079215d46.jpg':'/brand-media/precision-machined-rings-vankim.png',
  '/media/54d9490f2333b740a397.jpg':'/brand-media/precision-machined-bushings-vankim.png',
  '/media/35fa08ef4bbffa979e10.jpg':'/brand-media/cnc-floral-panel-vankim.png',
  '/media/abab0d2bcb783b8cd7bf.jpg':'/brand-media/cnc-bird-bamboo-panels-vankim.png',

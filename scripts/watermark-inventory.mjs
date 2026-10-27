@@ -6,6 +6,7 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/ba90ffde7b1079215d46.jpg':'/brand-media/precision-machined-rings-vankim.png',
  '/media/54d9490f2333b740a397.jpg':'/brand-media/precision-machined-bushings-vankim.png',
  '/media/35fa08ef4bbffa979e10.jpg':'/brand-media/cnc-floral-panel-vankim.png',
  '/media/abab0d2bcb783b8cd7bf.jpg':'/brand-media/cnc-bird-bamboo-panels-vankim.png',
