@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 213 ảnh đã có bản thay thế được duyệt.
+- 221 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -41,6 +41,14 @@ Cập nhật: 2026-10-27.
 - [x] `/media/91fb4125d34ffc08a931.jpg` → `/brand-media/sheet-metal-stacks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/b456f9c134e6c1733a88.jpg` → `/brand-media/fabricated-sheet-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/3e42cfeaaa39b79ca3ad.jpg` → `/brand-media/sheet-metal-collage-vankim.png` — dùng ở 1 trang.
+- [x] `/media/988f7b97f47950154a74.jpg` → `/brand-media/formed-metal-profiles-vankim.png` — dùng ở 1 trang.
+- [x] `/media/147f1c9ab2a233152765.jpg` → `/brand-media/bent-metal-boxes-vankim.png` — dùng ở 1 trang.
+- [x] `/media/cfd1a772ec42713c301b.jpg` → `/brand-media/bent-metal-brackets-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e4e45af1e951eb56fb34.jpg` → `/brand-media/raw-sheet-stock-vankim.png` — dùng ở 1 trang.
+- [x] `/media/f7045ce44316d28577fe.jpg` → `/brand-media/stainless-bent-enclosures-vankim.png` — dùng ở 1 trang.
+- [x] `/media/b50ebbc2fa817e8b7cb0.jpg` → `/brand-media/formed-channel-detail-vankim.png` — dùng ở 1 trang.
+- [x] `/media/d8f0a82f6a72ae9b04c0.jpg` → `/brand-media/sheet-stack-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/c6bfcbf0eaabcca1a565.jpg` → `/brand-media/sheet-fabrication-collage-vankim.png` — dùng ở 1 trang.
 - [x] `/media/115953dbb8a3be4b2c93.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/249dc0e97e376736330f.jpg` → `/brand-media/machined-plate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f628b02ceb5580cc737a.jpg` → `/brand-media/laser-cutting-panels-vankim.png` — dùng ở 1 trang.
@@ -1604,14 +1612,14 @@ Cập nhật: 2026-10-27.
   - [x] `/media/91fb4125d34ffc08a931.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-4.jpg
   - [x] `/media/b456f9c134e6c1733a88.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam.jpg
   - [x] `/media/3e42cfeaaa39b79ca3ad.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam.jpg
-  - [ ] `/media/988f7b97f47950154a74.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam-tphcm.jpg
-  - [ ] `/media/147f1c9ab2a233152765.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam-tphcm-1.jpg
-  - [ ] `/media/cfd1a772ec42713c301b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-thep-tam.jpg
-  - [ ] `/media/e4e45af1e951eb56fb34.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-5.jpg
-  - [ ] `/media/f7045ce44316d28577fe.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-1.jpg
-  - [ ] `/media/b50ebbc2fa817e8b7cb0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-thep-tam-1.jpg
-  - [ ] `/media/d8f0a82f6a72ae9b04c0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-CNC-kim-loai.jpg
-  - [ ] `/media/c6bfcbf0eaabcca1a565.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-thep-tam.jpg
+  - [x] `/media/988f7b97f47950154a74.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam-tphcm.jpg
+  - [x] `/media/147f1c9ab2a233152765.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam-tphcm-1.jpg
+  - [x] `/media/cfd1a772ec42713c301b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-thep-tam.jpg
+  - [x] `/media/e4e45af1e951eb56fb34.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-5.jpg
+  - [x] `/media/f7045ce44316d28577fe.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-1.jpg
+  - [x] `/media/b50ebbc2fa817e8b7cb0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-thep-tam-1.jpg
+  - [x] `/media/d8f0a82f6a72ae9b04c0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-CNC-kim-loai.jpg
+  - [x] `/media/c6bfcbf0eaabcca1a565.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-thep-tam.jpg
   - [ ] `/media/4f73ff450b04f1614db9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-2.jpg
   - [ ] `/media/0e1385e23e18d0b886cc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-3.jpg
   - [ ] `/media/911ee357bb1fe471218f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-2.jpg
