@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 176 ảnh đã có bản thay thế được duyệt.
-- 100 ảnh đã kiểm tra, không có watermark cũ.
+- 108 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -198,6 +198,14 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/7c20061a92c501693de0.jpg` — Không có watermark cũ.
+- [—] `/media/3f80f50c32ab4fc25626.jpg` — Không có watermark cũ.
+- [—] `/media/0854104df152912521a8.jpg` — Không có watermark cũ.
+- [—] `/media/9ac069ffde63232cdf80.jpg` — Không có watermark cũ.
+- [—] `/media/9d0fc3f238a28abb0fc9.jpg` — Không có watermark cũ; trùng ảnh /media/45184582a780ba8ded03.jpg.
+- [—] `/media/496418a177ae55eb9905.jpg` — Không có watermark cũ.
+- [—] `/media/6956255d87d043b2b4d4.jpg` — Không có watermark cũ.
+- [—] `/media/a1c45a39dffe2d0bdaf7.jpg` — Không có watermark cũ.
 - [—] `/media/4be9235eff3d6367890b.jpg` — Không có watermark cũ.
 - [—] `/media/b7d704d1100213001040.jpg` — Không có watermark cũ.
 - [—] `/media/212c83abfa16e01deb76.jpg` — Không có watermark cũ; trùng ảnh /media/d369a42f283b819ec95a.jpg.
@@ -1194,7 +1202,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Dịch Vụ Gia Công Cơ Khí Quận 5 Theo Yêu Cầu
+### [x] Dịch Vụ Gia Công Cơ Khí Quận 5 Theo Yêu Cầu
 
 - Route: `/tin-tuc/dich-vu-gia-cong-co-khi-quan-5-theo-yeu-cau-271.html`
 - Ảnh cần rà: 14
@@ -1204,9 +1212,9 @@ Cập nhật: 2026-10-27.
   - [—] `/media/4be9235eff3d6367890b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-2.jpg
   - [—] `/media/b7d704d1100213001040.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-7.jpg
   - [—] `/media/212c83abfa16e01deb76.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-3.jpg
-  - [ ] `/media/7c20061a92c501693de0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-4.jpg
-  - [ ] `/media/3f80f50c32ab4fc25626.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-5.jpg
-  - [ ] `/media/0854104df152912521a8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-6.jpg
+  - [—] `/media/7c20061a92c501693de0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-4.jpg
+  - [—] `/media/3f80f50c32ab4fc25626.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-5.jpg
+  - [—] `/media/0854104df152912521a8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-5-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -1217,12 +1225,12 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/dich-vu-gia-cong-co-khi-quan-phu-nhuan-chuyen-nghiep-266.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/9ac069ffde63232cdf80.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67271019.jpg
+  - [—] `/media/9ac069ffde63232cdf80.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67271019.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/9d0fc3f238a28abb0fc9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-1.jpg
-  - [ ] `/media/496418a177ae55eb9905.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-2.jpg
-  - [ ] `/media/6956255d87d043b2b4d4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-3.jpg
-  - [ ] `/media/a1c45a39dffe2d0bdaf7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-4.jpg
+  - [—] `/media/9d0fc3f238a28abb0fc9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-1.jpg
+  - [—] `/media/496418a177ae55eb9905.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-2.jpg
+  - [—] `/media/6956255d87d043b2b4d4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-3.jpg
+  - [—] `/media/a1c45a39dffe2d0bdaf7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-4.jpg
   - [ ] `/media/2874face178c5d898dd2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-5.jpg
   - [ ] `/media/1051b8d2f1a356f8a356.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-6.jpg
   - [ ] `/media/650161b6555e7f0af076.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-phu-nhuan-7.jpg
@@ -2826,7 +2834,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/0478600f5ed5241a232f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/93486617/dich-vu-gia-cong-co-khi-quan-1-chat-luong-cao.jpg
   - [—] `/media/25cc2f7bed6a23147a81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/93486617.jpg
   - [ ] `/media/7263d9bdb7f919d48517.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/67271019/dich-vu-gia-cong-co-khi-quan-phu-nhuan-chuyen-nghiep.jpg
-  - [ ] `/media/9ac069ffde63232cdf80.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67271019.jpg
+  - [—] `/media/9ac069ffde63232cdf80.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67271019.jpg
   - [ ] `/media/27421b8f11a9c6f4b85a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/47748129/xuong-gia-cong-co-khi-tai-nha-be-theo-yeu-cau.jpg
   - [ ] `/media/3892f0780ca146e926b9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/47748129.jpg
   - [ ] `/media/15147e5e0e228d68ba5c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/12380888/dich-vu-gia-cong-co-khi-tai-hoc-mon-theo-yeu-cau.jpg
