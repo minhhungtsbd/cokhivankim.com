@@ -14,11 +14,15 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 269 ảnh đã có bản thay thế được duyệt.
+- 273 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/e46825f8b74182851503.jpg` → `/brand-media/formed-cones-rings-vankim.png` — dùng ở 1 trang.
+- [x] `/media/85a0ccb65a8a41a63a8b.jpg` → `/brand-media/stainless-cabinets-cones-vankim.png` — dùng ở 1 trang.
+- [x] `/media/4f0229991e63e2e861ec.jpg` → `/brand-media/cnc-cutting-display-vankim.png` — dùng ở 1 trang.
+- [x] `/media/f33ae0ce92c1176c2a95.jpg` → `/brand-media/wrapped-white-enclosures-vankim.png` — dùng ở 1 trang.
 - [x] `/media/3f8c57cc52b12b2a5f85.jpg` → `/brand-media/stainless-cabinet-press-brake-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c99b3ed6dc9bd4c11d84.jpg` → `/brand-media/perforated-stainless-enclosures-vankim.png` — dùng ở 1 trang.
 - [x] `/media/45c81080f0d11399bf94.jpg` → `/brand-media/laser-bed-metal-brackets-vankim.png` — dùng ở 1 trang.
@@ -1769,10 +1773,10 @@ Cập nhật: 2026-10-27.
   - [x] `/media/c99b3ed6dc9bd4c11d84.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(23).jpg
   - [x] `/media/45c81080f0d11399bf94.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(14).jpg
   - [x] `/media/249b804599ee9ac6bc62.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(24).jpg
-  - [ ] `/media/e46825f8b74182851503.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(25).jpg
-  - [ ] `/media/85a0ccb65a8a41a63a8b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(15).jpg
-  - [ ] `/media/4f0229991e63e2e861ec.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(26).jpg
-  - [ ] `/media/f33ae0ce92c1176c2a95.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(16).jpg
+  - [x] `/media/e46825f8b74182851503.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(25).jpg
+  - [x] `/media/85a0ccb65a8a41a63a8b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(15).jpg
+  - [x] `/media/4f0229991e63e2e861ec.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(26).jpg
+  - [x] `/media/f33ae0ce92c1176c2a95.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(16).jpg
   - [ ] `/media/7227092ce6eaaa77e5f0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(28).jpg
   - [ ] `/media/ed38f4d7073b9115ac37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(17).jpg
   - [ ] `/media/18bf10687f26639196d3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(18).jpg
