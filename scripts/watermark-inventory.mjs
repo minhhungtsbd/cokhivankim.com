@@ -287,6 +287,10 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/e35ac31cc2de00107e83.jpg':'Không có watermark cũ.',
+ '/media/a6b1473870729e828b35.jpg':'Không có watermark cũ.',
+ '/media/838cf5249e5b03c2cde1.jpg':'Không có watermark cũ.',
+ '/media/7f0d4ff2e428a3e0da2d.jpg':'Không có watermark cũ; chữ ERSystem là ký hiệu trên sản phẩm.',
  '/media/dd14ef4632983936b6b2.jpg':'Không có watermark cũ.',
  '/media/f99c87d000221cebe96f.jpg':'Không có watermark cũ.',
  '/media/b50f55f82df56de7332c.jpg':'Không có watermark cũ; trùng ảnh bánh răng đã kiểm tra sạch.',
