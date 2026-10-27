@@ -164,6 +164,9 @@ Cập nhật: 2026-10-27.
 - [—] `/media/d74ad89f73fece1206ac.jpg` — Không có watermark cũ.
 - [—] `/media/19a175112465113adfb0.jpg` — Không có watermark cũ.
 - [—] `/media/e826f2a107f31495c488.jpg` — Không có watermark cũ.
+- [—] `/media/92e4bbf15c4d2855f28f.jpg` — Không có watermark cũ.
+- [—] `/media/a75ba14e16d31cb66565.jpg` — Không có watermark cũ.
+- [—] `/media/70b962d41b5e7858fdca.jpg` — Không có watermark cũ; chỉ là ảnh chi tiết in 3D.
 - [—] `/media/de47eb681fd0b85e2110.jpg` — Không có watermark cũ.
 - [—] `/media/54674b74b2fad25f1f53.jpg` — Không có watermark cũ.
 - [—] `/media/9ca7097375ac1d5c4f5d.png` — Không có watermark cũ.
@@ -174,8 +177,6 @@ Cập nhật: 2026-10-27.
 - [—] `/media/493eb7c59ad995627836.jpg` — Không có watermark cũ.
 - [—] `/media/6b159e52eaa85e376185.jpg` — Không có watermark cũ.
 - [—] `/media/0259950403c0bc387a7c.jpg` — Không có watermark cũ.
-- [—] `/media/92e4bbf15c4d2855f28f.jpg` — Không có watermark cũ.
-- [—] `/media/a75ba14e16d31cb66565.jpg` — Không có watermark cũ.
 - [—] `/media/d2ff906d2f0521f92cfb.jpg` — Không có watermark cũ.
 - [—] `/media/6d76c8784a9b479d6257.jpg` — Không có watermark cũ.
 - [—] `/media/ad379e57dbad991083d4.jpg` — Không có watermark cũ.
@@ -199,7 +200,6 @@ Cập nhật: 2026-10-27.
 - [—] `/media/8b1a698dc07b89391603.jpg` — Chỉ có mã khắc trực tiếp trên chi tiết; không có watermark cũ.
 - [—] `/media/d970b39bb07654540b1e.jpg` — Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.
 - [—] `/media/a8f41796ee3392a9f82c.jpg` — Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.
-- [—] `/media/70b962d41b5e7858fdca.jpg` — Không có watermark cũ; chỉ là ảnh chi tiết in 3D.
 - [—] `/media/71c2ca11337fac781b19.jpg` — Ảnh minh hoạ chính sách đổi trả, không có watermark cũ.
 - [—] `/media/3d7cfd23e457aae68ca6.jpg` — Ảnh minh hoạ giao nhận, không có watermark cũ.
 - [—] `/media/6ad8b1341a3e83f5f0b6.png` — Ảnh minh hoạ thanh toán, không có watermark cũ.
