@@ -146,8 +146,8 @@ Cập nhật: 2026-10-27.
 - [x] `/media/f12a6e1f3117c315c192.jpg` → `/brand-media/cnc-milling-detail-vankim.png` — dùng ở 1 trang.
 - [x] `/media/8f0aaf9821de7cb16c0d.jpg` → `/brand-media/precision-parts-collage-vankim.png` — dùng ở 1 trang.
 - [x] `/media/803aec19a16875faba96.jpg` → `/brand-media/stacked-sheet-sections-vankim.png` — dùng ở 1 trang.
-- [x] `/media/6157066f624e4982f9ee.jpg` → `/brand-media/precision-parts-white-vankim.png` — dùng ở 2 trang.
-- [x] `/media/637abebdf65db4e2cd06.jpg` → `/brand-media/tool-holders-set-vankim.png` — dùng ở 1 trang.
+- [x] `/media/6157066f624e4982f9ee.jpg` → `/brand-media/precision-machined-parts-white-vankim.png` — dùng ở 2 trang.
+- [x] `/media/637abebdf65db4e2cd06.jpg` → `/brand-media/tool-holders-and-boring-tools-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c474b73c9b62dabfb454.jpg` → `/brand-media/stainless-boxes-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f5429c8c006309b89404.jpg` → `/brand-media/cnc-cutting-bed-detail-vankim.png` — dùng ở 1 trang.
 - [x] `/media/5973841e3b162d1a5062.jpg` → `/brand-media/machined-circular-fixtures-vankim.png` — dùng ở 1 trang.
