@@ -136,6 +136,7 @@ const imageReplacements={
  ,'/media/96284729f5765cf01938.jpg':'/brand-media/laser-cut-decorative-sheets-vankim.png'
  ,'/media/dcee69a57523e490d22d.jpg':'/brand-media/laser-cutting-machine-vankim.png'
  ,'/media/52199ffe7af5ff4fd047.jpg':'/brand-media/precision-machined-parts-vankim.png'
+ ,'/media/f9b1a76fd44f65dd70f6.jpg':'/brand-media/precision-welding-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
