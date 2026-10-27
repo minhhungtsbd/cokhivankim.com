@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 175 ảnh đã có bản thay thế được duyệt.
-- 69 ảnh đã kiểm tra, không có watermark cũ.
+- 70 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -197,6 +197,7 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/0343fa46ba969ce3b330.jpg` — Không có watermark cũ.
 - [—] `/media/d0b60168dbe3d1f06a16.jpg` — Không có watermark cũ; trùng ảnh /media/25cc2f7bed6a23147a81.jpg.
 - [—] `/media/a86f467197b2c2e65463.jpg` — Không có watermark cũ.
 - [—] `/media/c76e6dae22f83e4cc1b5.jpg` — Không có watermark cũ.
@@ -1097,7 +1098,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/c76e6dae22f83e4cc1b5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-1-3.jpg
   - [—] `/media/a86f467197b2c2e65463.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-1-4.jpg
   - [—] `/media/d0b60168dbe3d1f06a16.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-1-5.jpg
-  - [ ] `/media/0343fa46ba969ce3b330.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-1-6.jpg
+  - [—] `/media/0343fa46ba969ce3b330.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-1-6.jpg
   - [ ] `/media/27bf2e01f7628e447780.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-1-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
