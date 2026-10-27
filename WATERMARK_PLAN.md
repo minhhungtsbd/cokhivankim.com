@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 276 ảnh đã có bản thay thế được duyệt.
+- 279 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/a2b25b93cb4cd9d25fcc.jpg` → `/brand-media/machined-brackets-rail-vankim.png` — dùng ở 1 trang.
+- [x] `/media/dc94a49ad479e46a148e.jpg` → `/brand-media/ornamental-screen-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/33a4b46521ee8f922086.jpg` → `/brand-media/stainless-trays-rails-vankim.png` — dùng ở 1 trang.
 - [x] `/media/7227092ce6eaaa77e5f0.jpg` → `/brand-media/flanged-spools-vankim.png` — dùng ở 1 trang.
 - [x] `/media/ed38f4d7073b9115ac37.jpg` → `/brand-media/stainless-panels-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/18bf10687f26639196d3.jpg` → `/brand-media/stainless-boxes-cutouts-vankim.png` — dùng ở 1 trang.
@@ -1763,7 +1766,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công cơ khí Gò Vấp | Gia công cơ khí theo yêu cầu
+### [x] Gia công cơ khí Gò Vấp | Gia công cơ khí theo yêu cầu
 
 - Route: `/tin-tuc/gia-cong-co-khi-go-vap-gia-cong-co-khi-theo-yeu-cau-211.html`
 - Ảnh cần rà: 24
@@ -1783,9 +1786,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/7227092ce6eaaa77e5f0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(28).jpg
   - [x] `/media/ed38f4d7073b9115ac37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(17).jpg
   - [x] `/media/18bf10687f26639196d3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(18).jpg
-  - [ ] `/media/a2b25b93cb4cd9d25fcc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(19).jpg
-  - [ ] `/media/dc94a49ad479e46a148e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(20).jpg
-  - [ ] `/media/33a4b46521ee8f922086.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(21).jpg
+  - [x] `/media/a2b25b93cb4cd9d25fcc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(19).jpg
+  - [x] `/media/dc94a49ad479e46a148e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(20).jpg
+  - [x] `/media/33a4b46521ee8f922086.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(21).jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
