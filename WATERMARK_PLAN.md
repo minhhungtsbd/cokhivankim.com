@@ -14,8 +14,8 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 124 ảnh đã có bản thay thế được duyệt.
-- 36 ảnh đã kiểm tra, không có watermark cũ.
+- 125 ảnh đã có bản thay thế được duyệt.
+- 37 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -143,6 +143,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/8745794b9d4ca6a20a94.jpg` → `/brand-media/cnc-turned-tooling-set-vankim.png` — dùng ở 1 trang.
 - [x] `/media/001ab6eb57b1ae18c50b.jpg` → `/brand-media/cnc-turned-tooling-closeup-vankim.png` — dùng ở 1 trang.
 - [x] `/media/4786400505ff1fedbf73.jpg` → `/brand-media/cnc-turned-tooling-group-vankim.png` — dùng ở 1 trang.
+- [x] `/media/4d01efa0978d21e09e78.jpg` → `/brand-media/laser-tiger-panel-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -182,6 +183,7 @@ Cập nhật: 2026-10-27.
 - [—] `/media/8b1a698dc07b89391603.jpg` — Chỉ có mã khắc trực tiếp trên chi tiết; không có watermark cũ.
 - [—] `/media/d970b39bb07654540b1e.jpg` — Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.
 - [—] `/media/a8f41796ee3392a9f82c.jpg` — Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.
+- [—] `/media/70b962d41b5e7858fdca.jpg` — Không có watermark cũ; chỉ là ảnh chi tiết in 3D.
 
 ## Ảnh cần nguồn sạch hoặc xử lý thủ công
 
@@ -419,7 +421,7 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 1
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] In 3D nhựa kỹ thuật theo yêu cầu.
+### [x] In 3D nhựa kỹ thuật theo yêu cầu.
 
 - Route: `/in-3d-nhua-ky-thuat.html`
 - Ảnh cần rà: 10
@@ -432,7 +434,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/de78ce8df424ef96182a.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-cu.jpg
   - [—] `/media/bfca9a5e4829f84e8a7f.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-puly.jpg
   - [—] `/media/c55cf8c0201ac8090ac1.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-robot.jpg
-  - [ ] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
+  - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
 
 ### [x] Khắc Laser
 
@@ -544,7 +546,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/58844b6d30a7add3345e.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/058559210416/cat-laser-kim-loai.jpg
   - [x] `/media/dff6c9f56459b8280ec2.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/058559210416.jpg
 
-### [ ] Cắt Laser Hoa Văn Kim Loại
+### [x] Cắt Laser Hoa Văn Kim Loại
 
 - Route: `/san-pham/cat-laser-hoa-van-kim-loai-489.html`
 - Ảnh cần rà: 20
@@ -559,7 +561,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/357807ae23edb6a4af74.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-trang-tri.jpg
   - [x] `/media/9d19af0cdd9dba5631f4.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-hoa-van-vach-ngan.jpg
   - [x] `/media/8016bd8017f4581f6eed.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-vach-ngan-kim-loai.jpg
-  - [ ] `/media/4d01efa0978d21e09e78.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/hoa-tiet-kim-loai-cat-laser.jpg
+  - [x] `/media/4d01efa0978d21e09e78.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/hoa-tiet-kim-loai-cat-laser.jpg
   - [x] `/media/d35fb5e6831704b3dedf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/hoa-van-kim-loai.jpg
   - [x] `/media/f5557990635b2c62afd8.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/989529918876.jpg
   - [x] `/media/642c65adf2849eb9c943.jpg` — dùng ở 9 trang — nguồn: https://cokhitonghop.vn/upload/product/081107816113.jpg
@@ -803,7 +805,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/e710523007ea518cd5c3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-robot/in-3d-ma-kep-va-ga-cam-bien-robot-tu-bien-dang-den-kiem-tra-lap.jpg
   - [—] `/media/c55cf8c0201ac8090ac1.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-robot.jpg
   - [ ] `/media/d74ad89f73fece1206ac.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v44-ong-gio/in-3d-ong-gio-chup-hut-va-dau-chuyen-theo-yeu-cau-luu-y-thiet-ke.jpg
-  - [ ] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
+  - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
   - [ ] `/media/19a175112465113adfb0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v43-banh-rang/in-3d-banh-rang-nhua-khi-nao-phu-hop-can-cung-cap-thong-so-gi.jpg
   - [—] `/media/a75ba14e16d31cb66565.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-banh-rang.jpg
   - [ ] `/media/e826f2a107f31495c488.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/kh-in3d-v43-do-ga/in-3d-do-ga-co-khi-ung-dung-lap-rap-dinh-vi-va-ket-hop-kim-loai.jpg
@@ -950,7 +952,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/92e4bbf15c4d2855f28f.jpg` — dùng ở 7 trang — nguồn: https://cokhitonghop.vn/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh.jpg
   - [—] `/media/0c3213cbfb8d8b482f80.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-so-sanh.jpg
   - [—] `/media/a75ba14e16d31cb66565.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-banh-rang.jpg
-  - [ ] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
+  - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
 
 ### [ ] Công ty gia công cơ khí chính xác tại Bình Dương
 
@@ -2037,7 +2039,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/in-3d-ong-gio-chup-hut-va-dau-chuyen-theo-yeu-cau-luu-y-thiet-ke-296.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
+  - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [ ] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -2076,7 +2078,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
   - [ ] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [ ] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
-  - [ ] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
+  - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
   - [ ] `/media/71a61c8136a357299c8d.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-dung-sai.jpg
   - [—] `/media/ad379e57dbad991083d4.jpg` — dùng ở 10 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-mau-thu.jpg
   - [ ] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg

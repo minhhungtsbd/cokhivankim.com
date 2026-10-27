@@ -130,6 +130,7 @@ const knownReplacements={
  ,'/media/8745794b9d4ca6a20a94.jpg':'/brand-media/cnc-turned-tooling-set-vankim.png'
  ,'/media/001ab6eb57b1ae18c50b.jpg':'/brand-media/cnc-turned-tooling-closeup-vankim.png'
  ,'/media/4786400505ff1fedbf73.jpg':'/brand-media/cnc-turned-tooling-group-vankim.png'
+ ,'/media/4d01efa0978d21e09e78.jpg':'/brand-media/laser-tiger-panel-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
@@ -168,6 +169,7 @@ const checkedClean={
  '/media/8b1a698dc07b89391603.jpg':'Chỉ có mã khắc trực tiếp trên chi tiết; không có watermark cũ.',
  '/media/d970b39bb07654540b1e.jpg':'Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.',
  '/media/a8f41796ee3392a9f82c.jpg':'Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.'
+ ,'/media/70b962d41b5e7858fdca.jpg':'Không có watermark cũ; chỉ là ảnh chi tiết in 3D.'
 };
 const needsSource={
  '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'
