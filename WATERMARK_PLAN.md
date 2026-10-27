@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 303 ảnh đã có bản thay thế được duyệt.
-- 252 ảnh đã kiểm tra, không có watermark cũ.
+- 255 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -325,6 +325,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/bcba49443ba6898f90d7.jpg` — Không có watermark cũ; kiểm tra trực quan.
+- [—] `/media/63776e72e22012fec9a0.jpg` — Không có watermark cũ; kiểm tra trực quan.
+- [—] `/media/5bcc2e4ffa20b425675c.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/5669dd1078d231acf765.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/6b6158d97c6a5f66ef61.jpg` — Không có watermark cũ; trùng ảnh đã kiểm tra sạch.
 - [—] `/media/7b55baec4f3ef557a227.jpg` — Không có watermark cũ.
@@ -2172,9 +2175,9 @@ Cập nhật: 2026-10-27.
   - [—] `/media/5669dd1078d231acf765.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/65310406.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/6b6158d97c6a5f66ef61.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-1.jpg
-  - [ ] `/media/bcba49443ba6898f90d7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-2.jpg
-  - [ ] `/media/63776e72e22012fec9a0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-4.jpg
-  - [ ] `/media/5bcc2e4ffa20b425675c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-3.jpg
+  - [—] `/media/bcba49443ba6898f90d7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-2.jpg
+  - [—] `/media/63776e72e22012fec9a0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-4.jpg
+  - [—] `/media/5bcc2e4ffa20b425675c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-3.jpg
   - [ ] `/media/4fb79a41b9f6e95a2931.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-5.jpg
   - [ ] `/media/c8c68556247f5168b3c1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-6.jpg
   - [ ] `/media/ba211835702618ea89b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-7.jpg
