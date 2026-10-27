@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 137 ảnh đã có bản thay thế được duyệt.
+- 138 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -156,6 +156,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/4c5ba0dfcb57b901bea4.jpg` → `/brand-media/machined-flanges-vankim.png` — dùng ở 1 trang.
 - [x] `/media/cf79b939336cf9130038.jpg` → `/brand-media/cnc-machined-brackets-vankim.png` — dùng ở 1 trang.
 - [x] `/media/a671d23b3c91134af9e6.jpg` → `/brand-media/cnc-mold-machining-vankim.png` — dùng ở 1 trang.
+- [x] `/media/6df049c2e39ddfe658f1.jpg` → `/brand-media/cnc-floral-rosette-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -873,7 +874,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [ ] `/media/351b04846c93bfb99e75.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai.jpg
   - [ ] `/media/5d6570f333fec51662fd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai(1).jpg
-  - [ ] `/media/6df049c2e39ddfe658f1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-1.jpg
+  - [x] `/media/6df049c2e39ddfe658f1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-1.jpg
   - [ ] `/media/fba1cdb64b0d2a400c50.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-4.jpg
   - [ ] `/media/4761d5b9cea3d2f36b0a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-sat-thep-tam.jpg
   - [ ] `/media/488dd7632624acd2c773.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam.jpg
