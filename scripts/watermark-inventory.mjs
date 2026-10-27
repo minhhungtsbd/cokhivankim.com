@@ -6,6 +6,12 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/ac44f523f9d7f2073937.jpg':'/brand-media/laser-machine-workshop-vankim.png',
+ '/media/eebd29e38ec415685836.jpg':'/brand-media/laser-cut-parts-stack-vankim.png',
+ '/media/25342349f6391b3ae17f.jpg':'/brand-media/laser-floral-screen-vankim.png',
+ '/media/6473c20966f02f8710a5.jpg':'/brand-media/laser-floral-panel-vankim.png',
+ '/media/fe91e5cbbdb36c487429.jpg':'/brand-media/laser-cut-scrap-table-vankim.png',
+ '/media/966ff5109cea6a61140c.jpg':'/brand-media/cnc-turning-workshop-vankim.png',
  '/media/2f049d5006fa4fa95c05.jpg':'/brand-media/sheet-metal-bracket-assembly-vankim.png',
  '/media/36ece80e8ef6951aa5b4.jpg':'/brand-media/stainless-profiles-vankim.png',
  '/media/7d03d0bf41cbf620a81a.jpg':'/brand-media/stainless-workshop-panels-vankim.png',
