@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 164 ảnh đã có bản thay thế được duyệt.
+- 165 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/03c5b47c216c77100e8a.jpg` → `/brand-media/cnc-bronze-bird-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/76747ed8f8f94436c545.jpg` → `/brand-media/cnc-entry-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/35e6d0711e7ed3c9c68f.jpg` → `/brand-media/cnc-ornate-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c737a882579406cf2f09.jpg` → `/brand-media/laser-machine-cutting-vankim.png` — dùng ở 1 trang.
@@ -925,7 +926,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/c737a882579406cf2f09.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-sat-tam.jpg
   - [x] `/media/35e6d0711e7ed3c9c68f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-1.jpg
   - [x] `/media/76747ed8f8f94436c545.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-2.jpg
-  - [ ] `/media/03c5b47c216c77100e8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-4.jpg
+  - [x] `/media/03c5b47c216c77100e8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-4.jpg
   - [ ] `/media/661eaf30dd477a7259dc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-3.jpg
   - [ ] `/media/0c7cacf865601f24ae2e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-6.jpg
   - [ ] `/media/8de86a515dd52ee0ef7e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-7.jpg
