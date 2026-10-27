@@ -6,6 +6,8 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/c66db623ad083fd7d31d.jpg':'/brand-media/turned-metal-components-vankim.png',
+ '/media/78fcba59a75c3ea50bf4.jpg':'/brand-media/turned-metal-components-vankim.png',
  '/media/c494847f2c8fc08a15a6.jpg':'/brand-media/laser-bent-brackets-vankim.png',
  '/media/091b3c15de7912bf0ba6.jpg':'/brand-media/laser-cutting-metal-sheet-vankim.png',
  '/media/e20ffb056584942d97c2.jpg':'/brand-media/laser-bent-brackets-vankim.png',
@@ -392,6 +394,11 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/706854551c470a9b29bb.jpg':'Không có watermark cũ; ảnh vỏ thiết bị in 3D, kiểm tra trực quan.',
+ '/media/5606149206d417dbd319.jpg':'Không có watermark cũ; ảnh cụm chi tiết nhựa/in 3D, kiểm tra trực quan.',
+ '/media/ea6171df6387ab11f4b2.jpg':'Không có watermark cũ; ảnh chi tiết in 3D, kiểm tra trực quan.',
+ '/media/da78760a88c1e5399f14.jpg':'Không có watermark cũ; ảnh chi tiết nhựa/in 3D, kiểm tra trực quan.',
+ '/media/176692697ad15614cf88.jpg':'Không có watermark cũ; ảnh chi tiết sản xuất, kiểm tra trực quan.',
  '/media/f789dcdf9257034beb7f.jpg':'Không có watermark cũ; ảnh xếp tấm thép SS400, kiểm tra trực quan.',
  '/media/993e6eec692c623dae9c.jpg':'Không có watermark cũ; ảnh tấm thép SS400, kiểm tra trực quan.',
  '/media/4f1f1074c9cd47abc127.jpg':'Không có watermark cũ; ảnh kho tấm thép SS400, kiểm tra trực quan.',
