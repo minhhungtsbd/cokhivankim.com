@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 279 ảnh đã có bản thay thế được duyệt.
-- 218 ảnh đã kiểm tra, không có watermark cũ.
+- 222 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -301,6 +301,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/7fd873987f0280c5df6a.jpg` — Không có watermark cũ.
+- [—] `/media/d3150a16b62ddc0b26bf.jpg` — Không có watermark cũ.
+- [—] `/media/a6e1f7043338aa0fb873.jpg` — Không có watermark cũ.
+- [—] `/media/ce77ed535254173906f2.jpg` — Không có watermark cũ.
 - [—] `/media/569741c715e84585662d.jpg` — Không có watermark cũ.
 - [—] `/media/7e9cba9253bc82f51e3a.jpg` — Không có watermark cũ.
 - [—] `/media/1bc08a0615253173ae2e.jpg` — Không có watermark cũ.
@@ -1960,11 +1964,11 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-dong-nai-khoi-minh-dan-dau-chat-luong-253.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/7fd873987f0280c5df6a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/91835231.jpg
+  - [—] `/media/7fd873987f0280c5df6a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/91835231.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/d3150a16b62ddc0b26bf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-1.jpg
-  - [ ] `/media/a6e1f7043338aa0fb873.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-2.jpg
-  - [ ] `/media/ce77ed535254173906f2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-3.jpg
+  - [—] `/media/d3150a16b62ddc0b26bf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-1.jpg
+  - [—] `/media/a6e1f7043338aa0fb873.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-2.jpg
+  - [—] `/media/ce77ed535254173906f2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-3.jpg
   - [ ] `/media/d66a4363b73cc3eba52d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-4.jpg
   - [ ] `/media/001ad8ceb6cd664eb335.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-5.jpg
   - [ ] `/media/f87581452718abe2f9f3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-dong-nai-6.jpg
@@ -3080,7 +3084,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/0f1121ede5b049eca1b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/64717903/dich-vu-gia-cong-co-khi-tai-tai-long-thanh-uy-tin.jpg
   - [—] `/media/099059cac9fb5d6c4c2d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/64717903.jpg
   - [ ] `/media/18de06349a9b8a3066ae.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/91835231/gia-cong-co-khi-tai-dong-nai-khoi-minh-dan-dau-chat-luong.jpg
-  - [ ] `/media/7fd873987f0280c5df6a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/91835231.jpg
+  - [—] `/media/7fd873987f0280c5df6a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/91835231.jpg
   - [ ] `/media/54f9d39030421e0b74bd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/63266193/khac-laser-quan-phu-nhuan-gia-re.jpg
   - [ ] `/media/7f48540d337096842b3c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/63266193.jpg
   - [ ] `/media/3083dd90bdcca437d3da.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/16036618/khac-laser-quan-go-vap-gia-re-dep.jpg
