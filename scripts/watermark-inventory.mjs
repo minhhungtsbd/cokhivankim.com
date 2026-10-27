@@ -394,6 +394,12 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/c3eeae6b2152f3505e8c.jpg':'Không có watermark cũ; ảnh kho thép tấm, kiểm tra trực quan.',
+ '/media/1d8c93845011757a08af.jpg':'Không có watermark cũ; ảnh kho thép tấm, kiểm tra trực quan.',
+ '/media/b9cec38bdc896519686a.jpg':'Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.',
+ '/media/c40f2b24f4dc09251ac3.jpg':'Không có watermark cũ; ảnh thang máy trùng nội dung, kiểm tra trực quan.',
+ '/media/c804fa5ec57e87710c80.jpg':'Không có watermark cũ; ảnh cabin thang máy, kiểm tra trực quan.',
+ '/media/13cc227be0b82e28031f.jpg':'Không có watermark cũ; ảnh cabin thang máy trùng nội dung, kiểm tra trực quan.',
  '/media/ee4f16c47159bdaa871d.jpg':'Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.',
  '/media/af195559b7b6cce63173.jpg':'Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.',
  '/media/f95193ae9739e7ab157d.jpg':'Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.',

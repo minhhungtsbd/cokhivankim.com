@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 380 ảnh đã có bản thay thế được duyệt.
-- 469 ảnh đã kiểm tra, không có watermark cũ.
+- 475 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -402,6 +402,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/c3eeae6b2152f3505e8c.jpg` — Không có watermark cũ; ảnh kho thép tấm, kiểm tra trực quan.
+- [—] `/media/1d8c93845011757a08af.jpg` — Không có watermark cũ; ảnh kho thép tấm, kiểm tra trực quan.
+- [—] `/media/b9cec38bdc896519686a.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
+- [—] `/media/c40f2b24f4dc09251ac3.jpg` — Không có watermark cũ; ảnh thang máy trùng nội dung, kiểm tra trực quan.
+- [—] `/media/c804fa5ec57e87710c80.jpg` — Không có watermark cũ; ảnh cabin thang máy, kiểm tra trực quan.
+- [—] `/media/13cc227be0b82e28031f.jpg` — Không có watermark cũ; ảnh cabin thang máy trùng nội dung, kiểm tra trực quan.
 - [—] `/media/ee4f16c47159bdaa871d.jpg` — Không có watermark cũ; ảnh tấm đục lỗ, kiểm tra trực quan.
 - [—] `/media/af195559b7b6cce63173.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
 - [—] `/media/f95193ae9739e7ab157d.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
@@ -3495,14 +3501,14 @@ Cập nhật: 2026-10-27.
   - [—] `/media/bb79e7c5536f1b2d6c96.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19419751.jpg
   - [—] `/media/3b74b8a3cb0f8d8ef454.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/01661830/mua-thep-tam-ss400-tai-tphcm-gia-re.jpg
   - [—] `/media/48166782861a518066d8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/01661830.jpg
-  - [ ] `/media/c3eeae6b2152f3505e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80719460/mua-sat-tam-6-ly-7-ly-8-ly-9-ly-10-ly-1mm-den-10mm-tai-tphcm.jpg
+  - [—] `/media/c3eeae6b2152f3505e8c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/80719460/mua-sat-tam-6-ly-7-ly-8-ly-9-ly-10-ly-1mm-den-10mm-tai-tphcm.jpg
   - [—] `/media/37ec93d391e1e381746d.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80719460.jpg
-  - [ ] `/media/1d8c93845011757a08af.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68778948/mua-sat-tam-1-ly-2-ly-3-ly-4-ly-5-ly-1mm-den-5mm-tai-tphcm.jpg
+  - [—] `/media/1d8c93845011757a08af.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68778948/mua-sat-tam-1-ly-2-ly-3-ly-4-ly-5-ly-1mm-den-5mm-tai-tphcm.jpg
   - [—] `/media/1d6c489406d291211453.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68778948.jpg
-  - [ ] `/media/b9cec38bdc896519686a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/20327224/thi-cong-thang-may-gia-dinh-quan-8-uy-tin.jpg
-  - [ ] `/media/c40f2b24f4dc09251ac3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20327224.jpg
-  - [ ] `/media/c804fa5ec57e87710c80.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/65395307/tu-van-lap-dat-thang-may-gia-dinh-quan-7-gia-re.jpg
-  - [ ] `/media/13cc227be0b82e28031f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/65395307.jpg
+  - [—] `/media/b9cec38bdc896519686a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/20327224/thi-cong-thang-may-gia-dinh-quan-8-uy-tin.jpg
+  - [—] `/media/c40f2b24f4dc09251ac3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20327224.jpg
+  - [—] `/media/c804fa5ec57e87710c80.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/65395307/tu-van-lap-dat-thang-may-gia-dinh-quan-7-gia-re.jpg
+  - [—] `/media/13cc227be0b82e28031f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/65395307.jpg
   - [ ] `/media/0b3fbf62bd151ca77e55.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/90954953/thi-cong-lap-dat-thang-may-gia-dinh-quan-6.jpg
   - [ ] `/media/14cab6e0fe51d04a7373.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/90954953.jpg
   - [ ] `/media/46838be6f1e1158ccad8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/25146139/lap-dat-thang-may-gia-dinh-quan-5-an-toan-chat-luong.jpg
@@ -3674,7 +3680,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/thi-cong-thang-may-gia-dinh-quan-8-uy-tin-226.html`
 - Ảnh cần rà: 17
-  - [ ] `/media/c40f2b24f4dc09251ac3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20327224.jpg
+  - [—] `/media/c40f2b24f4dc09251ac3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20327224.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/988deac6c610e3c2379d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-1.jpg
   - [ ] `/media/620a67ed05c0c73b6170.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-8-2.jpg
@@ -3717,7 +3723,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/tu-van-lap-dat-thang-may-gia-dinh-quan-7-gia-re-225.html`
 - Ảnh cần rà: 17
-  - [ ] `/media/13cc227be0b82e28031f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/65395307.jpg
+  - [—] `/media/13cc227be0b82e28031f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/65395307.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/3ccfbf4e5580d44fe474.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-1.jpg
   - [ ] `/media/dbaeb308803e8ce4a54e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-7-2.jpg
