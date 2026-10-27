@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 266 ảnh đã kiểm tra, không có watermark cũ.
+- 269 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/afeedfec6996800e4fde.jpg` — Không có watermark cũ; chữ là chi tiết khắc trên sản phẩm, kiểm tra trực quan.
+- [—] `/media/7ec8fe1ea789e4e5bb24.jpg` — Không có watermark cũ; chỉ có vạch đo/chi tiết sản phẩm, kiểm tra trực quan.
+- [—] `/media/fce136ea1991fa7e85f0.jpg` — Không có watermark cũ; chữ là nội dung khắc trên sản phẩm, kiểm tra trực quan.
 - [—] `/media/ca92750cd93494f23293.jpg` — Không có watermark cũ; chữ/biểu tượng là chi tiết khắc trên sản phẩm, kiểm tra trực quan.
 - [—] `/media/0d5ea2158edc79f04442.jpg` — Không có watermark cũ; chữ/biểu tượng là chi tiết khắc trên sản phẩm, kiểm tra trực quan.
 - [—] `/media/2c588d9ccedf30feedbe.jpg` — Không có watermark cũ; chữ là nội dung sản phẩm, kiểm tra trực quan.
@@ -2594,10 +2597,10 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/khac-laser-quan-10-gia-re-uy-tin-239.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/afeedfec6996800e4fde.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/39946199.jpg
+  - [—] `/media/afeedfec6996800e4fde.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/39946199.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/7ec8fe1ea789e4e5bb24.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-5.jpg
-  - [ ] `/media/fce136ea1991fa7e85f0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-4.jpg
+  - [—] `/media/7ec8fe1ea789e4e5bb24.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-5.jpg
+  - [—] `/media/fce136ea1991fa7e85f0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-4.jpg
   - [ ] `/media/6b50ba0f530d66dc4da6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-7.jpg
   - [ ] `/media/c84c1a3f352c6c6dda9e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
@@ -3257,7 +3260,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/77fa22da63e51cc616fd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/11114582/khac-laser-quan-3-gia-re-dep.jpg
   - [ ] `/media/cdfaef54716e7de42325.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/11114582.jpg
   - [ ] `/media/85a3ce7c852e07aeb1f4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/39946199/khac-laser-quan-10-gia-re-uy-tin.jpg
-  - [ ] `/media/afeedfec6996800e4fde.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/39946199.jpg
+  - [—] `/media/afeedfec6996800e4fde.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/39946199.jpg
   - [ ] `/media/e5dc00bac48e189965d1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/11849232/khac-laser-quan-tan-binh-lay-lien.jpg
   - [ ] `/media/61f86fa0dd968e7243a3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/11849232.jpg
   - [ ] `/media/bb7ad560fda6f718d44c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/95115800/khac-laser-quan-tan-phu-gia-re.jpg
