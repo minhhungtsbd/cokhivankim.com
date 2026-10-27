@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 125 ảnh đã có bản thay thế được duyệt.
-- 37 ảnh đã kiểm tra, không có watermark cũ.
+- 40 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -184,6 +184,9 @@ Cập nhật: 2026-10-27.
 - [—] `/media/d970b39bb07654540b1e.jpg` — Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.
 - [—] `/media/a8f41796ee3392a9f82c.jpg` — Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.
 - [—] `/media/70b962d41b5e7858fdca.jpg` — Không có watermark cũ; chỉ là ảnh chi tiết in 3D.
+- [—] `/media/71c2ca11337fac781b19.jpg` — Ảnh minh hoạ chính sách đổi trả, không có watermark cũ.
+- [—] `/media/3d7cfd23e457aae68ca6.jpg` — Ảnh minh hoạ giao nhận, không có watermark cũ.
+- [—] `/media/6ad8b1341a3e83f5f0b6.png` — Ảnh minh hoạ thanh toán, không có watermark cũ.
 
 ## Ảnh cần nguồn sạch hoặc xử lý thủ công
 
@@ -255,18 +258,18 @@ Cập nhật: 2026-10-27.
   - [—] `/media/8c687bed22d6de65e578.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/56843105.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Chính Sách Đổi Trả Hàng Và Hoàn Tiền
+### [x] Chính Sách Đổi Trả Hàng Và Hoàn Tiền
 
 - Route: `/chinh-sach/chinh-sach-doi-tra-hang-va-hoan-tien-55.html`
 - Ảnh cần rà: 2
-  - [ ] `/media/71c2ca11337fac781b19.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/65312018.jpg
+  - [—] `/media/71c2ca11337fac781b19.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/65312018.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Chính Sách Vận Chuyển & Giao Nhận
+### [x] Chính Sách Vận Chuyển & Giao Nhận
 
 - Route: `/chinh-sach/chinh-sach-van-chuyen-va-giao-nhan-52.html`
 - Ảnh cần rà: 2
-  - [ ] `/media/3d7cfd23e457aae68ca6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/95342582.jpg
+  - [—] `/media/3d7cfd23e457aae68ca6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/95342582.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
 ### [x] Điều khoản sử dụng Website
@@ -283,11 +286,11 @@ Cập nhật: 2026-10-27.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] Quy Định & Hình Thức Thanh Toán
+### [x] Quy Định & Hình Thức Thanh Toán
 
 - Route: `/chinh-sach/quy-dinh-va-hinh-thuc-thanh-toan-56.html`
 - Ảnh cần rà: 2
-  - [ ] `/media/6ad8b1341a3e83f5f0b6.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/67250797.png
+  - [—] `/media/6ad8b1341a3e83f5f0b6.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/67250797.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
 ### [x] Cửa Cuốn Nhôm

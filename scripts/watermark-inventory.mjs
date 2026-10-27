@@ -170,6 +170,9 @@ const checkedClean={
  '/media/d970b39bb07654540b1e.jpg':'Chữ khắc trang trí trên ly là nội dung sản phẩm; không có watermark cũ.',
  '/media/a8f41796ee3392a9f82c.jpg':'Thông số khắc trực tiếp trên bảng máy; không có watermark cũ.'
  ,'/media/70b962d41b5e7858fdca.jpg':'Không có watermark cũ; chỉ là ảnh chi tiết in 3D.'
+ ,'/media/71c2ca11337fac781b19.jpg':'Ảnh minh hoạ chính sách đổi trả, không có watermark cũ.'
+ ,'/media/3d7cfd23e457aae68ca6.jpg':'Ảnh minh hoạ giao nhận, không có watermark cũ.'
+ ,'/media/6ad8b1341a3e83f5f0b6.png':'Ảnh minh hoạ thanh toán, không có watermark cũ.'
 };
 const needsSource={
  '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'
