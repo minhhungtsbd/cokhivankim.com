@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 376 ảnh đã kiểm tra, không có watermark cũ.
+- 380 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/23b3fafe609daa2f6ef3.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
+- [—] `/media/dc02faf1c8d6f8180e6d.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
+- [—] `/media/8c0f9896d05410451e65.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
+- [—] `/media/a74bec544aba642e0386.jpg` — Không có watermark cũ; ảnh kho tấm kim loại, kiểm tra trực quan.
 - [—] `/media/b42170379c880a4d0d8a.jpg` — Không có watermark cũ; ảnh tấm thép, kiểm tra trực quan.
 - [—] `/media/4d2fade90accdd90f7b6.jpg` — Không có watermark cũ; ảnh kho tấm thép, kiểm tra trực quan.
 - [—] `/media/a7a65e23bc8e8e94a7c5.jpg` — Không có watermark cũ; ảnh tấm gân, kiểm tra trực quan.
@@ -3042,7 +3046,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Mua Thép Tấm 3 ly (3 mm) và 4 ly (4mm) tại TPHCM
+### [x] Mua Thép Tấm 3 ly (3 mm) và 4 ly (4mm) tại TPHCM
 
 - Route: `/tin-tuc/mua-thep-tam-3-ly-3-mm-va-4-ly-4mm-tai-tphcm-231.html`
 - Ảnh cần rà: 15
@@ -3052,10 +3056,10 @@ Cập nhật: 2026-10-27.
   - [—] `/media/a6433afa24e29d64cc9d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-3-ly-1.jpg
   - [—] `/media/8e066bcd48b96cc5477a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly.jpg
   - [—] `/media/0cda258664f79a31c74b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-1.jpg
-  - [ ] `/media/23b3fafe609daa2f6ef3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-5.jpg
-  - [ ] `/media/dc02faf1c8d6f8180e6d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-2.jpg
-  - [ ] `/media/8c0f9896d05410451e65.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-3.jpg
-  - [ ] `/media/a74bec544aba642e0386.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-4.jpg
+  - [—] `/media/23b3fafe609daa2f6ef3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-5.jpg
+  - [—] `/media/dc02faf1c8d6f8180e6d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-2.jpg
+  - [—] `/media/8c0f9896d05410451e65.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-3.jpg
+  - [—] `/media/a74bec544aba642e0386.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thep-tam-4-ly-4.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
