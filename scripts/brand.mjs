@@ -4,6 +4,12 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/73478e284f7ad69962ab.jpg':'/brand-media/stainless-machine-workshop-vankim.png',
+ '/media/e34f3d21cf963c68d541.jpg':'/brand-media/machined-pins-vankim.png',
+ '/media/8923977646b56a81fa4a.jpg':'/brand-media/gear-catalog-collage-vankim.png',
+ '/media/1e10aa4ee4e78710e024.jpg':'/brand-media/roller-shutter-service-vankim.png',
+ '/media/43c44812300c9e3cac63.jpg':'/brand-media/roller-shutter-technician-vankim.png',
+ '/media/36af736091514fd8c464.jpg':'/brand-media/roller-shutter-parts-vankim.png',
  '/media/96391213a6ba10feef47.jpg':'/brand-media/turned-components-layout-vankim.png',
  '/media/8db31d0c98b45219892d.jpg':'/brand-media/turned-shafts-and-rings-vankim.png',
  '/media/fb3f4e43792681b3f490.jpg':'/brand-media/precision-bushings-vankim.png',
