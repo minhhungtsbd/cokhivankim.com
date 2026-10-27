@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 269 ảnh đã kiểm tra, không có watermark cũ.
+- 272 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/6b50ba0f530d66dc4da6.jpg` — Không có watermark cũ; chữ là thông tin khắc trên sản phẩm, kiểm tra trực quan.
+- [—] `/media/c84c1a3f352c6c6dda9e.jpg` — Không có watermark cũ; chữ/biểu tượng là chi tiết sản phẩm, kiểm tra trực quan.
+- [—] `/media/e78d2d2b359a5eaed62b.jpg` — Không có watermark cũ; chữ là thông tin trên nhãn sản phẩm, kiểm tra trực quan.
 - [—] `/media/afeedfec6996800e4fde.jpg` — Không có watermark cũ; chữ là chi tiết khắc trên sản phẩm, kiểm tra trực quan.
 - [—] `/media/7ec8fe1ea789e4e5bb24.jpg` — Không có watermark cũ; chỉ có vạch đo/chi tiết sản phẩm, kiểm tra trực quan.
 - [—] `/media/fce136ea1991fa7e85f0.jpg` — Không có watermark cũ; chữ là nội dung khắc trên sản phẩm, kiểm tra trực quan.
@@ -2593,7 +2596,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Khắc Laser quận 10 Giá Rẻ Uy Tín
+### [x] Khắc Laser quận 10 Giá Rẻ Uy Tín
 
 - Route: `/tin-tuc/khac-laser-quan-10-gia-re-uy-tin-239.html`
 - Ảnh cần rà: 11
@@ -2601,8 +2604,8 @@ Cập nhật: 2026-10-27.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/7ec8fe1ea789e4e5bb24.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-5.jpg
   - [—] `/media/fce136ea1991fa7e85f0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-4.jpg
-  - [ ] `/media/6b50ba0f530d66dc4da6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-7.jpg
-  - [ ] `/media/c84c1a3f352c6c6dda9e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-6.jpg
+  - [—] `/media/6b50ba0f530d66dc4da6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-7.jpg
+  - [—] `/media/c84c1a3f352c6c6dda9e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-10-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -2613,7 +2616,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/khac-laser-quan-11-lay-lien-247.html`
 - Ảnh cần rà: 11
-  - [ ] `/media/e78d2d2b359a5eaed62b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/51776847.jpg
+  - [—] `/media/e78d2d2b359a5eaed62b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/51776847.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/a4339146e63b4d4e0ca1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-11-5.jpg
   - [ ] `/media/9ac6f2d139203b6239b5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/khac-laser-quan-11-1.jpg
@@ -3237,7 +3240,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/09ef771fd13b3eab198e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/27200212/khac-laser-quan-12-gia-re.jpg
   - [ ] `/media/11f039da13949b2cc6e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/27200212.jpg
   - [ ] `/media/db99e958c96bb961be35.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/51776847/khac-laser-quan-11-lay-lien.jpg
-  - [ ] `/media/e78d2d2b359a5eaed62b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/51776847.jpg
+  - [—] `/media/e78d2d2b359a5eaed62b.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/51776847.jpg
   - [ ] `/media/f8e9165b6b6536d73e9b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/81705315/dich-vu-khac-laser-quan-8-gia-re.jpg
   - [—] `/media/da067ae4e19aa5eb028d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/81705315.jpg
 
