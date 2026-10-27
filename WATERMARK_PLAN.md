@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 205 ảnh đã có bản thay thế được duyệt.
+- 213 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -33,6 +33,14 @@ Cập nhật: 2026-10-27.
 - [x] `/media/4314082e0eb7b3f4038f.jpg` → `/brand-media/sheet-metal-stack-vankim.png` — dùng ở 1 trang.
 - [x] `/media/38303a959bee96135059.jpg` → `/brand-media/aluminum-sheet-stack-vankim.png` — dùng ở 1 trang.
 - [x] `/media/b3a45888d6475e5c7e93.jpg` → `/brand-media/stacked-cut-bars-vankim.png` — dùng ở 1 trang.
+- [x] `/media/56c4ec0c1b03c5b3d831.jpg` → `/brand-media/sheet-metal-cart-vankim.png` — dùng ở 1 trang.
+- [x] `/media/0dce082da60e19e4d32a.jpg` → `/brand-media/laser-cutting-machine-vankim.png` — dùng ở 1 trang.
+- [x] `/media/8a83df3fbdf1d968d1b7.jpg` → `/brand-media/laser-cnc-bed-vankim.png` — dùng ở 1 trang.
+- [x] `/media/62e3e46d2ac4096126d9.jpg` → `/brand-media/decorative-cut-panels-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e99ca40a78f78679bd79.jpg` → `/brand-media/stainless-bent-enclosures-vankim.png` — dùng ở 2 trang.
+- [x] `/media/91fb4125d34ffc08a931.jpg` → `/brand-media/sheet-metal-stacks-vankim.png` — dùng ở 1 trang.
+- [x] `/media/b456f9c134e6c1733a88.jpg` → `/brand-media/fabricated-sheet-parts-vankim.png` — dùng ở 1 trang.
+- [x] `/media/3e42cfeaaa39b79ca3ad.jpg` → `/brand-media/sheet-metal-collage-vankim.png` — dùng ở 1 trang.
 - [x] `/media/115953dbb8a3be4b2c93.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/249dc0e97e376736330f.jpg` → `/brand-media/machined-plate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f628b02ceb5580cc737a.jpg` → `/brand-media/laser-cutting-panels-vankim.png` — dùng ở 1 trang.
@@ -1559,7 +1567,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công Cắt Thép Tấm theo yêu cầu TPHCM
+### [x] Gia công Cắt Thép Tấm theo yêu cầu TPHCM
 
 - Route: `/tin-tuc/gia-cong-cat-thep-tam-theo-yeu-cau-tphcm-218.html`
 - Ảnh cần rà: 22
@@ -1576,10 +1584,10 @@ Cập nhật: 2026-10-27.
   - [x] `/media/4314082e0eb7b3f4038f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day.jpg
   - [x] `/media/38303a959bee96135059.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-1.jpg
   - [x] `/media/b3a45888d6475e5c7e93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-2.jpg
-  - [ ] `/media/56c4ec0c1b03c5b3d831.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-3.jpg
-  - [ ] `/media/0dce082da60e19e4d32a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-4.jpg
-  - [ ] `/media/8a83df3fbdf1d968d1b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-5.jpg
-  - [ ] `/media/62e3e46d2ac4096126d9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-6.jpg
+  - [x] `/media/56c4ec0c1b03c5b3d831.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-3.jpg
+  - [x] `/media/0dce082da60e19e4d32a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-4.jpg
+  - [x] `/media/8a83df3fbdf1d968d1b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-5.jpg
+  - [x] `/media/62e3e46d2ac4096126d9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -1590,12 +1598,12 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-chan-dap-thep-tam-tphcm-cat-dap-chan-uon-216.html`
 - Ảnh cần rà: 22
-  - [ ] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
+  - [x] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
-  - [ ] `/media/91fb4125d34ffc08a931.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-4.jpg
-  - [ ] `/media/b456f9c134e6c1733a88.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam.jpg
-  - [ ] `/media/3e42cfeaaa39b79ca3ad.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam.jpg
+  - [x] `/media/91fb4125d34ffc08a931.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam-4.jpg
+  - [x] `/media/b456f9c134e6c1733a88.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-dap-thep-tam.jpg
+  - [x] `/media/3e42cfeaaa39b79ca3ad.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam.jpg
   - [ ] `/media/988f7b97f47950154a74.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam-tphcm.jpg
   - [ ] `/media/147f1c9ab2a233152765.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-dap-thep-tam-tphcm-1.jpg
   - [ ] `/media/cfd1a772ec42713c301b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-thep-tam.jpg
@@ -3054,7 +3062,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/16c3c9c6d64a3cb49a3a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/10587743/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc.jpg
   - [ ] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
   - [ ] `/media/2f049d5006fa4fa95c05.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33458472/gia-cong-chan-dap-thep-tam-tphcm-cat-dap-chan-uon.jpg
-  - [ ] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
+  - [x] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
   - [ ] `/media/a39ee440693a04db74c2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/46989785/xuong-gia-cong-cat-thep-tam-tphcm-cat-chan-dap-thep-tam.jpg
   - [ ] `/media/b6c9f5ebf39fc89e83e6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46989785.jpg
   - [ ] `/media/fffca3a9e07788236ba1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/16608075/dong-ho-treo-tuong-trang-tri-phong-khach-gia-xuong-ship-toan-quoc.jpg
