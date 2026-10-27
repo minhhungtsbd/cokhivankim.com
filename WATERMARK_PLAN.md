@@ -14,11 +14,13 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 297 ảnh đã có bản thay thế được duyệt.
+- 299 ảnh đã có bản thay thế được duyệt.
 - 250 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/4fa4c8f98433c7366f7c.jpg` → `/brand-media/stainless-cabinet-top-vankim.png` — dùng ở 1 trang.
+- [x] `/media/6ef5a8536ac137b61f4d.jpg` → `/brand-media/stacked-angle-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/77b24c4aa19bdbff3b14.jpg` → `/brand-media/box-brackets-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c4c2949cd3260374955d.jpg` → `/brand-media/cad-fixture-green-vankim.png` — dùng ở 1 trang.
 - [x] `/media/db9166da7901d65cb6d4.jpg` → `/brand-media/machined-fixtures-workshop-vankim.png` — dùng ở 1 trang.
@@ -2145,8 +2147,8 @@ Cập nhật: 2026-10-27.
   - [x] `/media/0b16643e2437c20543b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(4).jpg
   - [x] `/media/77b24c4aa19bdbff3b14.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(9).jpg
   - [x] `/media/c4c2949cd3260374955d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(10).jpg
-  - [ ] `/media/4fa4c8f98433c7366f7c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(5).jpg
-  - [ ] `/media/6ef5a8536ac137b61f4d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(6).jpg
+  - [x] `/media/4fa4c8f98433c7366f7c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(5).jpg
+  - [x] `/media/6ef5a8536ac137b61f4d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(6).jpg
   - [ ] `/media/28c494dc6ce52632a19b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(7).jpg
   - [ ] `/media/fd6a84ef6295b7d1a297.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(11).jpg
   - [ ] `/media/cb094e7a8af5077a7d1e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(12).jpg
