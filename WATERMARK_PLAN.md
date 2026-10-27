@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 303 ảnh đã có bản thay thế được duyệt.
-- 255 ảnh đã kiểm tra, không có watermark cũ.
+- 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -325,6 +325,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/4fb79a41b9f6e95a2931.jpg` — Không có watermark cũ; kiểm tra trực quan.
+- [—] `/media/c8c68556247f5168b3c1.jpg` — Không có watermark cũ; kiểm tra trực quan.
+- [—] `/media/ba211835702618ea89b4.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/bcba49443ba6898f90d7.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/63776e72e22012fec9a0.jpg` — Không có watermark cũ; kiểm tra trực quan.
 - [—] `/media/5bcc2e4ffa20b425675c.jpg` — Không có watermark cũ; kiểm tra trực quan.
@@ -2168,7 +2171,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia Công Cơ Khí tại Vũng Tàu Uy Tín Chuyên Nghiệp
+### [x] Gia Công Cơ Khí tại Vũng Tàu Uy Tín Chuyên Nghiệp
 
 - Route: `/tin-tuc/gia-cong-co-khi-tai-vung-tau-uy-tin-chuyen-nghiep-259.html`
 - Ảnh cần rà: 14
@@ -2178,9 +2181,9 @@ Cập nhật: 2026-10-27.
   - [—] `/media/bcba49443ba6898f90d7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-2.jpg
   - [—] `/media/63776e72e22012fec9a0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-4.jpg
   - [—] `/media/5bcc2e4ffa20b425675c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-3.jpg
-  - [ ] `/media/4fb79a41b9f6e95a2931.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-5.jpg
-  - [ ] `/media/c8c68556247f5168b3c1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-6.jpg
-  - [ ] `/media/ba211835702618ea89b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-7.jpg
+  - [—] `/media/4fb79a41b9f6e95a2931.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-5.jpg
+  - [—] `/media/c8c68556247f5168b3c1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-6.jpg
+  - [—] `/media/ba211835702618ea89b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-vung-tau-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
