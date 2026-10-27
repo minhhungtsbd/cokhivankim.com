@@ -6,6 +6,9 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/4f54becd3bcaf5c79f68.jpg':'/brand-media/stainless-workshop-frames-vankim.png',
+ '/media/120036fd368369f579fa.jpg':'/brand-media/stainless-workbench-press-brake-vankim.png',
+ '/media/39fd7158a73cbac2dbe4.jpg':'/brand-media/precision-milled-parts-black-background-vankim.png',
  '/media/ff29a51c34ec4bcee63b.jpg':'/brand-media/stainless-channel-profiles-vankim.png',
  '/media/1678337d0aed1b96c181.jpg':'/brand-media/stainless-fabrication-workshop-vankim.png',
  '/media/b436b1afd57618d688b1.jpg':'/brand-media/stainless-tubes-profiles-clean-vankim.png',

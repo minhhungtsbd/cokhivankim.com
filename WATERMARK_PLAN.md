@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 357 ảnh đã có bản thay thế được duyệt.
+- 360 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/4f54becd3bcaf5c79f68.jpg` → `/brand-media/stainless-workshop-frames-vankim.png` — dùng ở 1 trang.
+- [x] `/media/120036fd368369f579fa.jpg` → `/brand-media/stainless-workbench-press-brake-vankim.png` — dùng ở 1 trang.
+- [x] `/media/39fd7158a73cbac2dbe4.jpg` → `/brand-media/precision-milled-parts-black-background-vankim.png` — dùng ở 3 trang.
 - [x] `/media/ff29a51c34ec4bcee63b.jpg` → `/brand-media/stainless-channel-profiles-vankim.png` — dùng ở 1 trang.
 - [x] `/media/1678337d0aed1b96c181.jpg` → `/brand-media/stainless-fabrication-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/b436b1afd57618d688b1.jpg` → `/brand-media/stainless-tubes-profiles-clean-vankim.png` — dùng ở 1 trang.
@@ -2301,7 +2304,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Gia công Inox theo yêu cầu TPHCM | Xưởng gia công Inox giá rẻ
+### [x] Gia công Inox theo yêu cầu TPHCM | Xưởng gia công Inox giá rẻ
 
 - Route: `/tin-tuc/gia-cong-inox-theo-yeu-cau-tphcm-xuong-gia-cong-inox-gia-re-212.html`
 - Ảnh cần rà: 18
@@ -2315,8 +2318,8 @@ Cập nhật: 2026-10-27.
   - [x] `/media/ff29a51c34ec4bcee63b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-1.jpg
   - [x] `/media/1678337d0aed1b96c181.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-3-1.jpg
   - [x] `/media/b436b1afd57618d688b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-theo-yeu-cau-1.jpg
-  - [ ] `/media/4f54becd3bcaf5c79f68.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-theo-yeu-cau-16.jpg
-  - [ ] `/media/120036fd368369f579fa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-theo-yeu-cau-gia-re.jpg
+  - [x] `/media/4f54becd3bcaf5c79f68.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-theo-yeu-cau-16.jpg
+  - [x] `/media/120036fd368369f579fa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-theo-yeu-cau-gia-re.jpg
   - [x] `/media/3c543508894869dfc645.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cat-chan-inox.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
@@ -2344,7 +2347,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-tien-cnc-phay-cnc-chinh-xac-theo-yeu-cau-tphcm-180.html`
 - Ảnh cần rà: 21
-  - [ ] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
+  - [x] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/2d023ce4a7da133dc37a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc.jpg
   - [ ] `/media/da86956eecd49da6da6e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-3.jpg
@@ -2370,7 +2373,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-tien-phay-cnc-chinh-xac-theo-yeu-cau-tphcm-180.html`
 - Ảnh cần rà: 21
-  - [ ] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
+  - [x] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/2d023ce4a7da133dc37a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/phay-cnc.jpg
   - [ ] `/media/da86956eecd49da6da6e.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-phay-cnc-3.jpg
@@ -3324,7 +3327,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/e24789c8626e7892d14e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/35338802/nhan-cat-laser-kim-loai-sat-thep-inox-nhom-tphcm-cat-laser-fiber-gia-re.jpg
   - [ ] `/media/c494847f2c8fc08a15a6.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/news/35338802.jpg
   - [ ] `/media/f1c600572fd0ddf6d719.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/91219653/gia-cong-tien-phay-cnc-chinh-xac-theo-yeu-cau-tphcm.jpg
-  - [ ] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
+  - [x] `/media/39fd7158a73cbac2dbe4.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/91219653.jpg
   - [ ] `/media/b5fa9143fca664f43d85.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/46938674/cong-ty-gia-cong-co-khi-chinh-xac-tai-binh-duong.jpg
   - [x] `/media/52199ffe7af5ff4fd047.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46938674.jpg
   - [ ] `/media/90caa185f34825c26bd2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/89125172/sua-cua-cuon-tai-tphcm-gia-re-uy-tin-bao-hanh-lau-dai-sua-nhanh.jpg
