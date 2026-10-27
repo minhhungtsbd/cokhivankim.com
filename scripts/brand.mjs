@@ -142,6 +142,7 @@ const imageReplacements={
  ,'/media/cf79b939336cf9130038.jpg':'/brand-media/cnc-machined-brackets-vankim.png'
  ,'/media/a671d23b3c91134af9e6.jpg':'/brand-media/cnc-mold-machining-vankim.png'
  ,'/media/6df049c2e39ddfe658f1.jpg':'/brand-media/cnc-floral-rosette-vankim.png'
+ ,'/media/fba1cdb64b0d2a400c50.jpg':'/brand-media/cnc-scrollwork-panels-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
