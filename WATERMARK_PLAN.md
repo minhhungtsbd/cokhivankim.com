@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 380 ảnh đã có bản thay thế được duyệt.
-- 439 ảnh đã kiểm tra, không có watermark cũ.
+- 445 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -402,6 +402,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/3c55022aa620492c914c.jpg` — Không có watermark cũ; ảnh đầu kẹp khoan, chữ là thông số sản phẩm, kiểm tra trực quan.
+- [—] `/media/e1c21cdd6d36c47da847.jpg` — Không có watermark cũ; ảnh cụm bánh răng, kiểm tra trực quan.
+- [—] `/media/f2d615d4c99ed21a10f6.jpg` — Không có watermark cũ; chữ là thông số trên động cơ, không phải watermark, kiểm tra trực quan.
+- [—] `/media/bd73fdf5a59d2a83d8dc.jpg` — Không có watermark cũ; ảnh đầu kẹp tiện, kiểm tra trực quan.
+- [—] `/media/0f1121ede5b049eca1b4.jpg` — Không có watermark cũ; ảnh hoa văn cắt laser, kiểm tra trực quan.
+- [—] `/media/18de06349a9b8a3066ae.jpg` — Không có watermark cũ; ảnh đầu gá cơ khí, kiểm tra trực quan.
 - [—] `/media/533cb14e579809ee9f19.jpg` — Không có watermark cũ; ảnh bánh răng và trục, kiểm tra trực quan.
 - [—] `/media/635db377de21a5408413.jpg` — Không có watermark cũ; ảnh bánh răng trùng nội dung, kiểm tra trực quan.
 - [—] `/media/15826c530526ec067a5e.jpg` — Không có watermark cũ; ảnh đầu gá/collet, kiểm tra trực quan.
@@ -3356,7 +3362,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/b100d0cf3553516d6eb2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/32525771/dich-vu-gia-cong-co-khi-quan-4-chat-luong-tao-nen-uy-tin.jpg
   - [—] `/media/3adcf00b1bfccd1d4d93.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32525771.jpg
 
-### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
+### [x] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
 
 - Route: `/tin-tuc/page/3/`
 - Ảnh cần rà: 26
@@ -3384,7 +3390,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/d6dab872282d42f9eed3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/19328943.jpg
   - [—] `/media/1ba7fb74d1aa7cd345ab.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/65310406/gia-cong-co-khi-tai-vung-tau-uy-tin-chuyen-nghiep.jpg
   - [—] `/media/5669dd1078d231acf765.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/65310406.jpg
-  - [ ] `/media/3c55022aa620492c914c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/23151449/dich-vu-gia-cong-co-khi-tai-tay-ninh-theo-yeu-cau.jpg
+  - [—] `/media/3c55022aa620492c914c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/23151449/dich-vu-gia-cong-co-khi-tai-tay-ninh-theo-yeu-cau.jpg
   - [—] `/media/2ffed876f34a799fe196.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/23151449.jpg
 
 ### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
@@ -3393,15 +3399,15 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 26
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/e1c21cdd6d36c47da847.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/03585720/gia-cong-co-khi-tai-long-an-giao-hang-tan-noi.jpg
+  - [—] `/media/e1c21cdd6d36c47da847.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/03585720/gia-cong-co-khi-tai-long-an-giao-hang-tan-noi.jpg
   - [—] `/media/aca79ae36ae65388b11f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/03585720.jpg
-  - [ ] `/media/f2d615d4c99ed21a10f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/39296295/dich-vu-gia-cong-co-khi-tai-can-tho-giao-hang-tan-noi.jpg
+  - [—] `/media/f2d615d4c99ed21a10f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/39296295/dich-vu-gia-cong-co-khi-tai-can-tho-giao-hang-tan-noi.jpg
   - [—] `/media/08395c1799986d4ba333.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/39296295.jpg
-  - [ ] `/media/bd73fdf5a59d2a83d8dc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/77878061/gia-cong-co-khi-tai-nhon-trach-uy-tin-chuyen-nghiep.jpg
+  - [—] `/media/bd73fdf5a59d2a83d8dc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/77878061/gia-cong-co-khi-tai-nhon-trach-uy-tin-chuyen-nghiep.jpg
   - [—] `/media/963553a0c36ed13c9cc1.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77878061.jpg
-  - [ ] `/media/0f1121ede5b049eca1b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/64717903/dich-vu-gia-cong-co-khi-tai-tai-long-thanh-uy-tin.jpg
+  - [—] `/media/0f1121ede5b049eca1b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/64717903/dich-vu-gia-cong-co-khi-tai-tai-long-thanh-uy-tin.jpg
   - [—] `/media/099059cac9fb5d6c4c2d.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/64717903.jpg
-  - [ ] `/media/18de06349a9b8a3066ae.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/91835231/gia-cong-co-khi-tai-dong-nai-khoi-minh-dan-dau-chat-luong.jpg
+  - [—] `/media/18de06349a9b8a3066ae.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/91835231/gia-cong-co-khi-tai-dong-nai-khoi-minh-dan-dau-chat-luong.jpg
   - [—] `/media/7fd873987f0280c5df6a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/91835231.jpg
   - [ ] `/media/54f9d39030421e0b74bd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/63266193/khac-laser-quan-phu-nhuan-gia-re.jpg
   - [—] `/media/7f48540d337096842b3c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/63266193.jpg
