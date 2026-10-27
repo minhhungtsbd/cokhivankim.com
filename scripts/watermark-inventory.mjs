@@ -6,6 +6,14 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/e446673d6c599f4a91cf.jpg':'/brand-media/ornate-gate-workshop-vankim.png',
+ '/media/a2c585436a350d6d59d1.jpg':'/brand-media/decorative-panel-workshop-vankim.png',
+ '/media/ceeaae879816a259c9f6.jpg':'/brand-media/decorative-screen-vankim.png',
+ '/media/f7e15f9e60c756883a6f.jpg':'/brand-media/machined-covers-vankim.png',
+ '/media/5e2f88769eb7d1a7c9a4.jpg':'/brand-media/stacked-metal-parts-vankim.png',
+ '/media/421992b47bce74a3de09.jpg':'/brand-media/laser-sparks-vankim.png',
+ '/media/115953dbb8a3be4b2c93.jpg':'/brand-media/laser-cutting-sparks-vankim.png',
+ '/media/249dc0e97e376736330f.jpg':'/brand-media/machined-plate-vankim.png',
  '/media/f628b02ceb5580cc737a.jpg':'/brand-media/laser-cutting-panels-vankim.png',
  '/media/78f4af257629173a9986.jpg':'/brand-media/laser-machine-workshop-vankim.png',
  '/media/f3975fd42884a23e439f.jpg':'/brand-media/perforated-panel-vankim.png',
