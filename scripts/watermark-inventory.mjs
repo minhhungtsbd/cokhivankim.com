@@ -134,6 +134,7 @@ const knownReplacements={
  ,'/media/7edbb0e70fee2c0b7c3f.jpg':'/brand-media/cnc-wildlife-panel-vankim.png'
  ,'/media/c9d7b61daf91ea9f57a4.jpg':'/brand-media/mechanical-services-banner-vankim.png'
  ,'/media/0c9a317c947ffae226f0.jpg':'/brand-media/laser-cut-stacked-parts-vankim.png'
+ ,'/media/a04eab3573aa39f7d28c.jpg':'/brand-media/laser-cutting-bed-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
