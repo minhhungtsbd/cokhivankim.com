@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 140 ảnh đã có bản thay thế được duyệt.
+- 141 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -159,6 +159,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/6df049c2e39ddfe658f1.jpg` → `/brand-media/cnc-floral-rosette-vankim.png` — dùng ở 1 trang.
 - [x] `/media/fba1cdb64b0d2a400c50.jpg` → `/brand-media/cnc-scrollwork-panels-vankim.png` — dùng ở 1 trang.
 - [x] `/media/488dd7632624acd2c773.jpg` → `/brand-media/cnc-floral-gate-vankim.png` — dùng ở 1 trang.
+- [x] `/media/e0b1d3b48021376ac890.jpg` → `/brand-media/cnc-bird-panel-vankim.png` — dùng ở 2 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -884,7 +885,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/e22ac06c7a8c5bb0b80e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-5.jpg
   - [ ] `/media/9b23ab92762174a44542.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-6.jpg
   - [ ] `/media/17b81bd0491bee823702.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-.jpg
-  - [ ] `/media/e0b1d3b48021376ac890.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam-tphcm.jpg
+  - [x] `/media/e0b1d3b48021376ac890.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam-tphcm.jpg
   - [ ] `/media/a66bb7ce3e1c30a1c65b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-kim-loai-tap.jpg
   - [ ] `/media/942c7203b02b155251a4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai(2).jpg
   - [ ] `/media/3bb2a62a8b709eda7ab8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-cnc(1).jpg
@@ -942,7 +943,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/6e0272bf6e4a45614b95.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chi-tiet-may.jpg
   - [x] `/media/a0f9f16c1b0544677ac9.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/images/gai-cong-kim-loai-tam.jpg
-  - [ ] `/media/e0b1d3b48021376ac890.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam-tphcm.jpg
+  - [x] `/media/e0b1d3b48021376ac890.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam-tphcm.jpg
   - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
   - [x] `/media/f88fbb2e9a766116a6cf.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-fiber.jpg
   - [x] `/media/b36b3b61614366ea5f26.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-cat-chan-inox-tphcm.jpg

@@ -146,6 +146,7 @@ const knownReplacements={
  ,'/media/6df049c2e39ddfe658f1.jpg':'/brand-media/cnc-floral-rosette-vankim.png'
  ,'/media/fba1cdb64b0d2a400c50.jpg':'/brand-media/cnc-scrollwork-panels-vankim.png'
  ,'/media/488dd7632624acd2c773.jpg':'/brand-media/cnc-floral-gate-vankim.png'
+ ,'/media/e0b1d3b48021376ac890.jpg':'/brand-media/cnc-bird-panel-vankim.png'
 };
 const checkedClean={
  '/media/0c3213cbfb8d8b482f80.jpg':'Không có watermark cũ.',
