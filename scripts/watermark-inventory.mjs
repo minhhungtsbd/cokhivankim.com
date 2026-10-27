@@ -6,6 +6,10 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/3f8c57cc52b12b2a5f85.jpg':'/brand-media/stainless-cabinet-press-brake-vankim.png',
+ '/media/c99b3ed6dc9bd4c11d84.jpg':'/brand-media/perforated-stainless-enclosures-vankim.png',
+ '/media/45c81080f0d11399bf94.jpg':'/brand-media/laser-bed-metal-brackets-vankim.png',
+ '/media/249b804599ee9ac6bc62.jpg':'/brand-media/stacked-bent-metal-parts-vankim.png',
  '/media/882b7b23a4d9a094e8e5.jpg':'/brand-media/stacked-white-metal-cabinets-vankim.png',
  '/media/3f58af78182e4ecd7d09.jpg':'/brand-media/stainless-enclosure-press-brake-vankim.png',
  '/media/609aa59dc9cc851647de.jpg':'/brand-media/precision-machined-parts-collage-vankim.png',
