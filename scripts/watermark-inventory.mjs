@@ -6,6 +6,9 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/ff29a51c34ec4bcee63b.jpg':'/brand-media/stainless-channel-profiles-vankim.png',
+ '/media/1678337d0aed1b96c181.jpg':'/brand-media/stainless-fabrication-workshop-vankim.png',
+ '/media/b436b1afd57618d688b1.jpg':'/brand-media/stainless-tubes-profiles-clean-vankim.png',
  '/media/106a805647efd3c26b4a.jpg':'/brand-media/stainless-bent-samples-vankim.png',
  '/media/1f4245ca4d61218f5d71.jpg':'/brand-media/stainless-fabricated-panels-vankim.png',
  '/media/984e7d94d8b8827085a2.jpg':'/brand-media/stacked-stainless-trays-vankim.png',
