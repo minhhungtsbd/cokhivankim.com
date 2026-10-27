@@ -1,6 +1,6 @@
 # Kế hoạch thay watermark ảnh
 
-Cập nhật: 2026-10-26.
+Cập nhật: 2026-10-27.
 
 ## Nguyên tắc triển khai
 
@@ -14,7 +14,7 @@ Cập nhật: 2026-10-26.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 116 ảnh đã có bản thay thế được duyệt.
+- 119 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -135,6 +135,9 @@ Cập nhật: 2026-10-26.
 - [x] `/media/dd5b485daad49398c4e8.jpg` → `/brand-media/wash-machine-5-vankim.png` — dùng ở 1 trang.
 - [x] `/media/d4eee5ffd149295b73cc.jpg` → `/brand-media/wash-machine-6-vankim.png` — dùng ở 1 trang.
 - [x] `/media/3e446d79c92f4d69912b.jpg` → `/brand-media/wash-machine-7-vankim.png` — dùng ở 1 trang.
+- [x] `/media/56f12268dd113d79aa14.jpg` → `/brand-media/wash-machine-8-vankim.png` — dùng ở 1 trang.
+- [x] `/media/c9842b6c6b7bdd15441e.jpg` → `/brand-media/wash-machine-9-vankim.png` — dùng ở 1 trang.
+- [x] `/media/ecc3ad4a553f2f0bf6cc.jpg` → `/brand-media/wash-machine-10-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -717,9 +720,9 @@ Cập nhật: 2026-10-26.
   - [x] `/media/dd5b485daad49398c4e8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong11.jpg
   - [x] `/media/d4eee5ffd149295b73cc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong12.jpg
   - [x] `/media/3e446d79c92f4d69912b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong13.jpg
-  - [ ] `/media/56f12268dd113d79aa14.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong17.jpg
-  - [ ] `/media/c9842b6c6b7bdd15441e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong19.jpg
-  - [ ] `/media/ecc3ad4a553f2f0bf6cc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong22.jpg
+  - [x] `/media/56f12268dd113d79aa14.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong17.jpg
+  - [x] `/media/c9842b6c6b7bdd15441e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong19.jpg
+  - [x] `/media/ecc3ad4a553f2f0bf6cc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong22.jpg
   - [ ] `/media/a13e966a2c010cb6cccc.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong25.jpg
   - [ ] `/media/ec65fc7e0939ec5035b6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/may-rua-phoi-tu-dong31.jpg
   - [x] `/media/fa38c829b1107e592a22.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/377543081921.jpg
