@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 169 ảnh đã có bản thay thế được duyệt.
+- 170 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/abab0d2bcb783b8cd7bf.jpg` → `/brand-media/cnc-bird-bamboo-panels-vankim.png` — dùng ở 1 trang.
 - [x] `/media/4aa69ecb877a23c3153f.jpg` → `/brand-media/cnc-bronze-geometric-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/8de86a515dd52ee0ef7e.jpg` → `/brand-media/cnc-black-gold-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/0c7cacf865601f24ae2e.jpg` → `/brand-media/cnc-residential-gate-vankim.png` — dùng ở 1 trang.
@@ -896,7 +897,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/0c3213cbfb8d8b482f80.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v42-so-sanh.jpg
   - [—] `/media/afd1a616546a71ceb5a6.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-vat-lieu.jpg
 
-### [ ] Cắt CNC Kim Loại và cắt CNC Sắt Thép Tấm tại TPHCM
+### [x] Cắt CNC Kim Loại và cắt CNC Sắt Thép Tấm tại TPHCM
 
 - Route: `/tin-tuc/cat-cnc-kim-loai-va-cat-cnc-sat-thep-tam-tai-tphcm-208.html`
 - Ảnh cần rà: 41
@@ -935,7 +936,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/0c7cacf865601f24ae2e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-6.jpg
   - [x] `/media/8de86a515dd52ee0ef7e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-7.jpg
   - [x] `/media/4aa69ecb877a23c3153f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/mau-cong-sat-cnc-my-thuat-dep-8.jpg
-  - [ ] `/media/abab0d2bcb783b8cd7bf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-cat-laser-sat-thep.jpg
+  - [x] `/media/abab0d2bcb783b8cd7bf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-cat-laser-sat-thep.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
