@@ -6,6 +6,11 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/f628b02ceb5580cc737a.jpg':'/brand-media/laser-cutting-panels-vankim.png',
+ '/media/78f4af257629173a9986.jpg':'/brand-media/laser-machine-workshop-vankim.png',
+ '/media/f3975fd42884a23e439f.jpg':'/brand-media/perforated-panel-vankim.png',
+ '/media/cd521a1598723c27efbd.jpg':'/brand-media/laser-brackets-vankim.png',
+ '/media/c5e576a33412824e740e.jpg':'/brand-media/laser-machine-wide-vankim.png',
  '/media/07dc4d94a5c30a3817a6.jpg':'/brand-media/laser-workshop-vankim.png',
  '/media/1627d889f5c6c3548899.jpg':'/brand-media/laser-workshop-vankim.png',
  '/media/905d4d978f9e395edf71.jpg':'/brand-media/cnc-components-vankim.png',
@@ -192,6 +197,9 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/7e949ad631196746b670.jpg':'Không có watermark cũ.',
+ '/media/26305ae25b64637851d0.jpg':'Không có watermark cũ.',
+ '/media/ad35355013377ba38b45.jpg':'Không có watermark cũ.',
  '/media/3f9845aa433aa4c7c152.jpg':'Không có watermark cũ.',
  '/media/cab10c8313c9804f1dbe.jpg':'Không có watermark cũ.',
  '/media/ae3734bbb8475ad5e0d6.jpg':'Không có watermark cũ.',

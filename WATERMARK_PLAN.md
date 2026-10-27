@@ -14,11 +14,16 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 184 ảnh đã có bản thay thế được duyệt.
-- 168 ảnh đã kiểm tra, không có watermark cũ.
+- 189 ảnh đã có bản thay thế được duyệt.
+- 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/f628b02ceb5580cc737a.jpg` → `/brand-media/laser-cutting-panels-vankim.png` — dùng ở 1 trang.
+- [x] `/media/78f4af257629173a9986.jpg` → `/brand-media/laser-machine-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/f3975fd42884a23e439f.jpg` → `/brand-media/perforated-panel-vankim.png` — dùng ở 1 trang.
+- [x] `/media/cd521a1598723c27efbd.jpg` → `/brand-media/laser-brackets-vankim.png` — dùng ở 1 trang.
+- [x] `/media/c5e576a33412824e740e.jpg` → `/brand-media/laser-machine-wide-vankim.png` — dùng ở 1 trang.
 - [x] `/media/07dc4d94a5c30a3817a6.jpg` → `/brand-media/laser-workshop-vankim.png` — dùng ở 2 trang.
 - [x] `/media/1627d889f5c6c3548899.jpg` → `/brand-media/laser-workshop-vankim.png` — dùng ở 1 trang.
 - [x] `/media/905d4d978f9e395edf71.jpg` → `/brand-media/cnc-components-vankim.png` — dùng ở 2 trang.
@@ -206,6 +211,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/7e949ad631196746b670.jpg` — Không có watermark cũ.
+- [—] `/media/26305ae25b64637851d0.jpg` — Không có watermark cũ.
+- [—] `/media/ad35355013377ba38b45.jpg` — Không có watermark cũ.
 - [—] `/media/3f9845aa433aa4c7c152.jpg` — Không có watermark cũ.
 - [—] `/media/cab10c8313c9804f1dbe.jpg` — Không có watermark cũ.
 - [—] `/media/ae3734bbb8475ad5e0d6.jpg` — Không có watermark cũ.
@@ -1515,14 +1523,14 @@ Cập nhật: 2026-10-27.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/1627d889f5c6c3548899.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tam-tphcm(1).jpg
-  - [ ] `/media/f628b02ceb5580cc737a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(2).jpg
-  - [ ] `/media/78f4af257629173a9986.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-1(1).jpg
-  - [ ] `/media/f3975fd42884a23e439f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-2.jpg
-  - [ ] `/media/7e949ad631196746b670.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chi-tiet-may(1).jpg
-  - [ ] `/media/cd521a1598723c27efbd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-3.jpg
-  - [ ] `/media/26305ae25b64637851d0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tphcm(1).jpg
-  - [ ] `/media/c5e576a33412824e740e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-4.jpg
-  - [ ] `/media/ad35355013377ba38b45.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(3).jpg
+  - [x] `/media/f628b02ceb5580cc737a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(2).jpg
+  - [x] `/media/78f4af257629173a9986.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-1(1).jpg
+  - [x] `/media/f3975fd42884a23e439f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-2.jpg
+  - [—] `/media/7e949ad631196746b670.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-chi-tiet-may(1).jpg
+  - [x] `/media/cd521a1598723c27efbd.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-3.jpg
+  - [—] `/media/26305ae25b64637851d0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-tphcm(1).jpg
+  - [x] `/media/c5e576a33412824e740e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-4.jpg
+  - [—] `/media/ad35355013377ba38b45.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai(3).jpg
   - [ ] `/media/e446673d6c599f4a91cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-5.jpg
   - [ ] `/media/a2c585436a350d6d59d1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-6.jpg
   - [ ] `/media/ceeaae879816a259c9f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-kim-loai-7.jpg
