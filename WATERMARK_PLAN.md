@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 279 ảnh đã có bản thay thế được duyệt.
-- 187 ảnh đã kiểm tra, không có watermark cũ.
+- 191 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -301,6 +301,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/535a2c446db5aae2fd70.jpg` — Không có watermark cũ.
+- [—] `/media/9d9b4c6747e4771a6477.jpg` — Không có watermark cũ; trùng ảnh đã kiểm tra sạch.
+- [—] `/media/f8ee787276f51b5c3991.jpg` — Không có watermark cũ.
+- [—] `/media/904a3089d00bc556cf1d.jpg` — Không có watermark cũ.
 - [—] `/media/fe69d50f87fb1ddeca0b.jpg` — Không có watermark cũ.
 - [—] `/media/4a7020ba9cef3ff4d5e5.jpg` — Không có watermark cũ; trùng ảnh vỏ máy đã kiểm tra sạch.
 - [—] `/media/87bafd8736555f4e6eaa.jpg` — Không có watermark cũ.
@@ -1853,11 +1857,11 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-co-khi-quan-8-doi-tac-tin-cay-uy-tin-273.html`
 - Ảnh cần rà: 14
-  - [ ] `/media/535a2c446db5aae2fd70.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20089292.jpg
+  - [—] `/media/535a2c446db5aae2fd70.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20089292.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/9d9b4c6747e4771a6477.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-1.jpg
-  - [ ] `/media/f8ee787276f51b5c3991.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-2.jpg
-  - [ ] `/media/904a3089d00bc556cf1d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-3.jpg
+  - [—] `/media/9d9b4c6747e4771a6477.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-1.jpg
+  - [—] `/media/f8ee787276f51b5c3991.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-2.jpg
+  - [—] `/media/904a3089d00bc556cf1d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-3.jpg
   - [ ] `/media/7de3229efdc5c84e9a08.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-7.jpg
   - [ ] `/media/d0f05c194bdc2e73538c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-6.jpg
   - [ ] `/media/401ea327b042781477db.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-8-4.jpg
@@ -2995,7 +2999,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/54674b74b2fad25f1f53.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/upload/news/80391050.jpg
   - [ ] `/media/13b83490527a73d1c937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/32946114/dich-vu-gia-cong-co-khi-quan-11-theo-yeu-cau.jpg
   - [—] `/media/2ffc3b771eefeaf80628.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32946114.jpg
-  - [ ] `/media/535a2c446db5aae2fd70.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20089292.jpg
+  - [—] `/media/535a2c446db5aae2fd70.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/20089292.jpg
   - [ ] `/media/c2379269ffdf7b9b0453.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/12895665/gia-cong-co-khi-quan-6-dich-vu-chuyen-nghiep-uy-tin.jpg
   - [—] `/media/e35ac31cc2de00107e83.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/12895665.jpg
   - [ ] `/media/276fece597673368b13f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/60384607/dich-vu-gia-cong-co-khi-quan-5-theo-yeu-cau.jpg
