@@ -173,6 +173,11 @@ const checkedClean={
  ,'/media/71c2ca11337fac781b19.jpg':'Ảnh minh hoạ chính sách đổi trả, không có watermark cũ.'
  ,'/media/3d7cfd23e457aae68ca6.jpg':'Ảnh minh hoạ giao nhận, không có watermark cũ.'
  ,'/media/6ad8b1341a3e83f5f0b6.png':'Ảnh minh hoạ thanh toán, không có watermark cũ.'
+ ,'/media/45058944ee2993cf9058.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
+ ,'/media/07c870fbc0dae2ea03c8.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
+ ,'/media/803f311f1a77e0f248bc.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
+ ,'/media/479c8c7f98718b8058d9.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
+ ,'/media/ce2ccd1071cc894585a5.jpg':'Ảnh chi tiết nhựa in 3D, không có watermark cũ.'
 };
 const needsSource={
  '/media/9e151baf1992fd681031.jpg':'Ảnh nguồn không được import vì URL gốc trả HTTP 404; cần ảnh gốc mới nếu muốn hiển thị.'
