@@ -6,6 +6,9 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/344cde05df7b1882044b.jpg':'/brand-media/cnc-tool-holder-cluster-vankim.png',
+ '/media/ef8b7bb5c83461ef9559.jpg':'/brand-media/cnc-tool-holders-closeup-vankim.png',
+ '/media/a37bc98d40d4aa3e2d20.jpg':'/brand-media/milling-workshop-operator-vankim.png',
  '/media/6e3bcced447f04479a05.jpg':'/brand-media/cnc-turning-machine-interior-vankim.png',
  '/media/6edaddf6b31ab95e8ee9.jpg':'/brand-media/black-turned-shafts-and-bushings-vankim.png',
  '/media/43ba3820aa15fcc60688.jpg':'/brand-media/precision-turning-chuck-vankim.png',
