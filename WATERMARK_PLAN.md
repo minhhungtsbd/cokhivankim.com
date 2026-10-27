@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 141 ảnh đã có bản thay thế được duyệt.
+- 142 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -160,6 +160,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/fba1cdb64b0d2a400c50.jpg` → `/brand-media/cnc-scrollwork-panels-vankim.png` — dùng ở 1 trang.
 - [x] `/media/488dd7632624acd2c773.jpg` → `/brand-media/cnc-floral-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e0b1d3b48021376ac890.jpg` → `/brand-media/cnc-bird-panel-vankim.png` — dùng ở 2 trang.
+- [x] `/media/a66bb7ce3e1c30a1c65b.jpg` → `/brand-media/cnc-perforated-screen-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -886,7 +887,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/9b23ab92762174a44542.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-6.jpg
   - [ ] `/media/17b81bd0491bee823702.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-sat-.jpg
   - [x] `/media/e0b1d3b48021376ac890.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai-tam-tphcm.jpg
-  - [ ] `/media/a66bb7ce3e1c30a1c65b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-kim-loai-tap.jpg
+  - [x] `/media/a66bb7ce3e1c30a1c65b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-kim-loai-tap.jpg
   - [ ] `/media/942c7203b02b155251a4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-cnc-kim-loai(2).jpg
   - [ ] `/media/3bb2a62a8b709eda7ab8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-cnc(1).jpg
   - [ ] `/media/148cf5deb8daeb6ee92e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-sat.jpg
