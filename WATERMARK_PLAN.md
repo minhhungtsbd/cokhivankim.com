@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 136 ảnh đã có bản thay thế được duyệt.
+- 137 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -151,6 +151,7 @@ Cập nhật: 2026-10-27.
 - [x] `/media/96284729f5765cf01938.jpg` → `/brand-media/laser-cut-decorative-sheets-vankim.png` — dùng ở 4 trang.
 - [x] `/media/dcee69a57523e490d22d.jpg` → `/brand-media/laser-cutting-machine-vankim.png` — dùng ở 2 trang.
 - [x] `/media/52199ffe7af5ff4fd047.jpg` → `/brand-media/precision-machined-parts-vankim.png` — dùng ở 2 trang.
+- [x] `/media/544d59e70f8802d5c6b1.jpg` → `/brand-media/precision-machined-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f9b1a76fd44f65dd70f6.jpg` → `/brand-media/precision-welding-vankim.png` — dùng ở 1 trang.
 - [x] `/media/4c5ba0dfcb57b901bea4.jpg` → `/brand-media/machined-flanges-vankim.png` — dùng ở 1 trang.
 - [x] `/media/cf79b939336cf9130038.jpg` → `/brand-media/cnc-machined-brackets-vankim.png` — dùng ở 1 trang.
@@ -990,14 +991,14 @@ Cập nhật: 2026-10-27.
   - [—] `/media/a75ba14e16d31cb66565.jpg` — dùng ở 8 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v43-banh-rang.jpg
   - [—] `/media/70b962d41b5e7858fdca.jpg` — dùng ở 5 trang — nguồn: https://cokhitonghop.vn/upload/news/kh-in3d-v44-ong-gio.jpg
 
-### [ ] Công ty gia công cơ khí chính xác tại Bình Dương
+### [x] Công ty gia công cơ khí chính xác tại Bình Dương
 
 - Route: `/tin-tuc/cong-ty-gia-cong-co-khi-chinh-xac-tai-binh-duong-179.html`
 - Ảnh cần rà: 14
   - [x] `/media/52199ffe7af5ff4fd047.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/46938674.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/f9b1a76fd44f65dd70f6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cong-ty-co-khi-tphcm.jpg
-  - [ ] `/media/544d59e70f8802d5c6b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-phay-cnc.jpg
+  - [x] `/media/544d59e70f8802d5c6b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-phay-cnc.jpg
   - [x] `/media/4c5ba0dfcb57b901bea4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-tien-cnc.jpg
   - [x] `/media/cf79b939336cf9130038.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/san-pham-co-khi-cnc.jpg
   - [x] `/media/a671d23b3c91134af9e6.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-gia-cong-co-khi-hien-dai.jpg
