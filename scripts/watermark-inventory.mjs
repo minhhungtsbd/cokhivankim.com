@@ -295,6 +295,10 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/7b55baec4f3ef557a227.jpg':'Không có watermark cũ.',
+ '/media/561c9c9d3decc6447892.jpg':'Không có watermark cũ; trùng ảnh đã kiểm tra sạch.',
+ '/media/f86785487090e4cb3f3c.jpg':'Không có watermark cũ.',
+ '/media/bfca93091803bc7ddda5.jpg':'Không có watermark cũ.',
  '/media/176fc1d97cc670ed13fe.jpg':'Không có watermark cũ.',
  '/media/200aa2048a68b68cfde2.jpg':'Không có watermark cũ.',
  '/media/bea381620244a0d6344e.jpg':'Không có watermark cũ.',
