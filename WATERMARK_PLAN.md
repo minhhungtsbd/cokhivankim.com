@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 351 ảnh đã có bản thay thế được duyệt.
+- 354 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/106a805647efd3c26b4a.jpg` → `/brand-media/stainless-bent-samples-vankim.png` — dùng ở 1 trang.
+- [x] `/media/1f4245ca4d61218f5d71.jpg` → `/brand-media/stainless-fabricated-panels-vankim.png` — dùng ở 1 trang.
+- [x] `/media/984e7d94d8b8827085a2.jpg` → `/brand-media/stacked-stainless-trays-vankim.png` — dùng ở 1 trang.
 - [x] `/media/66cc223419890acda822.jpg` → `/brand-media/stainless-tubes-and-profiles-vankim.png` — dùng ở 2 trang.
 - [x] `/media/0998212460a8063a0ef0.jpg` → `/brand-media/laser-cut-stainless-brackets-vankim.png` — dùng ở 1 trang.
 - [x] `/media/959a5e8755776a282a8a.jpg` → `/brand-media/stacked-bent-stainless-panels-vankim.png` — dùng ở 1 trang.
@@ -2303,9 +2306,9 @@ Cập nhật: 2026-10-27.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/0998212460a8063a0ef0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-tren-inox.jpg
   - [x] `/media/959a5e8755776a282a8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-inox.jpg
-  - [ ] `/media/106a805647efd3c26b4a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-bao-chan-inox-01.jpg
-  - [ ] `/media/1f4245ca4d61218f5d71.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-sat-thep-inox.jpg
-  - [ ] `/media/984e7d94d8b8827085a2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox.jpg
+  - [x] `/media/106a805647efd3c26b4a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-bao-chan-inox-01.jpg
+  - [x] `/media/1f4245ca4d61218f5d71.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-sat-thep-inox.jpg
+  - [x] `/media/984e7d94d8b8827085a2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox.jpg
   - [ ] `/media/ff29a51c34ec4bcee63b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-1.jpg
   - [ ] `/media/1678337d0aed1b96c181.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-3-1.jpg
   - [ ] `/media/b436b1afd57618d688b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox-theo-yeu-cau-1.jpg

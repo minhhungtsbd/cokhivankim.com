@@ -4,6 +4,9 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/106a805647efd3c26b4a.jpg':'/brand-media/stainless-bent-samples-vankim.png',
+ '/media/1f4245ca4d61218f5d71.jpg':'/brand-media/stainless-fabricated-panels-vankim.png',
+ '/media/984e7d94d8b8827085a2.jpg':'/brand-media/stacked-stainless-trays-vankim.png',
  '/media/66cc223419890acda822.jpg':'/brand-media/stainless-tubes-and-profiles-vankim.png',
  '/media/0998212460a8063a0ef0.jpg':'/brand-media/laser-cut-stainless-brackets-vankim.png',
  '/media/959a5e8755776a282a8a.jpg':'/brand-media/stacked-bent-stainless-panels-vankim.png',
