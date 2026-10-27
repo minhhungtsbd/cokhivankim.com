@@ -14,11 +14,14 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 348 ảnh đã có bản thay thế được duyệt.
+- 351 ảnh đã có bản thay thế được duyệt.
 - 258 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/66cc223419890acda822.jpg` → `/brand-media/stainless-tubes-and-profiles-vankim.png` — dùng ở 2 trang.
+- [x] `/media/0998212460a8063a0ef0.jpg` → `/brand-media/laser-cut-stainless-brackets-vankim.png` — dùng ở 1 trang.
+- [x] `/media/959a5e8755776a282a8a.jpg` → `/brand-media/stacked-bent-stainless-panels-vankim.png` — dùng ở 1 trang.
 - [x] `/media/fecb3c4414f1e6696cd1.jpg` → `/brand-media/white-gold-dragon-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e1263fad0b39e8f47184.jpg` → `/brand-media/gold-four-panel-floral-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/336af5c7e36210144d8b.jpg` → `/brand-media/gray-white-floral-gate-vankim.png` — dùng ở 1 trang.
@@ -2296,10 +2299,10 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/gia-cong-inox-theo-yeu-cau-tphcm-xuong-gia-cong-inox-gia-re-212.html`
 - Ảnh cần rà: 18
-  - [ ] `/media/66cc223419890acda822.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/13195708.jpg
+  - [x] `/media/66cc223419890acda822.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/13195708.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/0998212460a8063a0ef0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-tren-inox.jpg
-  - [ ] `/media/959a5e8755776a282a8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-inox.jpg
+  - [x] `/media/0998212460a8063a0ef0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-tren-inox.jpg
+  - [x] `/media/959a5e8755776a282a8a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/chan-gap-inox.jpg
   - [ ] `/media/106a805647efd3c26b4a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-bao-chan-inox-01.jpg
   - [ ] `/media/1f4245ca4d61218f5d71.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chan-sat-thep-inox.jpg
   - [ ] `/media/984e7d94d8b8827085a2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-inox.jpg
@@ -3290,7 +3293,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/fffca3a9e07788236ba1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/16608075/dong-ho-treo-tuong-trang-tri-phong-khach-gia-xuong-ship-toan-quoc.jpg
   - [—] `/media/e8a16b95bed931f4e0fd.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/16608075.jpg
   - [ ] `/media/36ece80e8ef6951aa5b4.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/13195708/gia-cong-inox-theo-yeu-cau-tphcm-xuong-gia-cong-inox-gia-re.jpg
-  - [ ] `/media/66cc223419890acda822.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/13195708.jpg
+  - [x] `/media/66cc223419890acda822.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/13195708.jpg
   - [ ] `/media/7d03d0bf41cbf620a81a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/21057247/gia-cong-co-khi-go-vap-gia-cong-co-khi-theo-yeu-cau.jpg
   - [x] `/media/0285a9cb866c70d16bc9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/21057247.jpg
   - [ ] `/media/ac44f523f9d7f2073937.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/22608188/gia-cong-cat-laser-kim-loai-tam-tphcm-cat-cnc-kim-loai-gia-re.jpg
