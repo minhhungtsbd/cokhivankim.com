@@ -6,6 +6,8 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/1c6e5815b7339ec90946.jpg':'/brand-media/laser-cutting-sparks-vankim.png',
+ '/media/16c3c9c6d64a3cb49a3a.jpg':'/brand-media/cnc-ornate-gate-vankim.png',
  '/media/c66db623ad083fd7d31d.jpg':'/brand-media/turned-metal-components-vankim.png',
  '/media/78fcba59a75c3ea50bf4.jpg':'/brand-media/turned-metal-components-vankim.png',
  '/media/c494847f2c8fc08a15a6.jpg':'/brand-media/laser-bent-brackets-vankim.png',
@@ -394,6 +396,10 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/08b4670394dd72743c81.jpg':'Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.',
+ '/media/040f74c912a80ad7f6b1.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/ff8b38e0f07a32388711.jpg':'Không có watermark cũ; ảnh thang máy trùng nội dung, kiểm tra trực quan.',
+ '/media/4730cec0ce6031e98c81.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/0b3fbf62bd151ca77e55.jpg':'Không có watermark cũ; ảnh cabin thang máy, kiểm tra trực quan.',
  '/media/14cab6e0fe51d04a7373.jpg':'Không có watermark cũ; ảnh cabin thang máy trùng nội dung, kiểm tra trực quan.',
  '/media/46838be6f1e1158ccad8.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',

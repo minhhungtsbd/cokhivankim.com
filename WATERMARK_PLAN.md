@@ -14,11 +14,13 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 380 ảnh đã có bản thay thế được duyệt.
-- 481 ảnh đã kiểm tra, không có watermark cũ.
+- 382 ảnh đã có bản thay thế được duyệt.
+- 485 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/1c6e5815b7339ec90946.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
+- [x] `/media/16c3c9c6d64a3cb49a3a.jpg` → `/brand-media/cnc-ornate-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c66db623ad083fd7d31d.jpg` → `/brand-media/turned-metal-components-vankim.png` — dùng ở 2 trang.
 - [x] `/media/78fcba59a75c3ea50bf4.jpg` → `/brand-media/turned-metal-components-vankim.png` — dùng ở 1 trang.
 - [x] `/media/c494847f2c8fc08a15a6.jpg` → `/brand-media/laser-bent-brackets-vankim.png` — dùng ở 4 trang.
@@ -402,6 +404,10 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/08b4670394dd72743c81.jpg` — Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.
+- [—] `/media/040f74c912a80ad7f6b1.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/ff8b38e0f07a32388711.jpg` — Không có watermark cũ; ảnh thang máy trùng nội dung, kiểm tra trực quan.
+- [—] `/media/4730cec0ce6031e98c81.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/0b3fbf62bd151ca77e55.jpg` — Không có watermark cũ; ảnh cabin thang máy, kiểm tra trực quan.
 - [—] `/media/14cab6e0fe51d04a7373.jpg` — Không có watermark cũ; ảnh cabin thang máy trùng nội dung, kiểm tra trực quan.
 - [—] `/media/46838be6f1e1158ccad8.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
@@ -3529,14 +3535,14 @@ Cập nhật: 2026-10-27.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/73385c841eb10fa3d8a8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/90600031/thiet-ke-thi-cong-thang-may-gia-dinh-quan-3.jpg
-  - [ ] `/media/08b4670394dd72743c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/90600031.jpg
-  - [ ] `/media/040f74c912a80ad7f6b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/28175722/thi-cong-thang-may-gia-dinh-quan-2-gia-re.jpg
-  - [ ] `/media/ff8b38e0f07a32388711.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/28175722.jpg
-  - [ ] `/media/4730cec0ce6031e98c81.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/30110262/lap-dat-thang-may-gia-dinh-quan-1-uy-tin.jpg
+  - [—] `/media/08b4670394dd72743c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/90600031.jpg
+  - [—] `/media/040f74c912a80ad7f6b1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/28175722/thi-cong-thang-may-gia-dinh-quan-2-gia-re.jpg
+  - [—] `/media/ff8b38e0f07a32388711.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/28175722.jpg
+  - [—] `/media/4730cec0ce6031e98c81.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/30110262/lap-dat-thang-may-gia-dinh-quan-1-uy-tin.jpg
   - [—] `/media/ca088d4df2b34444fa1c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/30110262.jpg
-  - [ ] `/media/1c6e5815b7339ec90946.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/54621017/gia-cong-cat-thep-tam-theo-yeu-cau-tphcm.jpg
+  - [x] `/media/1c6e5815b7339ec90946.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/54621017/gia-cong-cat-thep-tam-theo-yeu-cau-tphcm.jpg
   - [x] `/media/421992b47bce74a3de09.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/54621017.jpg
-  - [ ] `/media/16c3c9c6d64a3cb49a3a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/10587743/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc.jpg
+  - [x] `/media/16c3c9c6d64a3cb49a3a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/10587743/gia-cong-cua-cong-sat-cat-cnc-tai-tphcm-mau-cong-sat-cnc.jpg
   - [x] `/media/cf6711aaa9092f5e3c20.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/10587743.jpg
   - [ ] `/media/2f049d5006fa4fa95c05.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33458472/gia-cong-chan-dap-thep-tam-tphcm-cat-dap-chan-uon.jpg
   - [x] `/media/e99ca40a78f78679bd79.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33458472.jpg
@@ -3643,7 +3649,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/thi-cong-thang-may-gia-dinh-quan-2-gia-re-220.html`
 - Ảnh cần rà: 17
-  - [ ] `/media/ff8b38e0f07a32388711.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/28175722.jpg
+  - [—] `/media/ff8b38e0f07a32388711.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/28175722.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/1117913b12b330616f3d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-2-6.jpg
   - [ ] `/media/c264bbdb09405ff4333d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-2-1.jpg
@@ -3708,7 +3714,7 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/thiet-ke-thi-cong-thang-may-gia-dinh-quan-3-221.html`
 - Ảnh cần rà: 16
-  - [ ] `/media/08b4670394dd72743c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/90600031.jpg
+  - [—] `/media/08b4670394dd72743c81.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/90600031.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [ ] `/media/66950c4b363ac94ef027.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-20.jpg
   - [ ] `/media/cd1cd7a37ca62b117762.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-11.jpg
