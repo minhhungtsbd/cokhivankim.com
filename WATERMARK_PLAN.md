@@ -14,11 +14,12 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 170 ảnh đã có bản thay thế được duyệt.
+- 171 ảnh đã có bản thay thế được duyệt.
 - 62 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/35fa08ef4bbffa979e10.jpg` → `/brand-media/cnc-floral-panel-vankim.png` — dùng ở 2 trang.
 - [x] `/media/abab0d2bcb783b8cd7bf.jpg` → `/brand-media/cnc-bird-bamboo-panels-vankim.png` — dùng ở 1 trang.
 - [x] `/media/4aa69ecb877a23c3153f.jpg` → `/brand-media/cnc-bronze-geometric-gate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/8de86a515dd52ee0ef7e.jpg` → `/brand-media/cnc-black-gold-gate-vankim.png` — dùng ở 1 trang.
@@ -943,11 +944,11 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Cắt Hoa Văn Sắt CNC TPHCM – Mẫu Cửa Sắt Cổng Sắt CNC
+### [x] Cắt Hoa Văn Sắt CNC TPHCM – Mẫu Cửa Sắt Cổng Sắt CNC
 
 - Route: `/tin-tuc/cat-hoa-van-sat-cnc-tphcm-mau-cua-sat-cong-sat-cnc-207.html`
 - Ảnh cần rà: 15
-  - [ ] `/media/35fa08ef4bbffa979e10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/62776837.jpg
+  - [x] `/media/35fa08ef4bbffa979e10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/62776837.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/c27f115857ef411019ce.jpg` — dùng ở 6 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-hoa-van-trang-tri.jpg
@@ -2933,7 +2934,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/25342349f6391b3ae17f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/81205835/cat-cnc-kim-loai-va-cat-cnc-sat-thep-tam-tai-tphcm.jpg
   - [x] `/media/7edbb0e70fee2c0b7c3f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/81205835.jpg
   - [ ] `/media/6473c20966f02f8710a5.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/62776837/cat-hoa-van-sat-cnc-tphcm-mau-cua-sat-cong-sat-cnc.jpg
-  - [ ] `/media/35fa08ef4bbffa979e10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/62776837.jpg
+  - [x] `/media/35fa08ef4bbffa979e10.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/62776837.jpg
   - [ ] `/media/fe91e5cbbdb36c487429.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/44311223/cat-laser-kim-loai-thu-duc-cat-laser-sat-thep-inox-gia-re.jpg
   - [x] `/media/a04eab3573aa39f7d28c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/44311223.jpg
   - [ ] `/media/966ff5109cea6a61140c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/43261773/dich-vu-gia-cong-co-khi-tai-bien-hoa-theo-yeu-cau.jpg
