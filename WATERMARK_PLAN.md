@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 197 ảnh đã có bản thay thế được duyệt.
+- 205 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -25,6 +25,14 @@ Cập nhật: 2026-10-27.
 - [x] `/media/f7e15f9e60c756883a6f.jpg` → `/brand-media/machined-covers-vankim.png` — dùng ở 1 trang.
 - [x] `/media/5e2f88769eb7d1a7c9a4.jpg` → `/brand-media/stacked-metal-parts-vankim.png` — dùng ở 1 trang.
 - [x] `/media/421992b47bce74a3de09.jpg` → `/brand-media/laser-sparks-vankim.png` — dùng ở 2 trang.
+- [x] `/media/f7ae1c8505e97e42901e.jpg` → `/brand-media/stacked-metal-boxes-vankim.png` — dùng ở 1 trang.
+- [x] `/media/9ea59647ed571245ab7e.jpg` → `/brand-media/laser-cutting-bed-vankim.png` — dùng ở 1 trang.
+- [x] `/media/5e5a248fa093f3747849.jpg` → `/brand-media/laser-sparks-vankim.png` — dùng ở 1 trang.
+- [x] `/media/8f16fe359d481a268fc1.jpg` → `/brand-media/steel-plate-workshop-vankim.png` — dùng ở 1 trang.
+- [x] `/media/a918b716da99f9b0de06.jpg` → `/brand-media/laser-cut-parts-stack-vankim.png` — dùng ở 1 trang.
+- [x] `/media/4314082e0eb7b3f4038f.jpg` → `/brand-media/sheet-metal-stack-vankim.png` — dùng ở 1 trang.
+- [x] `/media/38303a959bee96135059.jpg` → `/brand-media/aluminum-sheet-stack-vankim.png` — dùng ở 1 trang.
+- [x] `/media/b3a45888d6475e5c7e93.jpg` → `/brand-media/stacked-cut-bars-vankim.png` — dùng ở 1 trang.
 - [x] `/media/115953dbb8a3be4b2c93.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/249dc0e97e376736330f.jpg` → `/brand-media/machined-plate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f628b02ceb5580cc737a.jpg` → `/brand-media/laser-cutting-panels-vankim.png` — dùng ở 1 trang.
@@ -1560,14 +1568,14 @@ Cập nhật: 2026-10-27.
   - [x] `/media/c9d7b61daf91ea9f57a4.jpg` — dùng ở 12 trang — nguồn: https://cokhitonghop.vn/upload/images/banner-cat-laser-kim-loai-goc.jpg
   - [x] `/media/115953dbb8a3be4b2c93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-3.jpg
   - [x] `/media/249dc0e97e376736330f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-5.jpg
-  - [ ] `/media/f7ae1c8505e97e42901e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam.jpg
-  - [ ] `/media/9ea59647ed571245ab7e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam-1.jpg
-  - [ ] `/media/5e5a248fa093f3747849.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam-2.jpg
-  - [ ] `/media/8f16fe359d481a268fc1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-7.jpg
-  - [ ] `/media/a918b716da99f9b0de06.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam-3.jpg
-  - [ ] `/media/4314082e0eb7b3f4038f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day.jpg
-  - [ ] `/media/38303a959bee96135059.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-1.jpg
-  - [ ] `/media/b3a45888d6475e5c7e93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-2.jpg
+  - [x] `/media/f7ae1c8505e97e42901e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam.jpg
+  - [x] `/media/9ea59647ed571245ab7e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam-1.jpg
+  - [x] `/media/5e5a248fa093f3747849.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam-2.jpg
+  - [x] `/media/8f16fe359d481a268fc1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-7.jpg
+  - [x] `/media/a918b716da99f9b0de06.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-laser-thep-tam-3.jpg
+  - [x] `/media/4314082e0eb7b3f4038f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day.jpg
+  - [x] `/media/38303a959bee96135059.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-1.jpg
+  - [x] `/media/b3a45888d6475e5c7e93.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-2.jpg
   - [ ] `/media/56c4ec0c1b03c5b3d831.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-3.jpg
   - [ ] `/media/0dce082da60e19e4d32a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-4.jpg
   - [ ] `/media/8a83df3fbdf1d968d1b7.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/cat-thep-tam-day-5.jpg
