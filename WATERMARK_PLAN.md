@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 176 ảnh đã có bản thay thế được duyệt.
-- 72 ảnh đã kiểm tra, không có watermark cũ.
+- 75 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -198,6 +198,9 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/22c93cea9962a55d7111.jpg` — Không có watermark cũ.
+- [—] `/media/19cc55f83332be18574b.jpg` — Không có watermark cũ.
+- [—] `/media/ddf8a4626d1f549b3397.jpg` — Không có watermark cũ.
 - [—] `/media/2ffc3b771eefeaf80628.jpg` — Không có watermark cũ.
 - [—] `/media/27bf2e01f7628e447780.jpg` — Không có watermark cũ.
 - [—] `/media/0343fa46ba969ce3b330.jpg` — Không có watermark cũ.
@@ -1115,9 +1118,9 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 14
   - [—] `/media/2ffc3b771eefeaf80628.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/32946114.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/ddf8a4626d1f549b3397.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-1.jpg
-  - [ ] `/media/22c93cea9962a55d7111.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-2.jpg
-  - [ ] `/media/19cc55f83332be18574b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-7.jpg
+  - [—] `/media/ddf8a4626d1f549b3397.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-1.jpg
+  - [—] `/media/22c93cea9962a55d7111.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-2.jpg
+  - [—] `/media/19cc55f83332be18574b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-7.jpg
   - [ ] `/media/057b3d9b61371b62ecab.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-6.jpg
   - [ ] `/media/b6060d7963367968255a.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-3.jpg
   - [ ] `/media/6e6ab218a7d198706967.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-quan-11-4.jpg
