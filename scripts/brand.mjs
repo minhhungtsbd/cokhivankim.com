@@ -125,6 +125,9 @@ const imageReplacements={
  ,'/media/ecc3ad4a553f2f0bf6cc.jpg':'/brand-media/wash-machine-10-vankim.png'
  ,'/media/a13e966a2c010cb6cccc.jpg':'/brand-media/wash-machine-11-vankim.png'
  ,'/media/ec65fc7e0939ec5035b6.jpg':'/brand-media/wash-machine-12-vankim.png'
+ ,'/media/8745794b9d4ca6a20a94.jpg':'/brand-media/cnc-turned-tooling-set-vankim.png'
+ ,'/media/001ab6eb57b1ae18c50b.jpg':'/brand-media/cnc-turned-tooling-closeup-vankim.png'
+ ,'/media/4786400505ff1fedbf73.jpg':'/brand-media/cnc-turned-tooling-group-vankim.png'
 };
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')

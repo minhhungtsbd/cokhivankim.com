@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 121 ảnh đã có bản thay thế được duyệt.
+- 124 ảnh đã có bản thay thế được duyệt.
 - 36 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -140,6 +140,9 @@ Cập nhật: 2026-10-27.
 - [x] `/media/ecc3ad4a553f2f0bf6cc.jpg` → `/brand-media/wash-machine-10-vankim.png` — dùng ở 1 trang.
 - [x] `/media/a13e966a2c010cb6cccc.jpg` → `/brand-media/wash-machine-11-vankim.png` — dùng ở 1 trang.
 - [x] `/media/ec65fc7e0939ec5035b6.jpg` → `/brand-media/wash-machine-12-vankim.png` — dùng ở 1 trang.
+- [x] `/media/8745794b9d4ca6a20a94.jpg` → `/brand-media/cnc-turned-tooling-set-vankim.png` — dùng ở 1 trang.
+- [x] `/media/001ab6eb57b1ae18c50b.jpg` → `/brand-media/cnc-turned-tooling-closeup-vankim.png` — dùng ở 1 trang.
+- [x] `/media/4786400505ff1fedbf73.jpg` → `/brand-media/cnc-turned-tooling-group-vankim.png` — dùng ở 1 trang.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
@@ -752,15 +755,15 @@ Cập nhật: 2026-10-27.
   - [x] `/media/13f80559255f88932bfd.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/195890580394/san-pham-tien-cnc.jpg
   - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
 
-### [ ] Sản phẩm tiện CNC
+### [x] Sản phẩm tiện CNC
 
 - Route: `/san-pham/san-pham-tien-cnc-494.html`
 - Ảnh cần rà: 7
   - [x] `/media/bbe296bdcb8b455a96fd.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/195890580394.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/8745794b9d4ca6a20a94.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc(2).jpg
-  - [ ] `/media/001ab6eb57b1ae18c50b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-1(1).jpg
-  - [ ] `/media/4786400505ff1fedbf73.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-2.jpg
+  - [x] `/media/8745794b9d4ca6a20a94.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc(2).jpg
+  - [x] `/media/001ab6eb57b1ae18c50b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-1(1).jpg
+  - [x] `/media/4786400505ff1fedbf73.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/tien-cnc-2.jpg
   - [x] `/media/6bd7044181296be5a385.jpg` — dùng ở 3 trang — nguồn: https://cokhitonghop.vn/thumb/640x480/2/upload/product/075470343649/san-pham-phay-cnc.jpg
   - [x] `/media/8f0a38edd688441d9737.jpg` — dùng ở 4 trang — nguồn: https://cokhitonghop.vn/upload/product/075470343649.jpg
 
