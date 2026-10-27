@@ -6,6 +6,12 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/905d4d978f9e395edf71.jpg':'/brand-media/cnc-components-vankim.png',
+ '/media/745b0fbd95d0ac280c21.jpg':'/brand-media/cnc-machining-tool-vankim.png',
+ '/media/cfe0560147be47966c26.jpg':'/brand-media/cnc-machining-tool-vankim.png',
+ '/media/e7ab2f1693dfc6118641.jpg':'/brand-media/machined-plate-array-vankim.png',
+ '/media/18a1646973d8311ef626.jpg':'/brand-media/cnc-milling-vankim.png',
+ '/media/c3b93936129350151c27.jpg':'/brand-media/machined-components-collage-vankim.png',
  '/media/745b0fbd95d0ac280c21.jpg':'/brand-media/cnc-machining-tool-vankim.png',
  '/media/09954731739ff4badde3.jpg':'/brand-media/stainless-machine-vankim.png',
  '/media/71ed0ce7244877f16528.jpg':'/brand-media/workshop-wheel-machines-vankim.png',
@@ -185,6 +191,9 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/08395c1799986d4ba333.jpg':'Không có watermark cũ.',
+ '/media/18bc4cfad425794d71e6.jpg':'Không có watermark cũ.',
+ '/media/40d4a57a55c94c401b66.jpg':'Không có watermark cũ.',
  '/media/2874face178c5d898dd2.jpg':'Không có watermark cũ; trùng ảnh /media/9ac069ffde63232cdf80.jpg.',
  '/media/1051b8d2f1a356f8a356.jpg':'Không có watermark cũ.',
  '/media/650161b6555e7f0af076.jpg':'Không có watermark cũ.',
