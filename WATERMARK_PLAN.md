@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 346 ảnh đã kiểm tra, không có watermark cũ.
+- 352 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,12 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/3f35a8bcf8de2d583a84.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
+- [—] `/media/2ffcd9a0c2f088e8d1f1.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
+- [—] `/media/6f0d32ef922917e2b33b.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
+- [—] `/media/ac58f919827489bc274f.jpg` — Không có watermark cũ; ảnh khung thang máy, kiểm tra trực quan.
+- [—] `/media/b1333f53e523ddce3c7f.jpg` — Không có watermark cũ; ảnh cabin thang máy, kiểm tra trực quan.
+- [—] `/media/253941f58c0a3fff5f25.jpg` — Không có watermark cũ; ảnh giếng thang máy, kiểm tra trực quan.
 - [—] `/media/820a61d6f6710ceb6e4a.jpg` — Không có watermark cũ; ảnh thang máy nội thất, kiểm tra trực quan.
 - [—] `/media/266858eedc9ae7f6c430.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/0984a17e68da36419fca.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
@@ -2921,7 +2927,7 @@ Cập nhật: 2026-10-27.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Lắp đặt Thang Máy Gia Đình Quận 5 An Toàn Chất Lượng
+### [x] Lắp đặt Thang Máy Gia Đình Quận 5 An Toàn Chất Lượng
 
 - Route: `/tin-tuc/lap-dat-thang-may-gia-dinh-quan-5-an-toan-chat-luong-223.html`
 - Ảnh cần rà: 17
@@ -2931,12 +2937,12 @@ Cập nhật: 2026-10-27.
   - [—] `/media/0984a17e68da36419fca.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-9.jpg
   - [—] `/media/7232f927c0966506d9da.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-2.jpg
   - [—] `/media/8330a779602e40682396.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-8.jpg
-  - [ ] `/media/3f35a8bcf8de2d583a84.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-10.jpg
-  - [ ] `/media/2ffcd9a0c2f088e8d1f1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-3.jpg
-  - [ ] `/media/6f0d32ef922917e2b33b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-4.jpg
-  - [ ] `/media/ac58f919827489bc274f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-7.jpg
-  - [ ] `/media/b1333f53e523ddce3c7f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-5.jpg
-  - [ ] `/media/253941f58c0a3fff5f25.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-6.jpg
+  - [—] `/media/3f35a8bcf8de2d583a84.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-10.jpg
+  - [—] `/media/2ffcd9a0c2f088e8d1f1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-3.jpg
+  - [—] `/media/6f0d32ef922917e2b33b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-4.jpg
+  - [—] `/media/ac58f919827489bc274f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-7.jpg
+  - [—] `/media/b1333f53e523ddce3c7f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-5.jpg
+  - [—] `/media/253941f58c0a3fff5f25.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
