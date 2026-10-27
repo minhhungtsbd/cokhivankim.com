@@ -14,11 +14,17 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 397 ảnh đã có bản thay thế được duyệt.
+- 403 ảnh đã có bản thay thế được duyệt.
 - 489 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
+- [x] `/media/96391213a6ba10feef47.jpg` → `/brand-media/turned-components-layout-vankim.png` — dùng ở 1 trang.
+- [x] `/media/8db31d0c98b45219892d.jpg` → `/brand-media/turned-shafts-and-rings-vankim.png` — dùng ở 1 trang.
+- [x] `/media/fb3f4e43792681b3f490.jpg` → `/brand-media/precision-bushings-vankim.png` — dùng ở 1 trang.
+- [x] `/media/bc3e6146136d09d8fabb.jpg` → `/brand-media/machined-gears-vankim.png` — dùng ở 1 trang.
+- [x] `/media/db272b201f9a8f363be9.jpg` → `/brand-media/machined-bushings-shafts-vankim.png` — dùng ở 1 trang.
+- [x] `/media/1afc48e520229bfcae12.jpg` → `/brand-media/welded-machining-base-vankim.png` — dùng ở 1 trang.
 - [x] `/media/e24789c8626e7892d14e.jpg` → `/brand-media/laser-cut-brackets-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f1c600572fd0ddf6d719.jpg` → `/brand-media/machined-parts-layout-vankim.png` — dùng ở 1 trang.
 - [x] `/media/b5fa9143fca664f43d85.jpg` → `/brand-media/precision-machined-components-vankim.png` — dùng ở 1 trang.
@@ -3578,7 +3584,7 @@ Cập nhật: 2026-10-27.
   - [x] `/media/eebd29e38ec415685836.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/77390565/cat-laser-kim-loai-quan-binh-tan-gia-cong-cat-sat-inox-thep-tam.jpg
   - [x] `/media/0c9a317c947ffae226f0.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/77390565.jpg
 
-### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
+### [x] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
 
 - Route: `/tin-tuc/page/8/`
 - Ảnh cần rà: 26
@@ -3602,11 +3608,11 @@ Cập nhật: 2026-10-27.
   - [x] `/media/806e8e5b994c9addb2b6.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/89125172.jpg
   - [x] `/media/b06dcba33e7f1006db37.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/47049848/gia-cong-co-khi-tai-quan-10-tphcm-co-khi-chinh-xac-gia-re.jpg
   - [x] `/media/6c6a9f7f6cb050916939.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/47049848.jpg
-  - [ ] `/media/96391213a6ba10feef47.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/24734264/gia-cong-co-khi-tai-quan-tan-phu-tphcm-gia-cong-co-khi-chinh-xac-gia-re.jpg
+  - [x] `/media/96391213a6ba10feef47.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/24734264/gia-cong-co-khi-tai-quan-tan-phu-tphcm-gia-cong-co-khi-chinh-xac-gia-re.jpg
   - [x] `/media/65433e293041e47a31ea.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/24734264.jpg
-  - [ ] `/media/8db31d0c98b45219892d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/76591117/gia-cong-co-khi-chinh-xac-quan-binh-thanh-tphcm-uy-tin-chat-luong.jpg
+  - [x] `/media/8db31d0c98b45219892d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/76591117/gia-cong-co-khi-chinh-xac-quan-binh-thanh-tphcm-uy-tin-chat-luong.jpg
   - [x] `/media/8aa33d11294e80797de1.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/76591117.jpg
-  - [ ] `/media/fb3f4e43792681b3f490.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68808210/gia-cong-co-khi-chinh-xac-tai-binh-chanh-tphcm-gia-tot-uy-tin.jpg
+  - [x] `/media/fb3f4e43792681b3f490.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/68808210/gia-cong-co-khi-chinh-xac-tai-binh-chanh-tphcm-gia-tot-uy-tin.jpg
   - [x] `/media/ca7e5fc0a3c490b2a0a5.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/68808210.jpg
 
 ### [ ] Tin tức & kiến thức cơ khí. Hiểu rõ trước khi gia công.
@@ -3615,11 +3621,11 @@ Cập nhật: 2026-10-27.
 - Ảnh cần rà: 14
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/bc3e6146136d09d8fabb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/87230282/gia-cong-co-khi-tai-quan-7-tphcm-gia-cong-chinh-xac-theo-yeu-cau.jpg
+  - [x] `/media/bc3e6146136d09d8fabb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/87230282/gia-cong-co-khi-tai-quan-7-tphcm-gia-cong-chinh-xac-theo-yeu-cau.jpg
   - [x] `/media/08eba1720a856ea6639c.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/87230282.jpg
-  - [ ] `/media/db272b201f9a8f363be9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/49484893/cong-ty-gia-cong-co-khi-quan-9-tphcm-gia-cong-co-khi-chinh-xac.jpg
+  - [x] `/media/db272b201f9a8f363be9.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/49484893/cong-ty-gia-cong-co-khi-quan-9-tphcm-gia-cong-co-khi-chinh-xac.jpg
   - [x] `/media/54d9490f2333b740a397.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/49484893.jpg
-  - [ ] `/media/1afc48e520229bfcae12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33116534/gia-cong-co-khi-tai-thu-duc-co-khi-chinh-xac-tphcm.jpg
+  - [x] `/media/1afc48e520229bfcae12.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/33116534/gia-cong-co-khi-tai-thu-duc-co-khi-chinh-xac-tphcm.jpg
   - [x] `/media/079eb95b4139809abdf8.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/33116534.jpg
   - [ ] `/media/73478e284f7ad69962ab.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/18825378/xuong-gia-cong-co-khi-quan-12-tphcm-gia-cong-co-khi-chinh-xac.jpg
   - [x] `/media/09954731739ff4badde3.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/18825378.jpg

@@ -6,6 +6,12 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/96391213a6ba10feef47.jpg':'/brand-media/turned-components-layout-vankim.png',
+ '/media/8db31d0c98b45219892d.jpg':'/brand-media/turned-shafts-and-rings-vankim.png',
+ '/media/fb3f4e43792681b3f490.jpg':'/brand-media/precision-bushings-vankim.png',
+ '/media/bc3e6146136d09d8fabb.jpg':'/brand-media/machined-gears-vankim.png',
+ '/media/db272b201f9a8f363be9.jpg':'/brand-media/machined-bushings-shafts-vankim.png',
+ '/media/1afc48e520229bfcae12.jpg':'/brand-media/welded-machining-base-vankim.png',
  '/media/e24789c8626e7892d14e.jpg':'/brand-media/laser-cut-brackets-vankim.png',
  '/media/f1c600572fd0ddf6d719.jpg':'/brand-media/machined-parts-layout-vankim.png',
  '/media/b5fa9143fca664f43d85.jpg':'/brand-media/precision-machined-components-vankim.png',
