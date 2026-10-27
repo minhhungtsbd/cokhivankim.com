@@ -14,7 +14,7 @@ Cập nhật: 2026-10-27.
 - 168 trang/bài có ảnh nội dung.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
-- 237 ảnh đã có bản thay thế được duyệt.
+- 245 ảnh đã có bản thay thế được duyệt.
 - 171 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
@@ -65,6 +65,14 @@ Cập nhật: 2026-10-27.
 - [x] `/media/e27816a9d49aca2104cf.jpg` → `/brand-media/precision-flanges-vankim.png` — dùng ở 1 trang.
 - [x] `/media/66a59d67051dc26fdefa.jpg` → `/brand-media/machined-bushings-vankim.png` — dùng ở 1 trang.
 - [x] `/media/886b69e9d787e1f2b86b.jpg` → `/brand-media/precision-components-collage-vankim.png` — dùng ở 1 trang.
+- [x] `/media/f186a33fd4151a6027cb.jpg` → `/brand-media/precision-bushings-vankim.png` — dùng ở 1 trang.
+- [x] `/media/7533735140ab234e2c22.jpg` → `/brand-media/precision-parts-collage-vankim.png` — dùng ở 1 trang.
+- [x] `/media/d506a6b8f1289184dc3f.jpg` → `/brand-media/formed-metal-cabinets-vankim.png` — dùng ở 1 trang.
+- [x] `/media/f94175458edd975fbed2.jpg` → `/brand-media/precision-machined-parts-vankim.png` — dùng ở 1 trang.
+- [x] `/media/7e3e766e15e9cf65f700.jpg` → `/brand-media/cnc-workshop-green-carts-vankim.png` — dùng ở 1 trang.
+- [x] `/media/5796c371d1a5d3021d29.jpg` → `/brand-media/precision-parts-collage-vankim.png` — dùng ở 1 trang.
+- [x] `/media/f12a6e1f3117c315c192.jpg` → `/brand-media/cnc-milling-detail-vankim.png` — dùng ở 1 trang.
+- [x] `/media/8f0aaf9821de7cb16c0d.jpg` → `/brand-media/precision-parts-collage-vankim.png` — dùng ở 1 trang.
 - [x] `/media/115953dbb8a3be4b2c93.jpg` → `/brand-media/laser-cutting-sparks-vankim.png` — dùng ở 1 trang.
 - [x] `/media/249dc0e97e376736330f.jpg` → `/brand-media/machined-plate-vankim.png` — dùng ở 1 trang.
 - [x] `/media/f628b02ceb5580cc737a.jpg` → `/brand-media/laser-cutting-panels-vankim.png` — dùng ở 1 trang.
@@ -1688,14 +1696,14 @@ Cập nhật: 2026-10-27.
   - [x] `/media/e27816a9d49aca2104cf.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-chi-tiet-may.jpg
   - [x] `/media/66a59d67051dc26fdefa.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-1.jpg
   - [x] `/media/886b69e9d787e1f2b86b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi%20(3)(1).jpg
-  - [ ] `/media/f186a33fd4151a6027cb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-2.jpg
-  - [ ] `/media/7533735140ab234e2c22.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-2%20(4).jpg
-  - [ ] `/media/d506a6b8f1289184dc3f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-3.jpg
-  - [ ] `/media/f94175458edd975fbed2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-3%20(4).jpg
-  - [ ] `/media/7e3e766e15e9cf65f700.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-4.jpg
-  - [ ] `/media/5796c371d1a5d3021d29.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-4(1).jpg
-  - [ ] `/media/f12a6e1f3117c315c192.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-5.jpg
-  - [ ] `/media/8f0aaf9821de7cb16c0d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-CNC.jpg
+  - [x] `/media/f186a33fd4151a6027cb.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-2.jpg
+  - [x] `/media/7533735140ab234e2c22.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-2%20(4).jpg
+  - [x] `/media/d506a6b8f1289184dc3f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-3.jpg
+  - [x] `/media/f94175458edd975fbed2.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-3%20(4).jpg
+  - [x] `/media/7e3e766e15e9cf65f700.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-4.jpg
+  - [x] `/media/5796c371d1a5d3021d29.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-4(1).jpg
+  - [x] `/media/f12a6e1f3117c315c192.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-5.jpg
+  - [x] `/media/8f0aaf9821de7cb16c0d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-CNC.jpg
   - [ ] `/media/803aec19a16875faba96.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-6.jpg
   - [ ] `/media/6157066f624e4982f9ee.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/images/chi-tiet-may.jpg
   - [ ] `/media/637abebdf65db4e2cd06.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-chinh-xac-CNC-10.jpg
