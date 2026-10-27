@@ -15,7 +15,7 @@ Cập nhật: 2026-10-27.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 373 ảnh đã có bản thay thế được duyệt.
-- 341 ảnh đã kiểm tra, không có watermark cũ.
+- 346 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -395,6 +395,11 @@ Cập nhật: 2026-10-27.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/820a61d6f6710ceb6e4a.jpg` — Không có watermark cũ; ảnh thang máy nội thất, kiểm tra trực quan.
+- [—] `/media/266858eedc9ae7f6c430.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/0984a17e68da36419fca.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/7232f927c0966506d9da.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
+- [—] `/media/8330a779602e40682396.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/731d8ca7f375264c86d3.jpeg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
 - [—] `/media/bda185582325da14fd26.jpg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
 - [—] `/media/7fc8e49dfa63d8587908.jpeg` — Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.
@@ -2920,12 +2925,12 @@ Cập nhật: 2026-10-27.
 
 - Route: `/tin-tuc/lap-dat-thang-may-gia-dinh-quan-5-an-toan-chat-luong-223.html`
 - Ảnh cần rà: 17
-  - [ ] `/media/820a61d6f6710ceb6e4a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/25146139.jpg
+  - [—] `/media/820a61d6f6710ceb6e4a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/25146139.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/266858eedc9ae7f6c430.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-1.jpg
-  - [ ] `/media/0984a17e68da36419fca.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-9.jpg
-  - [ ] `/media/7232f927c0966506d9da.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-2.jpg
-  - [ ] `/media/8330a779602e40682396.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-8.jpg
+  - [—] `/media/266858eedc9ae7f6c430.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-1.jpg
+  - [—] `/media/0984a17e68da36419fca.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-9.jpg
+  - [—] `/media/7232f927c0966506d9da.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-2.jpg
+  - [—] `/media/8330a779602e40682396.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-8.jpg
   - [ ] `/media/3f35a8bcf8de2d583a84.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-10.jpg
   - [ ] `/media/2ffcd9a0c2f088e8d1f1.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-3.jpg
   - [ ] `/media/6f0d32ef922917e2b33b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/thang-may-gia-dinh-quan-5-4.jpg
@@ -3371,7 +3376,7 @@ Cập nhật: 2026-10-27.
   - [ ] `/media/0b3fbf62bd151ca77e55.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/90954953/thi-cong-lap-dat-thang-may-gia-dinh-quan-6.jpg
   - [ ] `/media/14cab6e0fe51d04a7373.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/90954953.jpg
   - [ ] `/media/46838be6f1e1158ccad8.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/25146139/lap-dat-thang-may-gia-dinh-quan-5-an-toan-chat-luong.jpg
-  - [ ] `/media/820a61d6f6710ceb6e4a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/25146139.jpg
+  - [—] `/media/820a61d6f6710ceb6e4a.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/25146139.jpg
   - [ ] `/media/8717f343d5f97e8f5e4b.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/thumb/800x600/2/upload/news/67210725/thi-cong-thang-may-gia-dinh-quan-4-gia-re.jpg
   - [ ] `/media/914651473e0c3609e54f.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/67210725.jpg
 
