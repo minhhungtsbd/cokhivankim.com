@@ -423,6 +423,12 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/199041b5de3a07d33f5f.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/3fa985f26e4501c4f461.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/729b3d0baf62267b6b6d.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/80e6bdffc719c0e2b6bf.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
+ '/media/e11f2232b65a088c8865.jpg':'Không có watermark cũ; chỉ có dấu camera SHOT ON VSMART LIVE, kiểm tra trực quan.',
+ '/media/c0eda117a63f6a7d17ba.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/5f0a11397e778b56e1b8.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/f4158c29401099b68a3d.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
  '/media/b3dfbf8815732ebad815.jpg':'Không có watermark cũ; ảnh thang máy gia đình, kiểm tra trực quan.',
