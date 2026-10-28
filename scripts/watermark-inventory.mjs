@@ -429,6 +429,19 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/81caf841e01f54160f47.jpg':'Không có watermark cũ; ký hiệu khắc trên phôi là chi tiết sản phẩm.',
+ '/media/55fd34c2372311a6ed79.jpg':'Không có watermark cũ; ảnh chi tiết gia công.',
+ '/media/5252636cadadd07e3e6c.jpg':'Không có watermark cũ; ảnh bánh răng.',
+ '/media/e2ccf201a869041300b0.jpg':'Không có watermark cũ; ảnh chi tiết cắt laser.',
+ '/media/75606b5e03832bd13104.jpg':'Không có watermark cũ; nhãn/ký hiệu sản phẩm không phải watermark cũ.',
+ '/media/ec7656e7ac1282de3689.jpg':'Không có watermark cũ; ảnh chi tiết trang trí cắt laser.',
+ '/media/7f0ce28ee0f6ce20ca3d.jpg':'Không có watermark cũ; ảnh chi tiết gia công.',
+ '/media/202b4d5cdc21f8938c3d.jpg':'Không có watermark cũ; ảnh bánh răng.',
+ '/media/b046215b75bf43b62132.jpg':'Không có watermark cũ; ảnh chi tiết gia công.',
+ '/media/52a1a9b2acc1e4ac536e.jpg':'Không có watermark cũ; ảnh chi tiết gia công.',
+ '/media/70e5932624b8de6c8c78.jpg':'Không có watermark cũ; chữ/nhãn kỹ thuật trên sản phẩm không phải watermark cũ.',
+ '/media/bcc3af36420c8b7f2604.jpg':'Không có watermark cũ; ảnh chi tiết cắt laser.',
+ '/media/6f1636a95e6d0b966dac.png':'Không có watermark cũ; ảnh tuyển dụng.',
  '/media/781a50f51859979c2be3.jpg':'Không có watermark cũ; ảnh chi tiết gia công, kiểm tra trực quan.',
  '/media/dddc57ee00b6342d1c6f.jpg':'Không có watermark cũ; ảnh chi tiết cắt laser, kiểm tra trực quan.',
  '/media/b997a33dfeec449cff93.jpg':'Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.',

@@ -15,7 +15,7 @@ Cập nhật: 2026-10-28.
 - 977 ảnh nội dung riêng biệt cần rà watermark.
 - 214 ảnh được dùng ở từ hai trang trở lên, chỉ cần thay một lần.
 - 415 ảnh đã có bản thay thế được duyệt.
-- 549 ảnh đã kiểm tra, không có watermark cũ.
+- 562 ảnh đã kiểm tra, không có watermark cũ.
 
 ## Trạng thái ảnh đã duyệt
 
@@ -437,6 +437,19 @@ Cập nhật: 2026-10-28.
 
 ## Ảnh đã kiểm tra, không cần thay watermark
 
+- [—] `/media/81caf841e01f54160f47.jpg` — Không có watermark cũ; ký hiệu khắc trên phôi là chi tiết sản phẩm.
+- [—] `/media/55fd34c2372311a6ed79.jpg` — Không có watermark cũ; ảnh chi tiết gia công.
+- [—] `/media/5252636cadadd07e3e6c.jpg` — Không có watermark cũ; ảnh bánh răng.
+- [—] `/media/e2ccf201a869041300b0.jpg` — Không có watermark cũ; ảnh chi tiết cắt laser.
+- [—] `/media/75606b5e03832bd13104.jpg` — Không có watermark cũ; nhãn/ký hiệu sản phẩm không phải watermark cũ.
+- [—] `/media/ec7656e7ac1282de3689.jpg` — Không có watermark cũ; ảnh chi tiết trang trí cắt laser.
+- [—] `/media/7f0ce28ee0f6ce20ca3d.jpg` — Không có watermark cũ; ảnh chi tiết gia công.
+- [—] `/media/202b4d5cdc21f8938c3d.jpg` — Không có watermark cũ; ảnh bánh răng.
+- [—] `/media/b046215b75bf43b62132.jpg` — Không có watermark cũ; ảnh chi tiết gia công.
+- [—] `/media/52a1a9b2acc1e4ac536e.jpg` — Không có watermark cũ; ảnh chi tiết gia công.
+- [—] `/media/70e5932624b8de6c8c78.jpg` — Không có watermark cũ; chữ/nhãn kỹ thuật trên sản phẩm không phải watermark cũ.
+- [—] `/media/bcc3af36420c8b7f2604.jpg` — Không có watermark cũ; ảnh chi tiết cắt laser.
+- [—] `/media/6f1636a95e6d0b966dac.png` — Không có watermark cũ; ảnh tuyển dụng.
 - [—] `/media/781a50f51859979c2be3.jpg` — Không có watermark cũ; ảnh chi tiết gia công, kiểm tra trực quan.
 - [—] `/media/dddc57ee00b6342d1c6f.jpg` — Không có watermark cũ; ảnh chi tiết cắt laser, kiểm tra trực quan.
 - [—] `/media/b997a33dfeec449cff93.jpg` — Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.
@@ -3903,7 +3916,7 @@ Cập nhật: 2026-10-28.
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Xưởng Gia Công Cơ Khí Tại Củ Chi Uy Tín
+### [x] Xưởng Gia Công Cơ Khí Tại Củ Chi Uy Tín
 
 - Route: `/tin-tuc/xuong-gia-cong-co-khi-tai-cu-chi-uy-tin-263.html`
 - Ảnh cần rà: 14
@@ -3911,30 +3924,30 @@ Cập nhật: 2026-10-28.
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
   - [—] `/media/781a50f51859979c2be3.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-1.jpg
   - [—] `/media/dddc57ee00b6342d1c6f.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-2.jpg
-  - [ ] `/media/81caf841e01f54160f47.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-3.jpg
-  - [ ] `/media/55fd34c2372311a6ed79.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-4.jpg
-  - [ ] `/media/5252636cadadd07e3e6c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-6.jpg
-  - [ ] `/media/e2ccf201a869041300b0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-5.jpg
-  - [ ] `/media/75606b5e03832bd13104.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-7.jpg
+  - [—] `/media/81caf841e01f54160f47.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-3.jpg
+  - [—] `/media/55fd34c2372311a6ed79.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-4.jpg
+  - [—] `/media/5252636cadadd07e3e6c.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-6.jpg
+  - [—] `/media/e2ccf201a869041300b0.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-5.jpg
+  - [—] `/media/75606b5e03832bd13104.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-tao-cu-chi-7.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
   - [—] `/media/ce2ccd1071cc894585a5.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-banh-rang-cnc/banh-rang-nhua-in-3d-hay-cnc-so-sanh-de-chon-dung-phuong-an.jpg
   - [—] `/media/479c8c7f98718b8058d9.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-ga-khoan/do-ga-khoan-in-3d-ket-hop-bac-kim-loai-nhung-diem-can-tinh-truoc.jpg
 
-### [ ] Xưởng Gia Công Cơ Khí tại Nhà Bè theo yêu cầu
+### [x] Xưởng Gia Công Cơ Khí tại Nhà Bè theo yêu cầu
 
 - Route: `/tin-tuc/xuong-gia-cong-co-khi-tai-nha-be-theo-yeu-cau-265.html`
 - Ảnh cần rà: 14
   - [—] `/media/3892f0780ca146e926b9.jpg` — dùng ở 2 trang — nguồn: https://cokhitonghop.vn/upload/news/47748129.jpg
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
-  - [ ] `/media/ec7656e7ac1282de3689.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-1.jpg
-  - [ ] `/media/7f0ce28ee0f6ce20ca3d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-2.jpg
-  - [ ] `/media/202b4d5cdc21f8938c3d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-3.jpg
-  - [ ] `/media/b046215b75bf43b62132.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-7.jpg
-  - [ ] `/media/52a1a9b2acc1e4ac536e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-4.jpg
-  - [ ] `/media/70e5932624b8de6c8c78.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-5.jpg
-  - [ ] `/media/bcc3af36420c8b7f2604.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-6.jpg
+  - [—] `/media/ec7656e7ac1282de3689.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-1.jpg
+  - [—] `/media/7f0ce28ee0f6ce20ca3d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-2.jpg
+  - [—] `/media/202b4d5cdc21f8938c3d.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-3.jpg
+  - [—] `/media/b046215b75bf43b62132.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-7.jpg
+  - [—] `/media/52a1a9b2acc1e4ac536e.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-4.jpg
+  - [—] `/media/70e5932624b8de6c8c78.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-5.jpg
+  - [—] `/media/bcc3af36420c8b7f2604.jpg` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/images/gia-cong-co-khi-nha-be-6.jpg
   - [—] `/media/45058944ee2993cf9058.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/in-3d-chi-tiet-nhua-dang-tay-van-theo-lo-khoi-minh/don-hang-in-3d-chi-tiet-nhua-dang-tay-van-tai-khoi-minh.jpg
   - [—] `/media/07c870fbc0dae2ea03c8.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-thu/in-3d-mau-thu-co-khi-kiem-tra-hinh-dang-lap-ghep-va-thiet-ke.jpg
   - [—] `/media/803f311f1a77e0f248bc.jpg` — dùng ở 105 trang — nguồn: https://cokhitonghop.vn/thumb/640x400/2/upload/news/kh-in3d-v44-mau-cu/in-3d-chi-tiet-nhua-theo-mau-cu-can-do-va-xac-nhan-nhung-gi.jpg
@@ -3948,11 +3961,11 @@ Cập nhật: 2026-10-28.
   - [x] `/media/edfcb9597003e3fdd4b7.png` — dùng ở 30 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/774.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
-### [ ] CÔNG TY TNHH CƠ KHÍ KHỞI MINH TUYỂN DỤNG
+### [x] CÔNG TY TNHH CƠ KHÍ KHỞI MINH TUYỂN DỤNG
 
 - Route: `/tuyen-dung/cong-ty-tnhh-co-khi-khoi-minh-tuyen-dung-277.html`
 - Ảnh cần rà: 2
-  - [ ] `/media/6f1636a95e6d0b966dac.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/35058580.png
+  - [—] `/media/6f1636a95e6d0b966dac.png` — dùng ở 1 trang — nguồn: https://cokhitonghop.vn/upload/news/35058580.png
   - [x] `/media/f6b5bf15d8acf9f7a1ba.png` — dùng ở 168 trang — nguồn: https://cokhitonghop.vn/upload/hinhanh/23041154.png
 
 ### [x] Vít Tải - Băng Tải Inox
