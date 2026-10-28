@@ -4,6 +4,10 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ '/media/ac085e565c5e274e8de0.webp':'/brand-media/machine-collage-vankim.png',
+ '/media/59009be75be20ed3d517.webp':'/brand-media/industrial-system-vankim.png',
+ '/media/1ea618043ee50a592695.webp':'/brand-media/metal-frame-vankim.png',
+ '/media/6d2e490d34883790db7b.jpg':'/brand-media/stainless-fabrication-vankim.png',
  '/media/589bb9d363aecf200101.jpg':'/brand-media/sheet-metal-stack-vankim.png',
  '/media/ef7e05afe4becadbf6a5.jpg':'/brand-media/press-brake-operator-vankim.png',
  '/media/4ce199c028e1bf1bbb00.jpg':'/brand-media/sheet-metal-stack-warehouse-vankim.png',
@@ -372,7 +376,7 @@ const imageReplacements={
  ,'/media/70249acd540d50d6dfc6.jpg':'/brand-media/steel-sheet-floral-machine-vankim.png'
  ,'/media/6900240af67277d9e081.jpg':'/brand-media/hopper-tower-vankim.png'
  ,'/media/a7b38f570a8114064666.jpg':'/brand-media/hopper-enclosure-vankim.png'
- ,'/media/6d2e490d34883790db7b.jpg':'/brand-media/hopper-workshop-vankim.png'
+ ,'/media/6d2e490d34883790db7b.jpg':'/brand-media/stainless-fabrication-vankim.png'
  ,'/media/1be635151db24eb88c81.jpg':'/brand-media/gear-collection-vankim.png'
  ,'/media/56c375bb5849e17ea70d.jpg':'/brand-media/gear-rack-collection-vankim.png'
  ,'/media/65ec900cfdce83d06b51.jpg':'/brand-media/gear-set-vankim.png'
@@ -429,7 +433,11 @@ const imageReplacements={
 export function brandText(text){return text
  .replace(/CÔNG TY TNHH CƠ KHÍ KHỞI\s+MINH/gi,'HỘ KINH DOANH VẠN KIM')
  .replace(/Công ty (?:TNHH )?cơ khí Khởi\s+Minh/gi,'Hộ Kinh Doanh Vạn Kim')
- .replace(/KHỞI\s+MINH/g,'VẠN KIM').replace(/Khởi\s+Minh/g,'Vạn Kim').replace(/khởi\s+minh/g,'vạn kim');}
+ .replace(/KHỞI\s+MINH/g,'VẠN KIM').replace(/Khởi\s+Minh/g,'Vạn Kim').replace(/khởi\s+minh/g,'vạn kim')
+ .replace(/cokhitonghop\.vn/gi,'cokhivankim.com').replace(/cokhikhoiminh\.vn/gi,'cokhivankim.com')
+ .replace(/kinhdoanh@cokhitonghop\.vn/gi,'huuhiepck32@gmail.com').replace(/kinhdoanh@cokhivankim\.com/gi,'huuhiepck32@gmail.com')
+ .replace(/34\/12 Trần Minh Quyền,?\s*Phường 11,?\s*Quận 10,?\s*TP\.?HCM/gi,'1127/16E đường Tỉnh lộ 43, khu phố 2, phường Bình Chiểu, TP Thủ Đức, TP.HCM')
+ .replace(/686\/6 QL1A,?\s*KP9,?\s*P\.?\s*Bình Hưng Hòa B,?\s*Q\.?\s*Bình Tân,?\s*TP\.?HCM/gi,'1127/16E đường Tỉnh lộ 43, khu phố 2, phường Bình Chiểu, TP Thủ Đức, TP.HCM');}
 
 export function applyBrand(html,route,contact){
  const $=cheerio.load(brandText(html));
@@ -438,12 +446,19 @@ export function applyBrand(html,route,contact){
   if(node.type!=='text'||['style','script'].includes(node.parent?.name))return;
   let t=node.data;
   if(/0315887642/.test(t))t=t.replace(/(?:Mã số thuế|MST)\s*:?\s*0315887642/gi,'').replace(/0315887642/g,'');
-  if(contact&&/262A|93\/27|Đường Văn Tiến Dũng/i.test(t))t=contact.address;
+  if(contact&&/262A|93\/27|Đường Văn Tiến Dũng|34\/12 Trần Minh Quyền|686\/6 QL1A|Bình Hưng Hòa B|Trần Minh Quyền/i.test(t))t=contact.address;
   t=t.replace(/(?:hệ thống\s*)?3 xưởng/gi,'xưởng').replace(/03\s*xưởng/gi,'Xưởng').replace(/Công ty/g,'Cơ sở').replace(/công ty/g,'cơ sở');
   node.data=t;
  });
  $('.kh-footer-tax,.kh-footer-network,.kh-footer-bct,.kh-fp-quiet,#kh-partners-title').each((_,e)=>{if(e.attribs.id==='kh-partners-title')$(e).closest('section').remove();else $(e).remove();});
  $('a[href]').each((_,e)=>{const a=$(e),href=a.attr('href');if(/facebook\.com|tiktok\.com|online\.gov\.vn|cokhikhoiminh\.com|cokhihanoi\.vn|cokhitphcm\.vn/.test(href))a.remove();if(href==='/ho-so-nang-luc.html')a.remove();});
+ $('[data-href*="facebook.com"],.fb-like-box,.fb-page').remove();
+ $('a[href],link[href],img[src],img[data-src],img[data-original],source[srcset]').each((_,e)=>{
+  const el=$(e);
+  for(const attr of ['href','src','data-src','data-original','srcset']){
+   const value=el.attr(attr); if(value) el.attr(attr,value.replace(/https?:\/\/(?:www\.)?cokhitonghop\.vn/gi,'https://cokhivankim.com').replace(/https?:\/\/(?:www\.)?cokhikhoiminh\.vn/gi,'https://cokhivankim.com'));
+  }
+ });
  $('img').each((_,e)=>{const img=$(e);if(/logo.*(?:Vạn Kim|Khởi Minh)/i.test(img.attr('alt')||''))img.attr('src','/static/vankim-logo.svg').attr('alt','Logo Cơ Khí Vạn Kim').removeAttr('srcset').removeAttr('sizes');});
  $('img, source').each((_,e)=>{
   const element=$(e);
@@ -485,6 +500,7 @@ export function applyBrand(html,route,contact){
   $('a[href*="maps.app.goo.gl"],a[href*="google.com/maps"]').attr('href',contact.maps);
  }
  let result=$.html();
- if(contact)result=result.replace(/0898[ .]?876[ .]?565|0898876565/g,contact.phoneDisplay).replace(/kinhdoanh@cokhitonghop\.vn/gi,contact.email);
+ if(contact)result=result.replace(/0898[ .]?876[ .]?565|0898876565/g,contact.phoneDisplay).replace(/kinhdoanh@cokhitonghop\.vn|kinhdoanh@cokhivankim\.com/gi,contact.email);
+ result=result.replace(/https?:\/\/(?:www\.)?cokhitonghop\.vn/gi,'https://cokhivankim.com').replace(/https?:\/\/(?:www\.)?cokhikhoiminh\.vn/gi,'https://cokhivankim.com').replace(/34\/12 Trần Minh Quyền,?\s*Phường 11,?\s*Quận 10,?\s*TP\.?HCM/gi,contact?.address||'').replace(/686\/6 QL1A,?\s*KP9,?\s*P\.?\s*Bình Hưng Hòa B,?\s*Q\.?\s*Bình Tân,?\s*TP\.?HCM/gi,contact?.address||'');
  return result;
 }
