@@ -460,10 +460,10 @@ export function applyBrand(html,route,contact){
   }
  });
  $('img').each((_,e)=>{const img=$(e);if(/logo.*(?:Vạn Kim|Khởi Minh)/i.test(img.attr('alt')||''))img.attr('src','/static/vankim-logo.svg').attr('alt','Logo Cơ Khí Vạn Kim').removeAttr('srcset').removeAttr('sizes');});
- $('img, source').each((_,e)=>{
+ $('a[href], img, source, [data-src], [data-original]').each((_,e)=>{
   const element=$(e);
   for(const [original,replacement] of Object.entries(imageReplacements)){
-   for(const attribute of ['src','data-src','data-original'])if(element.attr(attribute)===original)element.attr(attribute,replacement);
+   for(const attribute of ['href','src','data-src','data-original'])if(element.attr(attribute)===original)element.attr(attribute,replacement);
    if(element.attr('srcset')?.includes(original))element.attr('srcset',element.attr('srcset').replaceAll(original,replacement));
   }
  });
