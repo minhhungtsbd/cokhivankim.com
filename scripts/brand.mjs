@@ -467,6 +467,13 @@ export function applyBrand(html,route,contact){
    if(element.attr('srcset')?.includes(original))element.attr('srcset',element.attr('srcset').replaceAll(original,replacement));
   }
  });
+ // Remove an imported gallery reference whose source asset is unavailable.
+ $('[src="/media/9e151baf1992fd681031.jpg"], [data-src="/media/9e151baf1992fd681031.jpg"], [data-original="/media/9e151baf1992fd681031.jpg"], [href="/media/9e151baf1992fd681031.jpg"]').each((_,e)=>{
+  const el=$(e);
+  if(el.is('button')) el.remove();
+  else if(el.is('img')) { const button=el.closest('button'); if(button.length) button.remove(); else el.closest('p').remove(); }
+  else el.remove();
+ });
  $('link[rel*="icon"]').attr('href','/static/vankim-logo.svg').attr('type','image/svg+xml');
  $('meta[property="og:image"]').attr('content','/static/vankim-logo.svg');
  $('.kh-brand strong').text('CƠ KHÍ VẠN KIM');
