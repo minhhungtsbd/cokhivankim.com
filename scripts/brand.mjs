@@ -4,6 +4,16 @@ export const intro='Cơ Khí Vạn Kim — Hộ Kinh Doanh Vạn Kim — tiếp 
 // Original imported photos remain untouched in /media.  This map makes every
 // published instance use its approved Vạn Kim-branded replacement instead.
 const imageReplacements={
+ // Homepage product-card derivatives (the imported cards do not retain a
+ // data-original attribute, so map their optimized URLs explicitly).
+ '/media/fdb805665a4316d2de28.webp':'/brand-media/mesh-conveyor-wide-vankim.png',
+ '/media/651c5a1cb35b13449bb3.webp':'/brand-media/mesh-conveyor-wide-vankim.png',
+ '/media/3ab024b0c612c88d4b07.webp':'/brand-media/industrial-hopper-vankim.png',
+ '/media/7311e2078f1de88d7137.webp':'/brand-media/industrial-hopper-vankim.png',
+ '/media/7d7ff2286d19b0cc5258.webp':'/brand-media/steel-pallet-workshop-vankim.png',
+ '/media/8d1ba67f6ed85e48dd6e.webp':'/brand-media/steel-pallet-workshop-vankim.png',
+ '/media/69a7d5ae52393701540e.webp':'/brand-media/wheel-straightener-vankim.png',
+ '/media/d37d7f6f790ff34f4fc2.webp':'/brand-media/wheel-straightener-vankim.png',
  '/media/ac085e565c5e274e8de0.webp':'/brand-media/machine-collage-vankim.png',
  '/media/59009be75be20ed3d517.webp':'/brand-media/industrial-system-vankim.png',
  '/media/1ea618043ee50a592695.webp':'/brand-media/metal-frame-vankim.png',
@@ -463,7 +473,12 @@ export function applyBrand(html,route,contact){
  $('a[href], img, source, [data-src], [data-original]').each((_,e)=>{
   const element=$(e);
   for(const [original,replacement] of Object.entries(imageReplacements)){
-   for(const attribute of ['href','src','data-src','data-original'])if(element.attr(attribute)===original)element.attr(attribute,replacement);
+   let matched=false;
+   for(const attribute of ['href','src','data-src','data-original'])if(element.attr(attribute)===original){element.attr(attribute,replacement);matched=true;}
+   // Optimized thumbnails often keep a transformed src while data-original
+   // points at the source file. Once either is matched, publish the branded
+   // asset as the actual image source too.
+   if(matched && element.is('img')) element.attr('src',replacement).removeAttr('srcset').removeAttr('sizes');
    if(element.attr('srcset')?.includes(original))element.attr('srcset',element.attr('srcset').replaceAll(original,replacement));
   }
  });
