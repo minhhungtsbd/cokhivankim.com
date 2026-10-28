@@ -6,6 +6,10 @@ const root=process.cwd();
 const manifest=JSON.parse(await readFile(resolve(root,'content/manifest.json'),'utf8'));
 const assetSource=new Map(manifest.assets.map(asset=>[asset.file,asset.source]));
 const knownReplacements={
+ '/media/589bb9d363aecf200101.jpg':'/brand-media/sheet-metal-stack-vankim.png',
+ '/media/ef7e05afe4becadbf6a5.jpg':'/brand-media/press-brake-operator-vankim.png',
+ '/media/4ce199c028e1bf1bbb00.jpg':'/brand-media/sheet-metal-stack-warehouse-vankim.png',
+ '/media/c3317ac8690cb1415469.jpg':'/brand-media/press-brake-machine-vankim.png',
  '/media/d89ddd34700f7cbaf4f2.jpg':'/brand-media/press-brake-workshop-vankim.png',
  '/media/d95893ac6f861abcda43.jpg':'/brand-media/laser-workshop-wide-vankim.png',
  '/media/73478e284f7ad69962ab.jpg':'/brand-media/stainless-machine-workshop-vankim.png',
@@ -425,6 +429,8 @@ const knownReplacements={
  ,'/media/3bb2a62a8b709eda7ab8.jpg':'/brand-media/cnc-cutting-machine-vankim.png'
 };
 const checkedClean={
+ '/media/781a50f51859979c2be3.jpg':'Không có watermark cũ; ảnh chi tiết gia công, kiểm tra trực quan.',
+ '/media/dddc57ee00b6342d1c6f.jpg':'Không có watermark cũ; ảnh chi tiết cắt laser, kiểm tra trực quan.',
  '/media/b997a33dfeec449cff93.jpg':'Không có watermark cũ; ảnh thang máy, kiểm tra trực quan.',
  '/media/83b789bdc879d10d9525.jpg':'Không có watermark cũ; ảnh thang máy kính, kiểm tra trực quan.',
  '/media/65d12c047c341ffa2181.jpg':'Không có watermark cũ; ảnh thang máy trang trí, kiểm tra trực quan.',
