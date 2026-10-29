@@ -24,6 +24,20 @@ body.kh-redesign{--kh-dark:#142b45;--kh-ink:#142b45;--kh-gold:#c65312;--kh-muted
 .kh-redesign .kh-brand strong{letter-spacing:.15px!important;font-weight:750!important}
 .kh-redesign .kh-main-photo-wrap,.kh-redesign .kh-proof{border-radius:14px!important;box-shadow:0 10px 30px #142b450d!important}
 .kh-redesign .kh-service-tags a{border-radius:7px!important}
+/* Keep the primary navigation available without covering page content. */
+.kh-redesign .kh-header{overflow:visible!important}
+.kh-redesign .kh-navband{position:sticky!important;top:0;z-index:5000;box-shadow:0 7px 18px #0b1d301f}
+/* Footer: compact the unused lower area and align the four information columns. */
+@media(min-width:1024px){
+ .kh-redesign .kh-footer-main{grid-template-columns:minmax(260px,1.08fr) minmax(255px,1.02fr) minmax(255px,1fr) minmax(210px,.78fr)!important;gap:56px!important;padding:48px 0 30px!important}
+ .kh-redesign .kh-footer-brand{gap:14px!important}
+ .kh-redesign .kh-footer-description{margin:13px 0 17px!important}
+ .kh-redesign .kh-footer-main h2{margin-top:4px!important;margin-bottom:18px!important}
+ .kh-redesign .kh-footer-policies li{margin-bottom:7px!important}
+ .kh-redesign .kh-footer-social-links>a{min-height:62px!important}
+ .kh-redesign .kh-footer-bottom{padding:16px 0 19px!important}
+ .kh-redesign .kh-footer-resources:empty{display:none!important}
+}
 .vk-intro{max-width:850px;font-size:17px;line-height:1.9}
 .vk-info{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin:32px 0}
 .vk-info article{padding:28px;border:1px solid #e1e7ed;border-radius:14px;background:#f5f7fa}
