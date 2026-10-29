@@ -16,6 +16,14 @@
  });
  document.addEventListener('click',e=>{if(!e.target.closest('.kh-navrow'))closeMenu();});
  document.addEventListener('keydown',e=>{if(e.key==='Escape'){const inside=nav?.contains(document.activeElement);closeMenu();if(inside)menu?.focus();}});
+ const navBand=document.querySelector('.kh-navband'),header=document.querySelector('.kh-header');
+ if(navBand&&header){
+  let threshold=0,queued=false;
+  const update=()=>{queued=false;document.body.classList.toggle('kh-nav-fixed',window.scrollY>=threshold);};
+  const measure=()=>{const fixed=document.body.classList.contains('kh-nav-fixed');if(fixed)document.body.classList.remove('kh-nav-fixed');threshold=navBand.getBoundingClientRect().top+window.scrollY;header.style.setProperty('--kh-nav-height',navBand.offsetHeight+'px');if(fixed)update();};
+  const onScroll=()=>{if(!queued){queued=true;requestAnimationFrame(update);}};
+  measure();update();window.addEventListener('scroll',onScroll,{passive:true});window.addEventListener('resize',measure,{passive:true});
+ }
  document.querySelectorAll('form').forEach(form=>form.addEventListener('submit',e=>{e.preventDefault();const query=form.querySelector('input').value.trim();if(query)location.href='/tim-kiem.html?q='+encodeURIComponent(query);}));
  const photo=document.querySelector('#kpd-main-photo'),link=document.querySelector('#kpd-main-link'),box=document.querySelector('.kpd-lightbox');
  document.querySelectorAll('.kpd-thumbnails button').forEach(button=>button.addEventListener('click',()=>{if(!photo||!link)return;photo.src=button.dataset.src;photo.alt=button.dataset.alt||photo.alt;link.href=button.dataset.src;document.querySelectorAll('.kpd-thumbnails button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));}));
