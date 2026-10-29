@@ -8,7 +8,7 @@ MST chưa xác nhận được ẩn. Facebook/TikTok, liên kết hệ thống v
 
 Build và kiểm tra liên kết đã qua; bộ màu mới chưa được kiểm tra trực quan do công cụ trình duyệt bị tắt ở lần cập nhật này.
 
-Website tĩnh tiếng Việt, tái tạo giao diện và nội dung công khai của https://cokhitonghop.vn/ theo yêu cầu chủ dự án. HTML, CSS, ảnh và font nằm trong repository. Không có WordPress, PHP, SQL, form gửi dữ liệu, tải bản vẽ, đa ngôn ngữ hoặc analytics của trang nguồn.
+Website tĩnh tiếng Việt cho Cơ Khí Vạn Kim. HTML, CSS, ảnh và font nằm trong repository. Không có WordPress, PHP, SQL, form gửi dữ liệu, tải bản vẽ, đa ngôn ngữ hoặc analytics.
 
 ## Chạy trên máy
 
@@ -56,7 +56,7 @@ Sau khi deploy thành công, Cloudflare cấp một URL `*.pages.dev`. Thêm `co
 
 - 168 URL nội dung được phát hiện từ sitemap và các liên kết nội bộ, có cả phân trang và một số URL tương đương; không phải 168 bài viết độc lập.
 - Thêm trang tìm kiếm tĩnh và trang 404, tổng cộng 170 HTML.
-- Giữ thông tin, logo, số điện thoại, Zalo, địa chỉ của Cơ Khí Khởi Minh theo trang mẫu. Chưa đổi thương hiệu thành Vạn Kim chỉ từ tên repository.
+- Nội dung xuất bản dùng thương hiệu, hotline, Zalo, email và địa chỉ của Cơ Khí Vạn Kim.
 - Bộ import ghi nhận 68 tài nguyên nguồn trả HTTP 404: 1 ảnh nội dung, phần còn lại là font/ảnh trang trí cũ trong CSS. Build bỏ tham chiếu trang trí lỗi; ảnh nội dung thiếu được hiển thị bằng khung “Hình ảnh đang được cập nhật”. Chi tiết trong `content/manifest.json` → `failures`.
 - Các liên kết Zalo, gọi điện, mạng xã hội, bản đồ và video nhúng vẫn mở dịch vụ bên ngoài. Nội dung trang, ảnh tải được, CSS/font không cần máy chủ cũ.
 - `scripts/import.mjs` chỉ là công cụ thu thập một lần. **Không chạy lại sau khi đã sửa nội dung** trừ khi chủ động muốn nhập lại từ nguồn; build thông thường không chạy importer.
