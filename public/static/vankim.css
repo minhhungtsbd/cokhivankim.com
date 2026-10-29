@@ -30,7 +30,9 @@ body.kh-redesign{--kh-dark:#142b45;--kh-ink:#142b45;--kh-gold:#c65312;--kh-muted
 /* Footer: compact the unused lower area and align the four information columns. */
 @media(min-width:1024px){
  .kh-redesign .kh-footer-main{grid-template-columns:minmax(260px,1.08fr) minmax(255px,1.02fr) minmax(255px,1fr) minmax(210px,.78fr)!important;gap:56px!important;padding:48px 0 30px!important}
- .kh-redesign .kh-footer-brand{gap:14px!important}
+ .kh-redesign .kh-footer-brand{flex-direction:row!important;align-items:center!important;gap:16px!important;min-height:74px}
+ .kh-redesign .kh-footer-logo,.kh-redesign .kh-footer-logo img{width:74px!important;height:74px!important}
+ .kh-redesign .kh-footer-brand strong{max-width:185px!important;font-size:17px!important;line-height:1.35!important}
  .kh-redesign .kh-footer-description{margin:13px 0 17px!important}
  .kh-redesign .kh-footer-main h2{margin-top:4px!important;margin-bottom:18px!important}
  .kh-redesign .kh-footer-policies li{margin-bottom:7px!important}

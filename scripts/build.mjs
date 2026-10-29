@@ -1,10 +1,19 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import * as cheerio from 'cheerio';
 import {applyBrand,brandText} from './brand.mjs';
 const config=JSON.parse(await fs.readFile('site.config.json','utf8'));
 const manifest=JSON.parse(await fs.readFile('content/manifest.json','utf8'));
 const output=path.resolve('dist');
+// Pages caches assets addressed by a stable URL aggressively.  Revision the
+// project CSS in generated HTML so a successful deployment always receives
+// the matching stylesheet instead of a previous browser/edge-cache copy.
+const vankimCssRevision=crypto
+ .createHash('sha256')
+ .update(await fs.readFile('public/static/vankim.css'))
+ .digest('hex')
+ .slice(0,12);
 if(output!==path.join(process.cwd(),'dist'))throw Error('Unsafe output directory');
 await fs.rm(output,{recursive:true,force:true});
 await fs.mkdir(output,{recursive:true});
@@ -35,7 +44,7 @@ function finalize($,route){
  $('[srcset]').each((_,e)=>{const list=$(e).attr('srcset').split(',').filter(v=>!failed.has(v.trim().split(/\s+/)[0]));if(list.length)$(e).attr('srcset',list.join(','));else $(e).removeAttr('srcset');});
  $('a[href]').each((_,e)=>{const v=$(e).attr('href');if(failed.has(v))$(e).attr('href','/lien-he.html');});
  // Preserve original layouts; only shared behavior and small accessibility fixes are new.
- $('head').append('<link rel="stylesheet" href="/static/site.css"><link rel="stylesheet" href="/static/vankim.css"><script src="/static/site.js" defer></script>');
+ $('head').append('<link rel="stylesheet" href="/static/site.css"><link rel="stylesheet" href="/static/vankim.css?v='+vankimCssRevision+'"><script src="/static/site.js" defer></script>');
  $('body').prepend('<a class="skip-link" href="#main">Bỏ qua menu, đến nội dung</a>');
  return $.html();
 }
